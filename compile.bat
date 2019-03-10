@@ -92,5 +92,6 @@ rhcomp.exe Graphics/Drums/cc6ccc_drums_map.bin
 rhcomp.exe Graphics/MusicSelect/CD62EC_musicselect_map.bin
 rhcomp.exe Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
 armips.exe compile.asm -sym mysym.sym
+flips.exe --apply "Font Hack 4 - 1px spacer.ips" "Game\rh-eng.gba"
 pause
 goto compile
