@@ -4977,7 +4977,7 @@ I can't sell this![;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marching Order[;
+Marching Orders[;
 #WRITE(RtPtr, $9CE60C)
 // 0x805360c
 //行進をするのだ。[l
@@ -10856,7 +10856,7 @@ Eek! You messed up![;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marching Order 2[;
+Marching Orders 2[;
 #WRITE(RtPtr, $9CE62C)
 // 0x805355c
 //行進をするのだ。[l
@@ -15192,7 +15192,7 @@ Spaceball[;
 // --- Literal
 //Marcher[;
 // --- Edited
-MarchingOrder[;
+MarchingOrders[;
 #WRITE(RtPtr, $9D825C)
 // 0x8059114
 //まほうつかい[;
