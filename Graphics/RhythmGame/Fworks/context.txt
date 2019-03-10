@@ -1,0 +1,1 @@
+Name of game, "Fireworks". Characters are on opposite sides of screen, so one could say "Fire" and the second say "Works", or one could say "Fireworks" and the other be blank. The tiles suggest an animation, but the title screen does not appear to be animated (ignore the squashed characters).

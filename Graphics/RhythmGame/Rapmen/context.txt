@@ -1,0 +1,2 @@
+Intro 2 - Title of game, "Rap*Men" (The star can stay as-is). This text fluctuates colors, but is not animated.
+Tile 2 - There's a little japanese character here that appears over the yellow character's head when he does his beatbox sound. This should say "Uh" or "Uh!"

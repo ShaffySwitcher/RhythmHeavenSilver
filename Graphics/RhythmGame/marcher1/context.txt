@@ -1,0 +1,4 @@
+Intro 2 - metallic tiles that spell out the name of the minigame (Marcher)
+Tile 2 - Plate that says "You", A to march, B to stop (stop marching), Left D-pad to "turn left", right d-pad to "turn right"
+
+"Solid" Intro uses characters made from a single plate. "Bolted" intro uses characters made of multiple plates, more like to japanese characters from the japanese intro.

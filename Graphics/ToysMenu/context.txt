@@ -1,0 +1,13 @@
+Tile 1 - This is all scrambled up, so I'll describe how it looks in game - the text at the top with one word in RED means "Collect medals and you'll unlock..." with the red word being Medals. This is used on all the selection screens, so you can copy and reuse it!
+
+The big text near the top means "Rhythm Toys".
+
+The bottom left tells you how many medals you need to unlock the toy you have highlighted. "Need X medals" is a good way to avoid rearranging it. Medals is highlighted in red.
+
+The bottom middle tells you how many medals you've collected. Maybe "Medals: X".
+
+The text with the B can be "Back".
+
+Most of this is reused for the others! Once you get it once just repeat it for the other games.
+
+tile 3 - This text appears for a game you cannot play yet. The first few letters mean "Medal", like the things you collect to unlock games and toys. This most likely says something to the effect of "You need more medals". The same text is reused for toys, games and drum lessons (it's the same sprite sheet) so what you write should apply to all three!

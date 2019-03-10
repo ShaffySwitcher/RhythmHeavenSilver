@@ -1,0 +1,5 @@
+Intro 2 - "Remix 8" or "8th Remix"
+
+Tile 1 - This is used in a couple of the karate man games, but only appears in this one - two large japanese characters appear in the background about halfway through the game. Technically they could stay as they are - they look appropriate for a game about karate. Depending on what they mean, we might prefer to put some english text in their place. Will need some discussion, and for somebody to figure out what they mean!
+
+Tile 2 - Some of the Vegeta-pull segments feature a hand holding a sign to block your view. I don't know what the text on the sign means.

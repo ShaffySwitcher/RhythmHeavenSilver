@@ -1,0 +1,7 @@
+Meow tile 1 - background from the Meow Mixer. Descriptions based on how it looks in-game: the red text up top is "Meow Mixer". The text on the cat's right side (under A and B) is the "Beat". The text on the cat's left side (under the d-pad buttons) is "Effects". The bottom left in the corner is "Select to quit".
+
+Horse tile 2 - There are large characters and tiny characters. The large characters appear at the bottom of the screen and bounce to tell you the hoofbeat you should follow. The tiny characters fly off the hooves of the other horse, and follow the same pattern. Maybe they're onomatopoeia for hoofbeat sounds.
+
+Love tile 1 - Bottom left corner tells you "Select to quit". Super easy! Copy the text from Meow Mixer.
+
+Rap tile 1 - Bottom left is "Select to quit". It's in a black box so it might need to be fitted. The words on the buttons are for the japanese words - "Yo" is "Isn't it?" in our translation. "Sik" is "The BEST". "KMN" is "Could be?". "Uun" and "Un" can be changed to "Uh!" and "Uh". Note that if we can edit sounds, we might change these sound effects to suit the minigame better! It's low on the priority list and might not happen, though.

@@ -1,0 +1,5 @@
+intro 2 - name of game, "Space Dance". Note that the letters appear in individual blocks, and one character is reused. This title may be changed significantly to work with the English name.
+
+Tile2 - text in a bubble reads "You" (to indicate the player)
+Other text is overlaid on a bubble, and reads "Turn right" or "Right", "Go down/Drop" (like a dance move), and "Punch". The bubble is different sizes for each piece of text.
+The big letter text that says "PUNCH", "RIGHT" and "DROP" in English is not used in the game.

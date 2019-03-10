@@ -1,0 +1,2 @@
+intro 2- name of game, "Quiz". Note the text is animated and has a few frames as it grows to full size.
+tile2 - the text is for "High Score" and "Score". This is used in the Endless Game version of Quiz, and does not appear in the version of the game in Stage 4.

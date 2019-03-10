@@ -1,0 +1,7 @@
+upbeat tile 1 - there are two characters that appear over Mr. Upbeat's head during the whole game. They're not the same as the "You" characters in other games, but it does appear in the main menu next to Mr. Upbeat's picture. I don't think any of the other stuff in this menu is actually used in the game.
+
+Dr. Bacteria - nothing to translate!
+
+Quiz - this text is in the text for the main game, so look there! The top left is the "High Score" or "Hi Score" and the right is the current "Score". You can find it in the Quiz folder under Rhythm Games.
+
+Head tile 1 - There are three things to translate here, mixed up. One is the text from the sign during the practice game. The second is the same sign after you hit select to continue (The text is different). The third and final is over the "NG" (No Good) section of the assembly line, where you fail if you let a head go by. I don't know what any of those things say.

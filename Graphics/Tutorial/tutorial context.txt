@@ -1,0 +1,2 @@
+tiles - borders of printout page from rhythm test
+tiles 2 - text that appears on 'screen' of rhythm tester

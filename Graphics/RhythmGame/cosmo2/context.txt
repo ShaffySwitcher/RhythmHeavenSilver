@@ -1,0 +1,3 @@
+Name of game, "Cosmo Dance". Note that one character is duplicated, so you'll have to work around that.
+
+There's text in the game tiles, but none of it is used so don't worry about it!

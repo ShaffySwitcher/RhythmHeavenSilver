@@ -1,0 +1,3 @@
+intro 2 - name of the game, "Rap<3Women". The font is really similar to Rap Men, so you might be able to copy most of it.
+
+tile 2 - there's two little japanese characters that should say "Uh" or "Uh!". It's the same thing from Rap Men, so just use the same sprite you used there.

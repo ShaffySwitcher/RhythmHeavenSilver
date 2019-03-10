@@ -1,0 +1,2 @@
+intro2 - Name of game "Cheese Heist" (The big fat letters are not used)
+tile2 - "You" is displayed under player at start of level, three characters long

@@ -1,0 +1,9 @@
+This one might be tricky!
+
+http://www.youtube.com/watch?v=lvGTZJ2S2Dw From the Wii version, which is mostly different. Might be useful for the title card.
+
+The intro appears to have two parts - a static tiled background and a sprite that overlaps it. The sprite shows the text laying down. Then the sprite vanishes, and shows the words sitting upright. This will give you some leeway to edit the text since it's all in great big sprites!
+
+Intro 1 - The title of the game, sitting upright. "Built to Scale".
+Intro2 - The same title, but laying down on the ground. "Built to Scale"
+Tile 1 - In the game, text is displayed isometrically. There's a + (like the GBA d-pad) and a letter A (for the A button) then some text that's displayed twice. The text indicates that the d-pad or the a button is what triggers the springs for that row. Something like "to activate" or "button" would convey this. (eg, "A to activate" or "A button"). If the A and d-pad can be moved to the right then "Push A" and "Push +" or "Use A" and "Use +" would be simple and effective.

@@ -1,0 +1,5 @@
+drum menu1 - same as the toys and endless game menus. The big text says "Drum Lessons".
+
+game 1 - there's some text in the lower left that says "Select to quit" or "Select to exit".
+
+game 4 - there's some text here that's used during the recording for drum lessons in the studio / sound test. I need to test that section better to determine what says what.

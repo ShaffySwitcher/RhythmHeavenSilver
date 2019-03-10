@@ -1,0 +1,11 @@
+results - the game has three different 'results' you can get - "Try Again" in spindly lines, "OK" (The two big green characters in the "but okay" screenshot) and "Superb".
+
+In the "But Okay" screenshot there's a little piece of text to the left of the "OK" that means something close to "But still..." or "Still..." to indicate that despite being praised, you still only got an okay rank and not a Superb.
+
+The text in the little bubble under "Superb" means you earned a medal.
+
+The big text bubble says something to the effect of "You were close!" or "Keep on trying!"
+
+Perfect - the japanese text at the top of the perfect window says "Congratulations! You got a perfect!"
+
+Will provide screenshots on request / when these reach the top of the queue

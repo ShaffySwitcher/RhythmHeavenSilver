@@ -1,0 +1,6 @@
+"Resume/Continue" (Unpause)
+"Quit/Menu" (Go back to game select)
+"Pause" (already in english)
+Finger, cracked shell, heart, (symbols do not need editing)
+"Go for a Perfect!" (with ! mark)
+"Push select to skip tutorial" (highlighted against black box)

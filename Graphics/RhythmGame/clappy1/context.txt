@@ -1,0 +1,5 @@
+http://www.youtube.com/watch?v=9YdO4_r0o98 Video of Wii version with title and tile suggestions
+
+intro - name of game, "Clappy Trio" or "The Clappy Trio".
+tile1 - Text may say something like "Clappy Trio". Rhythm Heaven Fever translated this as "Trio Timing!". The 3 is replaced by the 4 for some remixes that use four characters instead of three.
+The smaller text in the box says "You", to indicate the player.

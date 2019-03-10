@@ -1,0 +1,10 @@
+90041C_assembly0.bininfo 
+;Frame Size larger, needs repointing
+.align 2
+X90041C_assembly0:
+.import Directory/90041C_assembly0.bin
+
+.org 0xXXXXXXXX
+.dw X90041C_assembly0
+
+--

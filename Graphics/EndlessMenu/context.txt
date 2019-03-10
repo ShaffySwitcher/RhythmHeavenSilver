@@ -1,0 +1,3 @@
+tile 1 - Most of this text is identical to the main menu for Rhythm Toys. See that context file and copy those graphics! The big text says "Endless Games".
+
+Tile 2 - Each game has some text around its image. I don't know what any of it says!

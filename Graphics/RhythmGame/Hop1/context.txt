@@ -1,0 +1,1 @@
+Name of the game, "Hopping Road". The text is animated and stretches out vertically from lines in two parts. It should be easy to make one say "Hopping" and the second say "Road".
