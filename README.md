@@ -6,5 +6,6 @@ Feel free to contribute.
 * Thanks to Malalaika for the help (Debug_Menu.ips patch and other things). 
 * Thanks to you for playing the game and using the patch!
 # Compile
+* Create a folder called "Game"
 * Put your original backup of Rhythm Tengoku in the folder called "Game" and call it "rh-jpn.gba"
 * Then launch "compile.bat"
