@@ -1,4 +1,6 @@
-# Copyrighted Games and saves #
-###############################
+# Things #
+##########
 *.gba
 *.sav
+flipscfg.bin
+rh-eng.gba.bak
