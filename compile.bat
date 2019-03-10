@@ -1,6 +1,6 @@
 @echo off
 REM Variables.
-set debug=0
+set debug=1
 :compile
 del "Game\rh-atlus.gba"
 copy "Game\rh-jpn.gba" "Game\rh-atlus.gba"
@@ -95,7 +95,7 @@ rhcomp.exe Graphics/Drums/cc6ccc_drums_map.bin
 rhcomp.exe Graphics/MusicSelect/CD62EC_musicselect_map.bin
 rhcomp.exe Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
 armips.exe compile.asm -sym mysym.sym
-flips.exe --apply "Font Hack 4 - 1px spacer.ips" "Game\rh-eng.gba"
+flips.exe --apply "Patch\Font Hack 4 - 1px spacer.ips" "Game\rh-eng.gba"
 if %debug% == 1 (
   echo Debug Menu Activated
   flips.exe --apply "Patch\Debug_Menu.ips" "Game\rh-eng.gba"
