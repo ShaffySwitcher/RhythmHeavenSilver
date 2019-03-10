@@ -4190,14 +4190,14 @@ Game Over. Good job![;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Dr. Bacteria EX[;
+Sick Beats EX[;
 #WRITE(RtPtr, $9DD56C)
 // 0x805951c
 //クイズ　スペシャル[;
 // --- Literal
 //Quiz Special[;
 // --- Edited
-Quiz EX[;
+Quiz Show EX[;
 #WRITE(RtPtr, $A59EA0)
 // 0x8069990
 //こんばんは。[l
@@ -4638,8 +4638,8 @@ Karate Man[;
 //カラテカ[;
 // --- Literal
 //Karate Master[;
-// --- Edited [[(I don't know where this name appears -Niko)
-[bKarate Man[;
+// --- Edited [[(I don't know where this name appears -Niko) (Debug Menu, my dude)
+[bＫａｒａｔｅＭａｎ[;
 #WRITE(RtPtr, $9CE34C)
 // 0x80544dc
 //とんでくるモノを[l
@@ -4819,7 +4819,7 @@ There's always tomorrow.[;
 // --- Literal
 //Rhythm Hair Removal[;
 // --- Edited
-Vegeta-Pull[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9CE44C)
 // 0x8053f64
 //どんどん生えてくる[l
@@ -4977,7 +4977,7 @@ I can't sell this![;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Order[;
 #WRITE(RtPtr, $9CE60C)
 // 0x805360c
 //行進をするのだ。[l
@@ -5083,7 +5083,7 @@ Aaah! We got left behind![;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Spaceball[;
 #WRITE(RtPtr, $9CE58C)
 // 0x805389c
 //ズームをきにするな！[l
@@ -5779,7 +5779,7 @@ You have bested me![;
 // --- Literal
 //Stealthy Rat[;
 // --- Edited
-Cheese Heist[;
+Rat Race[;
 #WRITE(RtPtr, $9CE72C)
 // 0x8053108
 //あなたはネズミ。[l
@@ -5946,7 +5946,7 @@ The important thing is that we're together.[;
 // --- Literal
 //Germ Professor[;
 // --- Edited ]]Dr. Bacteria game starts here. Edits were made by previous owner of script, maybe?
-Dr. Bacteria[;
+Sick Beats[;
 #WRITE(RtPtr, $9CE48C)
 // 0x8053dd4
 //助手からの知らせ[l
@@ -7346,7 +7346,7 @@ Your love fortune... your heart might break soon...[;
 // --- Literal
 //Quiz[;
 // --- Edited
-Quiz[;
+Quiz Show[;
 #WRITE(RtPtr, $9CE80C)
 // 0x8052c58
 //司会者の、[l
@@ -8507,7 +8507,7 @@ Your weather forecast... rain, rain, and rain.[;
 // --- Literal
 //Hopping road[;
 // --- Edited
-Hopping Road[;
+Bouncy Road[;
 #WRITE(RtPtr, $9CE4AC)
 // 0x8053d3c
 //とんでくる丸い玉。[l
@@ -8590,7 +8590,7 @@ This is tough![;
 // --- Literal
 //Ninja[;
 // --- Edited
-Ninja[;
+Ninja Bodyguard[;
 #WRITE(RtPtr, $9CE4EC)
 // 0x8053be8
 //敵襲(てきしゅう)だ！[l
@@ -9501,7 +9501,7 @@ The couple's future... forever apart![;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio On Tour[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9CE3AC)
 // 0x80542f0
 //ラフだった彼らが[l
@@ -9889,7 +9889,7 @@ Just forget it...[;
 // --- Literal
 //Cosmo Dance[;
 // --- Edited
-Cosmo Dance[;
+Cosmic Dance[;
 #WRITE(RtPtr, $9CE7AC)
 // 0x8052e68
 //宇宙を代表する[l
@@ -10164,7 +10164,7 @@ That was not our best take...[;
 // --- Literal
 //Super Tap[;
 // --- Edited
-Turbo Tap Trial[;
+Tap Trial 2[;
 #WRITE(RtPtr, $9CE5EC)
 // 0x80536a8
 //サルがパワーアップ！[l
@@ -10553,7 +10553,7 @@ What was wrong with the tempo?![;
 // --- Literal
 //Rhythm Hair Removal 2[;
 // --- Edited
-Vegeta-Pull 2[;
+Rhythm Tweezers 2[;
 #WRITE(RtPtr, $9CE46C)
 // 0x8053ea0
 //またしても生えてくる[l
@@ -10635,7 +10635,7 @@ Note to self: sell all veggies before five o'clock.[;
 // --- Literal
 //Ninja's Descendant[;
 // --- Edited
-Ninja Reincarnate[;
+Ninja Bodyguard 2[;
 #WRITE(RtPtr, $9CE50C)
 // 0x8053b44
 //オレのじいちゃんの[l
@@ -10856,7 +10856,7 @@ Eek! You messed up![;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marcher 2[;
+Marching Order 2[;
 #WRITE(RtPtr, $9CE62C)
 // 0x805355c
 //行進をするのだ。[l
@@ -11031,7 +11031,7 @@ Your dinosaur was... not very friendly.[;
 // --- Literal
 //Hopping Road 2[;
 // --- Edited
-Hopping Road 2[;
+Bouncy Road 2[;
 #WRITE(RtPtr, $9CE4CC)
 // 0x8053c90
 //とんでくる丸い玉。[l
@@ -11320,7 +11320,7 @@ At this rate, we'll go out of business.[;
 // --- Literal
 //Air Batter 2[;
 // --- Edited
-Spaceball Game 2[;
+Spaceball 2[;
 #WRITE(RtPtr, $9CE5AC)
 // 0x80537ec
 //ズームをきにするな！[l
@@ -15129,7 +15129,7 @@ Power Calligraphy[;
 // --- Literal
 //Quiz[;
 // --- Edited
-Quiz[;
+Quiz Show[;
 #WRITE(RtPtr, $9D82C8)
 // 0x8059090
 //トランとポリン[;
@@ -15157,14 +15157,14 @@ Showtime[;
 // --- Literal
 //Professor Bacteria[;
 // --- Edited
-Dr. Bacteria[;
+Sick Beats[;
 #WRITE(RtPtr, $9D8298)
 // 0x80590cc
 //こっそりラット[;
 // --- Literal
 //Stealthy Rat[;
 // --- Edited
-Cheese Heist[;
+Rat Race[;
 #WRITE(RtPtr, $9D828C)
 // 0x80590dc
 //ゐあひ斬り[;
@@ -15185,14 +15185,14 @@ Sneaky Spirits[;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Spaceball[;
 #WRITE(RtPtr, $9D8268)
 // 0x8059108
 //マーチャ[;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+MarchingOrder[;
 #WRITE(RtPtr, $9D825C)
 // 0x8059114
 //まほうつかい[;
@@ -15206,28 +15206,28 @@ Wizard's Waltz[;
 // --- Literal
 //Super Tap[;
 // --- Edited
-Turbo Tap Trial[;
+Tap Trial 2[;
 #WRITE(RtPtr, $9D8244)
 // 0x8059134
 //バリバリ三人衆[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio on Tour[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9D8238)
 // 0x8059144
 //リズム脱毛[;
 // --- Literal
 //Rhythm Hair Plucking[;
 // --- Edited
-Vegeta-Pull[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9D822C)
 // 0x8059150
 //コスモダンス[;
 // --- Literal
 //Cosmo Dance[;
 // --- Edited
-Cosmo Dance[;
+Cosmic Dance[;
 #WRITE(RtPtr, $9D8220)
 // 0x8059160
 //ボンダンス[;
@@ -16567,7 +16567,7 @@ Measuring finished! Okay, the result is...[;
 //Drum Samurai's[l
 //Band LIVE! [l
 //[l
-//　　　　　　　　　　♪　Cosmo Dance[l
+//　　　　　　　　　　♪　Cosmic Dance[l
 //[l
 //　　　　　　　　　　♪　Hard Working Trio[l
 //[l
@@ -16575,8 +16575,8 @@ Measuring finished! Okay, the result is...[;
 // --- Edited
 <size=medium><linesize=medium><style=bold><linestyle=4>Drum Samurai's[l
         <size=medium><linesize=medium><style=bold><linestyle=4>Band LIVE! [l
-<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmo Dance　　　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>          ♪ Trio on Tour　　　　　　　　　　[l
+<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
+<size=small><linesize=small><style=gold><linestyle=5>          ♪ The Snappy Trio　　　　　　　　　　[l
 <size=small><linesize=small><style=gold><linestyle=5>          ♪ Turbo Tap Trial　　　　　　　　　　[;
 #WRITE(RtPtr, $9E5C78)
 // 0x805a7a8
