@@ -14925,11 +14925,11 @@ no fun making something that nobody else[l
 cares about. Enjoy![l
 [l
 [l
-[l
 - Rhythm Heaven Silver team[l
 //New format
-<color=0(normal)>Twitter.com/rh0updates[l
-<color=gray>Beta 10a: 2013-12-19[;
+<color=0(normal)>twitter.com/rh0updates[l
+<color=0(normal)>Github: RhythmTengokuENPatch[l
+<color=gray>Beta 11b: 2019-03-11[;
 //for Betas
 //Twitter.com/rh0updates      <color=gray>Beta 9b: 2013-09-06[;
 //for Demos
