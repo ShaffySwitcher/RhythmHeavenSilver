@@ -1,6 +1,6 @@
 @echo off
 REM Variables.
-set debug=1
+set debug=0
 :compile
 del "Game\rh-atlus.gba"
 copy "Game\rh-jpn.gba" "Game\rh-atlus.gba"
