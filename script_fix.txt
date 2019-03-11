@@ -7,7 +7,7 @@
 // [[ is a quick and great way to announce that something needs to be fixed, or looked at later. Ctrl-f for [[ to see existing examples.
 
 // Translators:
-// Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun
+// Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun, Tickflow, Shaffy
 //
 #VAR(tbl, TABLE)
 #ADDTBL("sjis_2.tbl", tbl)
