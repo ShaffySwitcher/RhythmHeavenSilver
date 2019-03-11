@@ -16538,7 +16538,7 @@ performance data?[;
 // --- Literal
 //Press the A button while matching to the sound.[;
 // --- Edited
-[[Press the A Button in time with the sound.[;
+Press the A Button in time with the sound.[;
 #WRITE(RtPtr, $35774)
 // 0x805a6c0
 //計測中[;
