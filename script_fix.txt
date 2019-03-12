@@ -4126,8 +4126,8 @@ I hope to work in a Game&Watch title.            [;
 // --- Literal
 //Super human![;
 // --- Edited
-//Were you bitten by something radioactive?[;
-Were you bitten by a radioactive beatle?                   [;
+//Were you bitten by something radioactive? (lol -Shaffy)[;
+Were you bitten by a radioactive beetle?                   [;
 #WRITE(RtPtr, $A57604)
 // 0x80681f0
 //やばーい！[;
@@ -4339,7 +4339,7 @@ Mechanical Horse[;
 //あしおとに　あわせて[;
 // --- Literal
 //Match to the footsteps (sounds)[;
-// --- Edited ]]Horse Machine in-game text starts here. Use special font for all Horse Machine text. -Niko
+// --- Edited ]]Horse Machine in-game text starts here. Use special font (aka. Full Width -Shaffy) for all Horse Machine text. -Niko
 Ｍａｔｃｈ　ｍｙ　ｆｏｏｔｓｔｅｐｓ！[;
 #WRITE(RtPtr, $A0EEFC)
 // 0x805c69c
@@ -4638,8 +4638,8 @@ Karate Man[;
 //カラテカ[;
 // --- Literal
 //Karate Master[;
-// --- Edited [[(I don't know where this name appears -Niko) (Debug Menu, my dude)
-[bＫａｒａｔｅＭａｎ[;
+// --- Edited [[(I don't know where this name appears -Niko) (Debug Menu, my dude -Shaffy)
+Ｋａｒａｔｅ　Ｍａｎ[;
 #WRITE(RtPtr, $9CE34C)
 // 0x80544dc
 //とんでくるモノを[l
@@ -11658,7 +11658,7 @@ Today's trip was... pretty much a total wreck.[;
 //リズムお習字 ２[;
 // --- Literal
 //Rhythm Penmanship/Calligraphy 2[;
-// --- Edited [[no such game, must be a leftover
+// --- Edited (No, it's doesn't exist... -Shaffy)
 Power Penmanship[;
 #WRITE(RtPtr, $9CF9FC)
 // 0x80548a4
@@ -11904,9 +11904,9 @@ You finally got them all![;
 // 0x8054c48
 //リズムかん　バッチシさ[;
 // --- Literal
-//[;
+//Sense of rhythm[;
 // --- Edited
-[;
+Ｓｅｎｓｅ　ｏｆ　ｒｈｙｔｈｍ[;
 #WRITE(RtPtr, $9D7998)
 // 0x8054c60
 //プロから　みた　ピッタシさ[;
@@ -11920,56 +11920,57 @@ You finally got them all![;
 // --- Literal
 //Head Spinning Speed[;
 // --- Edited
-Reflexes[;
+Ｒｅｆｌｅｘｅｓ[;
 #WRITE(RtPtr, $9D79AC)
 // 0x8054c9c
 //てきおう　のうりょく[;
 // --- Literal
 //Adaptation Ability[;
 // --- Edited
-Adaptability[;
+Ａｄａｐｔａｂｉｌｉｔｙ[;
 #WRITE(RtPtr, $9D79A8)
 // 0x8054cb4
 //テクニック　レベル[;
 // --- Literal
 //Technique Level[;
 // --- Edited
-Technique Level[;
+Ｔｅｃｈｎｉｑｕｅ　Ｌｅｖｅｌ[;
 #WRITE(RtPtr, $9D79C0)
 // 0x8054cc8
 //てがたい　かんじ[;
 // --- Literal
 //Steady Feeling[;
 // --- Edited
-Steadiness[;
+Ｓｔｅａｄｉｎｅｓｓ[;
 #WRITE(RtPtr, $9D79BC)
 // 0x8054cdc
 //ここ　イッパツ[;
 // --- Literal
-//[;
+//Here Ippatsu[;
+//(Excuse me, what? -Shaffy)
 // --- Edited
-[;
+ＰＬＡＣＥＨＯＬＤＥＲ[;
 #WRITE(RtPtr, $9D79B8)
 // 0x8054cec
 //せきにんかん[;
 // --- Literal
 //Sense of responsibility[;
 // --- Edited
-Responsibility[;
+Ｒｅｓｐｏｎｓｉｂｉｌｉｔｙ[;
 #WRITE(RtPtr, $9D79D0)
 // 0x8054cfc
 //ほどほどの　せいかくさ[;
 // --- Literal
-//[;
+//Moderate Accuracy[;
 // --- Edited
-[;
+Ｍｏｄｅｒａｔｅｄ[;
 #WRITE(RtPtr, $9D79CC)
 // 0x8054d14
 //いっぱんてき　バッチシど[;
 // --- Literal
-//[;
+//General batch system[;
 // --- Edited
-[;
+Ｇｅｎｅｒａｌ　Ｎｏｔｅ[;
 #WRITE(RtPtr, $9D79C8)
 // 0x8054d30
 //シロートめの　ピッタシさ[;
@@ -11983,35 +11984,35 @@ Responsibility[;
 // --- Literal
 //Calmness/composure[;
 // --- Edited
-[;
+Ｃａｌｍｎｅｓｓ[;
 #WRITE(RtPtr, $9D79DC)
 // 0x8054d58
 //ごうりてき　さいのう[;
 // --- Literal
 //Reasoning Ability[;
 // --- Edited
-[;
+Ｒｅａｓｏｎａｔｅ[;
 #WRITE(RtPtr, $9D79D8)
 // 0x8054d70
 //せつやく　のうりょく[;
 // --- Literal
 //Economising Ability[;
 // --- Edited
-[;
+Ｃａｌｍｎｅｓｓ[;
 #WRITE(RtPtr, $9D79F0)
 // 0x8054d88
 //いっかんせい　みたいなもの[;
 // --- Literal
-//[;
+//something like[;
 // --- Edited
-[;
+ＰＬＡＣＥＨＯＬＤＥＲ[;
 #WRITE(RtPtr, $9D79EC)
 // 0x8054da4
 //リズムの　しん[;
 // --- Literal
-//[;
+//Rhythm of Shin[;
 // --- Edited
-[;
+Ｒｈｙｔｈｍｉｃ[;
 #WRITE(RtPtr, $9D79E8)
 // 0x8054db4
 //あんていの　ほど[;
@@ -15579,42 +15580,42 @@ data! Is that really OK?[;
 // --- Literal
 //Data Clear[;
 // --- Edited
-ＤａｔａＣｌｅａｒ[;
+Ｄａｔａ　Ｃｌｅａｒ[;
 #WRITE(RtPtr, $9DDF4C)
 // 0x805969c
 //エンディング（おまけから）[;
 // --- Literal
 //Credits (Post-Remix 6)[;
 // --- Edited
-ＣｒｅｄｉｔｓＥｘｔｒａ[;
+Ｃｒｅｄｉｔｓ　（Ｅｘｔｒａ）[;
 #WRITE(RtPtr, $9DDF44)
 // 0x80596b8
 //エンディング（クリアご）[;
 // --- Literal
 //Credits (Remix 6)[;
 // --- Edited
-ＣｒｅｄｉｔｓＲｅｍｉｘ６[;
+Ｃｒｅｄｉｔｓ　（Ｒｅｍｉｘ　６）[;
 #WRITE(RtPtr, $9DDF34)
 // 0x80596d4
 //Ｒ−ＩＱ　（おもちゃ）[;
 // --- Literal
 //Rhythm toys Menu (toy)[;
 // --- Edited
-ＲｈｙｔｈｍＴｏｙｓＭｅｎｕ[;
+Ｒｈｙｔｈｍ　Ｔｏｙｓ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDF2C)
 // 0x80596ec
 //Ｒ−ＩＱ　（ドラムレッスン）[;
 // --- Literal
 //Drum lessons menu[;
 // --- Edited
-ＤｒｕｍＬｅｓｓｏｎＭｅｎｕ[;
+Ｄｒｕｍ　Ｌｅｓｓｏｎ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDF24)
 // 0x805970c
 //Ｒ−ＩＱ　（ミニゲーム）[;
 // --- Literal
 //Endless Games Menu (Mini-Games)[;
 // --- Edited
-ＥｎｄｌｅｓｓＭｅｎｕ[;
+Ｅｎｄｌｅｓｓ　Ｇａｍｅｓ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDF1C)
 #WRITE(RtPtr, $9DDF3C)
 // 0x8059728
@@ -15622,49 +15623,49 @@ data! Is that really OK?[;
 // --- Literal
 //Cafe (Counselor)[;
 // --- Edited
-ＢａｒｉｓｔａＣａｆｅ[;
+Ｃａｆｅ[;
 #WRITE(RtPtr, $9DDF14)
 // 0x8059744
 //Ｒ−ＩＱ　（パーフェクト）[;
 // --- Literal
 //Got a Perfect! (Perfect)[;
 // --- Edited
-ＰｅｒｆｅｃｔＲｅｗａｒｄＳｃｒｅｅｎ[;
+Ｐｅｒｆｅｃｔ　Ｒｅｗａｒｄ[;
 #WRITE(RtPtr, $9DDF0C)
 // 0x8059760
 //Ｒ−ＩＱ　（にゅうか）[;
 // --- Literal
 //Study[;
 // --- Edited
-ＢｅｔａＬｅｔｔｅｒＳｃｒｅｅｎ[;
+Ｒｅａｄｉｎｇ　ａ　Ｌｅｔｔｅｒ　（Ｄｅｂｕｇ）[;
 #WRITE(RtPtr, $9DDF04)
 // 0x8059778
 //Ｒ−ＩＱ　（リザルト４）[;
 // --- Literal
 //Title Screen (result4)[;
 // --- Edited
-ＴｉｔｌｅＳｃｒｅｅｎＲｅｓｕｌｔ４[;
+Ｔｉｔｌｅ　Ｓｃｒｅｅｎ　（Ｒｅｓｕｌｔ　４）[;
 #WRITE(RtPtr, $9DDEFC)
 // 0x8059794
 //Ｒ−ＩＱ　（リザルト３）[;
 // --- Literal
 //Rhythm Test Results (Result3)[;
 // --- Edited
-ＲｈｙｔｈｍＴｅｓｔＲｅｓｕｌｔ３[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｒｅｓｕｌｔ　３）[;
 #WRITE(RtPtr, $9DDEF4)
 // 0x80597b0
 //Ｒ−ＩＱ　（リザルト２）[;
 // --- Literal
-//Debug Results (Result2)[;
+//Result 2 (Result2)[;
 // --- Edited
-ＤｅｂｕｇＲｅｓｕｌｔ２[;
+Ｄｅｂｕｇ　（Ｒｅｓｕｌｔ　２）[;
 #WRITE(RtPtr, $9DDEEC)
 // 0x80597cc
 //Ｒ−ＩＱ　（リザルト）[;
 // --- Literal
-//Unknown Menu that show random word that is not encoded... yeahhh (Result1)[;
+//Result (Might be a prototype ranking system -Shaffy)[;
 // --- Edited
-ＵｎｋｎｏｗｎＲｅｓｕｌｔ１[;
+Ｐｒｏｔｏｔｙｐｅ　（Ｒｅｓｕｌｔ　１）[;
 #WRITE(RtPtr, $9DDEE4)
 // 0x80597e4
 //Ｒ−ＩＱ　（オプション）[;
@@ -15678,63 +15679,63 @@ data! Is that really OK?[;
 // --- Literal
 //Studio Menu[;
 // --- Edited
-ＳｔｕｄｉｏＭｅｎｕ[;
+Ｓｔｕｄｉｏ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDED4)
 // 0x8059818
 //Ｒ−ＩＱ　（しりょうしつ）[;
 // --- Literal
 //E-mails menu[;
 // --- Edited
-ＬｅｔｔｅｒＭｅｎｕ[;
+Ｌｅｔｔｅｒ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDECC)
 // 0x8059834
 //Ｒ−ＩＱ　（ゲーム）[;
 // --- Literal
 //Game Select[;
 // --- Edited
-ＧａｍｅＳｅｌｅｃｔ[;
+Ｇａｍｅ　Ｓｅｌｅｃｔ[;
 #WRITE(RtPtr, $9DDEC4)
 // 0x805984c
 //Ｒ−ＩＱ　（メニュー）[;
 // --- Literal
 //Main Menu[;
 // --- Edited
-ＭａｉｎＭｅｎｕ[;
+Ｍａｉｎ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDEBC)
 // 0x8059864
 //Ｒ−ＩＱ　（タイトル）[;
 // --- Literal
 //Title Screen (title)[;
 // --- Edited
-ＴｉｔｌｅＳｃｒｅｅｎＴｉｔｌｅ[;
+Ｔｉｔｌｅ　Ｓｃｒｅｅｎ[;
 #WRITE(RtPtr, $9DDEB4)
 // 0x805987c
 //カラテカ　２[;
 // --- Literal
 //Karate Master 2[;
 // --- Edited
-ＫａｒａｔｅＭａｎ２[;
+Ｋａｒａｔｅ　Ｍａｎ　２[;
 #WRITE(RtPtr, $9DDEA4)
 // 0x8059898
 //バリバリ３にんしゅう[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-ＨａｒｄＷｏｒｋｉｎｇＴｒｉｏ[;
+Ｈａｒｄ　Ｗｏｒｋｉｎｇ　Ｔｒｉｏ[;
 #WRITE(RtPtr, $9DDE9C)
 // 0x80598b0
 //パチパチ３にんしゅう[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-ＣｌａｐＣｌａｐＴｒｉｏ[;
+Ｃｌａｐ　Ｃｌａｐ　Ｔｒｉｏ[;
 #WRITE(RtPtr, $9DDE94)
 // 0x80598c8
 //ポリリズム　２[;
 // --- Literal
 //Polyrhythm 2[;
 // --- Edited
-Ｐｏｌｙｒｈｙｔｈｍ２[;
+Ｐｏｌｙｒｈｙｔｈｍ　２[;
 #WRITE(RtPtr, $9DDE8C)
 // 0x80598d8
 //ポリリズム[;
@@ -15748,56 +15749,56 @@ data! Is that really OK?[;
 // --- Literal
 //Night Walk 2[;
 // --- Edited
-ＮｉｇｈｔＷａｌｋ２[;
+Ｎｉｇｈｔ　Ｗａｌｋ　２[;
 #WRITE(RtPtr, $9DDE7C)
 // 0x80598fc
 //ナイト　ウォーク[;
 // --- Literal
 //Night Walk[;
 // --- Edited
-ＮｉｇｈｔＷａｌｋ[;
+Ｎｉｇｈｔ　Ｗａｌｋ[;
 #WRITE(RtPtr, $9DDE74)
 // 0x8059910
 //リズムだつもう　２[;
 // --- Literal
 //Rhythm Hair Pluck 2[;
 // --- Edited
-ＲｈｙｔｈｍＨａｉｒＰｌｕｃｋ２[;
+Ｒｈｙｔｈｍ　Ｈａｉｒ　Ｐｌｕｃｋ　２[;
 #WRITE(RtPtr, $9DDE6C)
 // 0x8059924
 //リズムだつもう[;
 // --- Literal
 //Rhythm Hair Pluck[;
 // --- Edited
-ＲｈｙｔｈｍＨａｉｒＰｌｕｃｋ[;
+Ｒｈｙｔｈｍ　Ｈａｉｒ　Ｐｌｕｃｋ[;
 #WRITE(RtPtr, $9DDE64)
 // 0x8059934
 //バイキン　はかせ[;
 // --- Literal
 //Professor Bacteria[;
 // --- Edited
-ＰｒｏｆｅｓｓｏｒＢａｃｔｅｒｉａ[;
+Ｐｒｏｆｅｓｓｏｒ　Ｂａｃｔｅｒｉａ[;
 #WRITE(RtPtr, $9DDE5C)
 // 0x8059948
 //ホッピングロード　２[;
 // --- Literal
 //Hopping Road 2[;
 // --- Edited
-ＨｏｐｐｉｎｇＲｏａｄ２[;
+Ｈｏｐｐｉｎｇ　Ｒｏａｄ　２[;
 #WRITE(RtPtr, $9DDE54)
 // 0x8059960
 //ホッピングロード[;
 // --- Literal
 //Hopping Road[;
 // --- Edited
-ＨｏｐｐｉｎｇＲｏａｄ[;
+Ｈｏｐｐｉｎｇ　Ｒｏａｄ[;
 #WRITE(RtPtr, $9DDE4C)
 // 0x8059974
 //ニンジャ　２[;
 // --- Literal
 //Ninja 2[;
 // --- Edited
-Ｎｉｎｊａ２[;
+Ｎｉｎｊａ　２[;
 #WRITE(RtPtr, $9DDE44)
 // 0x8059984
 //ニンジャ[;
@@ -15811,63 +15812,63 @@ data! Is that really OK?[;
 // --- Literal
 //White Ghost/Specter 2[;
 // --- Edited
-ＷｈｉｔｅＳｐｅｃｔｅｒ[;
+Ｗｈｉｔｅ　Ｓｐｅｃｔｅｒ[;
 #WRITE(RtPtr, $9DDE34)
 // 0x80599a4
 //しろいおばけ[;
 // --- Literal
 //White Ghost/Specter[;
 // --- Edited
-ＷｈｉｔｅＧｈｏｓｔ[;
+Ｗｈｉｔｅ　Ｇｈｏｓｔ[;
 #WRITE(RtPtr, $9DDE2C)
 // 0x80599b4
 //エアーバッター２[;
 // --- Literal
 //Air Batter 2[;
 // --- Edited
-ＡｉｒＢａｔｔｅｒ２[;
+Ａｉｒ　Ｂａｔｔｅｒ　２[;
 #WRITE(RtPtr, $9DDE24)
 // 0x80599c8
 //エアーバッター[;
 // --- Literal
 //Air Batter[;
 // --- Edited
-ＡｉｒＢａｔｔｅｒ[;
+Ａｉｒ　Ｂａｔｔｅｒ[;
 #WRITE(RtPtr, $9DDE1C)
 // 0x80599d8
 //いあいぎり[;
 // --- Literal
 //Iai Cut[;
 // --- Edited
-ＳａｍｕｒａｉＣｕｔ[;
+Ｓａｍｕｒａｉ　Ｃｕｔ[;
 #WRITE(RtPtr, $9DDE14)
 // 0x80599e4
 //スーパータップ[;
 // --- Literal
 //Super Tap[;
 // --- Edited
-ＳｕｐｅｒＴａｐ[;
+Ｓｕｐｅｒ　Ｔａｐ[;
 #WRITE(RtPtr, $9DDE0C)
 // 0x80599f4
 //タップダンズ[;
 // --- Literal
 //Tap Dance[;
 // --- Edited
-ＴａｐＤａｎｃｅ[;
+Ｔａｐ　Ｄａｎｃｅ[;
 #WRITE(RtPtr, $9DDE04)
 // 0x8059a04
 //うま（スピード）[;
 // --- Literal
 //Horse (Speed)[;
 // --- Edited
-ＨｏｒｓｅＴｏｙ[h[;
+Ｈｏｒｓｅ　Ｔｏｙ[h[;
 #WRITE(RtPtr, $9DDDFC)
 // 0x8059a18
 //マーチャ　２[;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Ｍａｒｃｈｅｒ２[;
+Ｍａｒｃｈｅｒ　２[;
 #WRITE(RtPtr, $9DDDF4)
 // 0x8059a28
 //マーチャ[;
@@ -15881,28 +15882,28 @@ data! Is that really OK?[;
 // --- Literal
 //Wizard/Witch[;
 // --- Edited
-ＷｉｚａｒｄＦｌｏｗｅｒ[;
+Ｗｉｚａｒｄ　Ｆｌｏｗｅｒ[;
 #WRITE(RtPtr, $9DDDE4)
 // 0x8059a44
 //ダンスレッスン　１[;
 // --- Literal
 //Dance Lesson 1[;
 // --- Edited
-ＤｅｂｕｇＲｅｍｉｘ１[;
+Ｒｅｍｉｘ　１　（Ｄｅｂｕｇ）[;
 #WRITE(RtPtr, $9DDDDC)
 // 0x8059a58
 //ウサギとび[;
 // --- Literal
 //Rabbit/Bunny Jump/Hop[;
 // --- Edited
-ＢｕｎｎｙＨｏｐ[;
+Ｂｕｎｎｙ　Ｈｏｐ[;
 #WRITE(RtPtr, $9DDDD4)
 // 0x8059a64
 //メトロノーム[;
 // --- Literal
 //Metronome[;
 // --- Edited
-[[s ＤｅｂｕｇＲｈｙｔｈｍＴｅｓｔ[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｄｅｂｕｇ）[;
 #WRITE(RtPtr, $9DDDCC)
 // 0x8059a74
 //ハナビ[;
@@ -15916,441 +15917,445 @@ data! Is that really OK?[;
 // --- Literal
 //Flash Memory Test[;
 // --- Edited
-[[s ＦｌａｓｈＭｅｍｏｒｙＴｅｓｔ[;
+Ｆｌａｓｈ　Ｍｅｍｏｒｙ　Ｔｅｓｔ[;
 #WRITE(RtPtr, $9DDDBC)
 // 0x8059a94
 //こっそりラット[;
 // --- Literal
 //Stealthy Rat[;
 // --- Edited
-ＳｔｅａｌｔｈｙＲａｔ[;
+Ｓｔｅａｌｔｈｙ　Ｒａｔ[;
 #WRITE(RtPtr, $9DDDB4)
 // 0x8059aa4
 //リズム　おしゅうじ[;
 // --- Literal
 //Rhythm Calligraphy[;
 // --- Edited
-ＲｈｙｔｈｍＣａｌｌｉｇｒａｐｈｙ[;
+Ｒｈｙｔｈｍ　Ｃａｌｌｉｇｒａｐｈｙ[;
 #WRITE(RtPtr, $9DDDAC)
 // 0x8059ab8
 //ドラムガールズ[;
 // --- Literal
 //Drum Girls[;
 // --- Edited
-ＤｒｕｍＧｉｒｌｓ[;
+Ｄｒｕｍ　Ｇｉｒｌｓ[;
 #WRITE(RtPtr, $9DDDA4)
 // 0x8059ac8
 //トスボーイズ　２[;
 // --- Literal
 //Tossboys 2[;
 // --- Edited
-ＴｏｓｓＢｏｙｓ２[;
+Ｔｏｓｓ　Ｂｏｙｓ　２[;
 #WRITE(RtPtr, $9DDD9C)
 // 0x8059adc
 //トスボーイズ[;
 // --- Literal
 //Tossboys[;
 // --- Edited
-ＴｏｓｓＢｏｙｓ[;
+Ｔｏｓｓ　Ｂｏｙｓ[;
 #WRITE(RtPtr, $9DDD94)
 // 0x8059aec
 //トランとポリン[;
 // --- Literal
 //Tram and Poline[;
 // --- Edited
-ＴｒａｍＰａｕｌｉｎｅＳｈｏｗ[;
+Ｔｒａｍ　Ｐａｕｌｉｎｅ　Ｓｈｏｗ[;
 #WRITE(RtPtr, $9DDD8C)
 // 0x8059afc
 //オープニング　（Ａ　Ｔｙｐｅ）[;
 // --- Literal
 //Opening (A Type)[;
 // --- Edited
-ＤｅｍｏＩｎｔｒｏ[;
+Ｏｐｅｎｉｎｇ　（Ａ－Ｔｙｐｅ）[;
 #WRITE(RtPtr, $9DDD84)
 // 0x8059b1c
 //オープニング　（Ｂ　Ｔｙｐｅ）[;
 // --- Literal
 //Opening (B Type)[;
 // --- Edited
-Ｏｐｅｎｉｎｇ[;
+Ｏｐｅｎｉｎｇ　（Ｂ－Ｔｙｐｅ）[;
 #WRITE(RtPtr, $9DDD7C)
 // 0x8059b3c
 //ＲＩＱデータチェック[;
 // --- Literal
 //[;
 // --- Edited
-ＧａｍｅｐｌａｙＨｉｓｔｏｒｙ[;
+Ｇａｍｅｐｌａｙ　Ｈｉｓｔｏｒｙ[;
 #WRITE(RtPtr, $9DDD74)
 // 0x8059b54
 //ショータイム[;
 // --- Literal
 //Show Time[;
 // --- Edited
-Ｓｈｏｗｔｉｍｅ[;
+Ｓｈｏｗ　Ｔｉｍｅ[;
 #WRITE(RtPtr, $9DDD6C)
 // 0x8059b64
 //コスモダンス[;
 // --- Literal
 //Cosmo Dance[;
 // --- Edited
-ＣｏｓｍｏＤａｎｃｅ[;
+Ｃｏｓｍｏ　Ｄａｎｃｅ[;
 #WRITE(RtPtr, $9DDD64)
 // 0x8059b74
 //スペースダンス[;
 // --- Literal
 //Space Dance[;
 // --- Edited
-ＳｐａｃｅＤａｎｃｅ[;
+Ｓｐａｃｅ　Ｄａｎｃｅ[;
 #WRITE(RtPtr, $9DDD5C)
 // 0x8059b84
 //ラップ　ウィメン（ｂｙ　ＫＡＺＵ）[;
 // --- Literal
 //Rap Women (by KAZU)[;
 // --- Edited
-ＲａｐＷｏｍｅｎ（ＫＡＺＵ）[;
+Ｒａｐ　Ｗｏｍｅｎ　（ｂｙ　ＫＡＺＵ）[;
 #WRITE(RtPtr, $9DDD54)
 // 0x8059ba8
 //ラップ　ウィメン（ｂｙ　ＹＯＮＥ）[;
 // --- Literal
 //Rap Women (by YONE)[;
 // --- Edited
-ＲａｐＷｏｍｅｎ（ＹＯＮＥ）[;
+Ｒａｐ　Ｗｏｍｅｎ　（ｂｙ　ＹＯＮＥ）[;
 #WRITE(RtPtr, $9DDD4C)
 // 0x8059bcc
 //ラップメン[;
 // --- Literal
 //Rap Men[;
 // --- Edited
-ＲａｐＭｅｎ[;
+Ｒａｐ　Ｍｅｎ[;
 #WRITE(RtPtr, $9DDD44)
 // 0x8059bd8
 //クイズ[;
 // --- Literal
 //Quiz[;
 // --- Edited
-ＲｈｙｔｈｍＱｕｉｚ[;
+Ｒｈｙｔｈｍ　Ｑｕｉｚ[;
 #WRITE(RtPtr, $9DDD3C)
 // 0x8059be0
 //テキスト[;
 // --- Literal
 //Text[;
 // --- Edited
-ＬｅｔｔｅｒＴｅｘｔ[;
+Ｒｅａｄｉｎｇ　ａ　Ｌｅｔｔｅｒ[;
 #WRITE(RtPtr, $9DDD34)
 // 0x8059bec
 //チェックマシン　（トータル）[;
 // --- Literal
 //Check Machine (Total)[;
 // --- Edited
-ＲｈｙｔｈｍＴｅｓｔ（Ｔｏｔａｌ）[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｔｏｔａｌ）[;
 #WRITE(RtPtr, $9DDD2C)
 // 0x8059c0c
 //チェックマシン　（トリッキー）[;
 // --- Literal
 //Check Machine (Tricky)[;
 // --- Edited
-ＲｈｙｔｈｍＴｅｓｔ（Ｆｉｎａｌ）[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｆｉｎａｌ）[;
 #WRITE(RtPtr, $9DDD24)
 // 0x8059c2c
 //チェックマシン　（キューフ）[;
 // --- Literal
 //[;
 // --- Edited
-ＲｈｙｔｈｍＴｅｓｔ（Ｓｅｃｏｎｄ）[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｍｉｄｄｌｅ）[;
 #WRITE(RtPtr, $9DDD1C)
 // 0x8059c4c
 //チェックマシン　（クリック）[;
 // --- Literal
 //Check Machine (Click)[;
 // --- Edited
-ＲｈｙｔｈｍＴｅｓｔ（Ｆｉｒｓｔ）[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｆｉｒｓｔ）[;
 #WRITE(RtPtr, $9DDD14)
 // 0x8059c6c
 //スタジオドラマー[;
 // --- Literal
 //Studio Drummer[;
 // --- Edited
-ＳｔｕｄｉｏＤｒｕｍｍｅｒ[;
+Ｓｔｕｄｉｏ　Ｄｒｕｍｍｅｒ[;
 #WRITE(RtPtr, $9DDD0C)
 // 0x8059c80
 //レッスン（じっせん８）[;
 // --- Literal
 //Lesson (Practice 8)[;
 // --- Edited　[[this looks to be a sequence of unused drum lesson titles. The drum lessons look like they used to be a lot more complicated.
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ８）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　８）[;
 #WRITE(RtPtr, $9DDD04)
 // 0x8059c98
 //レッスン（じっせん７）[;
 // --- Literal
 //Lesson (Practice 7)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ７）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　７）[;
 #WRITE(RtPtr, $9DDCFC)
 // 0x8059cb0
 //レッスン（じっせん６）[;
 // --- Literal
 //Lesson (Practice 6)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ６）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　６）[;
 #WRITE(RtPtr, $9DDCF4)
 // 0x8059cc8
 //レッスン（じっせん５）[;
 // --- Literal
 //Lesson (Practice 5)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ５）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　５）[;
 #WRITE(RtPtr, $9DDCEC)
 // 0x8059ce0
 //レッスン（じっせん４）[;
 // --- Literal
 //Lesson (Practice 4)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ４）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　４）[;
 #WRITE(RtPtr, $9DDCE4)
 // 0x8059cf8
 //レッスン（じっせん３）[;
 // --- Literal
 //Lesson (Practice 3)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ３）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　３）[;
 #WRITE(RtPtr, $9DDCDC)
 // 0x8059d10
 //レッスン（じっせん２）[;
 // --- Literal
 //Lesson (Practice 2)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ２）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　２）[;
 #WRITE(RtPtr, $9DDCD4)
 // 0x8059d28
 //レッスン（じっせん１）[;
 // --- Literal
 //Lesson (Practice 1)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｅｂｕｇ１）[;
+Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　１）[;
 #WRITE(RtPtr, $9DDCCC)
 // 0x8059d40
 //レッスン（スネアテクニック）[;
 // --- Literal
 //Lesson (Snare Techique)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｓｎａｒｅ２）[;
+Ｌｅｓｓｏｎ　（Ｓｎａｒｅ　２）[;
 #WRITE(RtPtr, $9DDCC4)
 // 0x8059d60
 //レッスン（はやい８ビート）[;
 // --- Literal
 //Lesson (Fast 8 Beat)[;
 // --- Edited
-Ｌｅｓｓｏｎ（８Ｂｅａｔ）[;
+Ｌｅｓｓｏｎ　（８－Ｂｅａｔ）[;
 #WRITE(RtPtr, $9DDCBC)
 // 0x8059d7c
 //レッスン（バスとスネア）[;
 // --- Literal
 //Lesson (Bass and Snare)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｂａｓｓ／Ｓｎａｒｅ）[;
+Ｌｅｓｓｏｎ　（Ｂａｓｓ／Ｓｎａｒｅ）[;
 #WRITE(RtPtr, $9DDCB4)
 // 0x8059d98
 //レッスン（スネア）[;
 // --- Literal
 //Lesson (Snare)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｓｎａｒｅ）[;
+Ｌｅｓｓｏｎ　（Ｓｎａｒｅ）[;
 #WRITE(RtPtr, $9DDCAC)
 // 0x8059dac
 //レッスン（ボッサ）[;
 // --- Literal
 //Lesson (Bossa)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｂｏｓｓａ）[;
+Ｌｅｓｓｏｎ　（Ｂｏｓｓａ）[;
 #WRITE(RtPtr, $9DDCA4)
 // 0x8059dc0
 //レッスン（デスコビート）[;
 // --- Literal
 //Lesson (Disco Beat)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｄｉｓｃｏ）[;
+Ｌｅｓｓｏｎ　（Ｄｉｓｃｏ）[;
 #WRITE(RtPtr, $9DDC9C)
 // 0x8059ddc
 //レッスン（キメパターン２）[;
 // --- Literal
 //Lesson (Ending Pattern 2)[;
 // --- Edited
-Ｌｅｓｓｏｎ（ＥｎｄＰａｔｔｅｒｎ２）[;
+Ｌｅｓｓｏｎ　（ＥｎｄＰａｔｔｅｒｎ２）[;
 #WRITE(RtPtr, $9DDC94)
 // 0x8059df8
 //レッスン（キメパターン１）[;
 // --- Literal
 //Lesson (Ending Pattern 1)[;
 // --- Edited
-Ｌｅｓｓｏｎ（ＥｎｄＰａｔｔｅｒｎ１）[;
+Ｌｅｓｓｏｎ　（ＥｎｄＰａｔｔｅｒｎ１）[;
 #WRITE(RtPtr, $9DDC8C)
 // 0x8059e14
 //レッスン（ハード２）[;
 // --- Literal
 //Lesson (Hard 2)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｈａｒｄ２）[;
+Ｌｅｓｓｏｎ　（Ｈａｒｄ　２）[;
 #WRITE(RtPtr, $9DDC84)
 // 0x8059e2c
 //レッスン（ハード１）[;
 // --- Literal
 //Lesson (Hard 1)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｈａｒｄ１）[;
+Ｌｅｓｓｏｎ　（Ｈａｒｄ　１）[;
 #WRITE(RtPtr, $9DDC7C)
 // 0x8059e44
 //レッスン（イージー）[;
 // --- Literal
 //Lesson (Easy)[;
 // --- Edited
-Ｌｅｓｓｏｎ（Ｅａｓｙ）[;
+Ｌｅｓｓｏｎ　（Ｅａｓｙ）[;
 #WRITE(RtPtr, $9DDC74)
 // 0x8059e5c
 //こえマシン（ラップ）[;
 // --- Literal
 //Voice Machine (Rap)[;
 // --- Edited
-ＶｏｉｃｅＭａｃｈｉｎｅ（Ｒａｐ）[;
+Ｖｏｉｃｅ　Ｍａｃｈｉｎｅ　（Ｒａｐ）[;
 #WRITE(RtPtr, $9DDC6C)
 // 0x8059e74
 //こえマシン（ラブ）[;
 // --- Literal
 //Voice Machine (Love)[;
 // --- Edited
-ＶｏｉｃｅＭａｃｈｉｎｅ（Ｌｏｖｅ）[;
+Ｖｏｉｃｅ　Ｍａｃｈｉｎｅ　（Ｌｏｖｅ）[;
 #WRITE(RtPtr, $9DDC64)
 // 0x8059e88
 //こえマシン（ネコ）[;
 // --- Literal
 //Voice Machine (Cat)[;
 // --- Edited
-ＶｏｉｃｅＭａｃｈｉｎｅ（Ｃａｔ）[;
+Ｖｏｉｃｅ　Ｍａｃｈｉｎｅ　（Ｃａｔ）[;
 #WRITE(RtPtr, $9DDC5C)
 // 0x8059e9c
 //ボンダンス[;
 // --- Literal
 //Bon-Dance[;
 // --- Edited
-[[ＢｏｎＤａｎｃｅ[;
+Ｂｏｎ－Ｄａｎｃｅ[;
 #WRITE(RtPtr, $9DDC54)
 // 0x8059ea8
 //ぼんおどり[;
 // --- Literal
 //Bon-Odori[;
 // --- Edited
-ＢｏｎＯｄｏｒｉ[;
+Ｂｏｎ－Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $9DDC4C)
 // 0x8059eb4
 //リミックス　１[;
 // --- Literal
 //Remix 1[;
 // --- Edited
-Ｒｅｍｉｘ１[;
+Ｒｅｍｉｘ　１[;
 #WRITE(RtPtr, $9DDC44)
 // 0x8059ec4
 //リミックス　２[;
 // --- Literal
 //Remix 2[;
 // --- Edited
-Ｒｅｍｉｘ２[;
+Ｒｅｍｉｘ　２[;
 #WRITE(RtPtr, $9DDC3C)
 // 0x8059ed4
 //リミックス　３[;
 // --- Literal
 //Remix 3[;
 // --- Edited
-Ｒｅｍｉｘ３[;
+Ｒｅｍｉｘ　３[;
 #WRITE(RtPtr, $9DDC34)
 // 0x8059ee4
 //リミックス　４[;
 // --- Literal
 //Remix 4[;
 // --- Edited
-Ｒｅｍｉｘ４[;
+Ｒｅｍｉｘ　４[;
 #WRITE(RtPtr, $9DDC2C)
 // 0x8059ef4
 //リミックス　５[;
 // --- Literal
 //Remix 5[;
 // --- Edited
-Ｒｅｍｉｘ５[;
+Ｒｅｍｉｘ　５[;
 #WRITE(RtPtr, $9DDC24)
 // 0x8059f04
 //リミックス　６[;
 // --- Literal
 //Remix 6[;
 // --- Edited
-Ｒｅｍｉｘ６[;
+Ｒｅｍｉｘ　６[;
 #WRITE(RtPtr, $9DDC1C)
 // 0x8059f14
 //リミックス　７[;
 // --- Literal
 //Remix 7[;
 // --- Edited
-Ｒｅｍｉｘ７[;
+Ｒｅｍｉｘ　７[;
 #WRITE(RtPtr, $9DDC14)
 // 0x8059f24
 //リミックス　８[;
 // --- Literal
 //Remix 8[;
 // --- Edited
-Ｒｅｍｉｘ８[;
+Ｒｅｍｉｘ　８[;
 #WRITE(RtPtr, $9DDC0C)
 // 0x8059f34
 //ウラおとこ[;
 // --- Literal
 //Upbeat Guy[;
 // --- Edited
-ＭｒＵｐｂｅａｔ[;
+Ｍｒ　Ｕｐｂｅａｔ[;
 #WRITE(RtPtr, $9DDC04)
 // 0x8059f40
 //マネキンこうじょう[;
 // --- Literal
 //Mannequin Factory[;
 // --- Edited
-ＭａｎｎｅｑｕｉｎＦａｃｔｏｒｙ[;
+Ｍａｎｎｅｑｕｉｎ　Ｆａｃｔｏｒｙ[;
 #WRITE(RtPtr, $9DDBFC)
 // 0x8059f54
 //クイズ（スペシャル）[;
 // --- Literal
 //Quiz (Special)[;
 // --- Edited
-Ｑｕｉｚ（Ｅｎｄｌｅｓｓ）[;
+Ｑｕｉｚ　（Ｅｎｄｌｅｓｓ）[;
 #WRITE(RtPtr, $9DDBF4)
 // 0x8059f6c
 //バイキン　はかせ　ＳＰ[;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-ＰｒｏｆｅｓｓｏｒＢａｃｔｅｒｉａ（Ｅｎｄｌｅｓｓ）[;
+Ｐｒｏｆｅｓｓｏｒ　Ｂａｃｔｅｒｉａ　（Ｅｎｄｌｅｓｓ）[;
 #WRITE(RtPtr, $9DDBEC)
 // 0x8059f84
 //ライブ[;
 // --- Literal
 //Live[;
 // --- Edited
-ＣｏｎｃｅｒｔＨａｌｌ[;
+Ｃｏｎｃｅｒｔ　Ｈａｌｌ[;
 #WRITE(RtPtr, $1E700)
 // 0x8059f8c
 //／[;
+// (That the text that's appear top right of the debug menu -Shaffy)
 // --- Literal
-//[;
+//／[;
 // --- Edited
-[;
+／[;
 // 0x8059f92
 //[;
+// (Unused? -Shaffy)
 // --- Literal
 //[;
 // --- Edited
 [;
 // 0x8059f96
 //[;
+// (Unused? -Shaffy)
 // --- Literal
 //[;
 // --- Edited
 [;
 // 0x8059f9a
 //[;
+// (Unused? -Shaffy)
 // --- Literal
 //[;
 // --- Edited
@@ -17173,7 +17178,7 @@ Very technical![;
 // --- Literal
 //Yotayota be something.[;
 // --- Edited
-[mystery40[;
+Somehow, you missed the ending.[;
 #WRITE(RtPtr, $A1F79C)
 // 0x805d3b0
 //カッコイイかも！[;
@@ -17440,14 +17445,14 @@ Very technical![;
 //[l
 //It's our win![;
 // --- Edited
-[sound of buzzer game over[;
+You lose! We win!![;
 #WRITE(RtPtr, $A2F434)
 // 0x805dcf0
 //また挑戦してネ！[;
 // --- Literal
 //Please challenge again![;
 // --- Edited
-[;
+Let's play again sometime![;
 #WRITE(RtPtr, $A309F4)
 // 0x805dd04
 //まいりました！[l
@@ -17457,15 +17462,17 @@ Very technical![;
 //[l
 //It's your win![;
 // --- Edited
-[;
+We lose! We win!![l
+Good job![;
 #WRITE(RtPtr, $A30A84)
 // 0x805dd28
 //また、　あそんでネ！[;
 // --- Literal
 //Play again (sometime)![;
 // --- Edited
-[;
+Let's play again sometime![;
 #WRITE(RtPtr, $A30B50)
+//Somes of the traduced lines here are from MFK5 video (https://youtu.be/p54_T7t4KnU)
 // 0x805dd40
 //[l
 //[l
@@ -17475,7 +17482,7 @@ Very technical![;
 //[l
 //Good day![;
 // --- Edited
-[;
+Hello![;
 #WRITE(RtPtr, $A30BEC)
 // 0x805dd50
 //サルとポン太です。[l
@@ -17487,8 +17494,10 @@ Very technical![;
 //We came here through the Drum Samurai's introduction.[l
 //[l
 //(Trans. note: I'm not sure if I should use “saru” as a name or just translate it as “monkey.”  I'm also not sure what Ponta might translate to, except maybe “Poppy,” as in a person who makes popping noises.  It would help if I remembered seeing this scene, but I don't.)[;
-// --- Edited [[Niko sez - I think all this is for more complex drum lessons that never made it into the finished game.
-[;
+// --- Edited [[Niko sez - I think all this is for more complex drum lessons that never made it into the finished game. (It's a whole completed game!! (Thanks Malalaika) -Shaffy)
+We are Saru and Ponta.[l
+The Samurai Drummer[l
+invited us to play.[;
 #WRITE(RtPtr, $A30C7C)
 // 0x805dd90
 //今回は　ボクたちが[l
@@ -17496,7 +17505,8 @@ Very technical![;
 // --- Literal
 //This time we'll be doing the lesson![;
 // --- Edited
-[dr15[;
+This time we're[l
+giving the lessons![;
 #WRITE(RtPtr, $A30D0C)
 // 0x805ddb8
 //さっそくですが、[l
@@ -17504,7 +17514,8 @@ Very technical![;
 // --- Literal
 //Moving on, let's practice the A Button.[;
 // --- Edited
-[;
+Moving on, let's[l
+practice the A Button.[;
 #WRITE(RtPtr, $A30D9C)
 // 0x805dde0
 //よく　きいて[l
@@ -17512,7 +17523,8 @@ Very technical![;
 // --- Literal
 //Please listen carefully and mimic![;
 // --- Edited
-[;
+Listen carefully[l
+and repeat![;
 #WRITE(RtPtr, $A31144)
 // 0x805ddfc
 //ポン太くんも入ります。[l
@@ -17523,7 +17535,9 @@ Very technical![;
 //[l
 //Ponta-kun's sound activates with Down on the D-pad.[;
 // --- Edited
-[;
+Ponta will play too.[l
+Follow him with Down[l
+on the D-Pad.[;
 #WRITE(RtPtr, $A31564)
 // 0x805de40
 //次は、　速いやつです。[l
@@ -17534,14 +17548,18 @@ Very technical![;
 //[l
 //It'll be easier if you alternate between the A Button and Right on the D-pad.[;
 // --- Edited
-[;
+The next one is fast.[l
+Try alternating the[l
+A-button and Right[l
+on the D-Pad[;
 #WRITE(RtPtr, $A319E4)
 // 0x805de88
 //練習は　次で最後です。[;
 // --- Literal
 //With the next one is the last of the practice.[;
 // --- Edited
-[;
+The next pratice[l
+is the last.[;
 #WRITE(RtPtr, $A31A74)
 // 0x805dea0
 //むずかしいかな？[l
@@ -17551,7 +17569,8 @@ Very technical![;
 //[l
 //Do your best![;
 // --- Edited
-[;
+Is it difficult?[l
+Do your best![;
 #WRITE(RtPtr, $A31ED0)
 // 0x805dec0
 //それでは、　ボクたちと[l
@@ -17560,7 +17579,8 @@ Very technical![;
 // --- Literal
 //OK then, how about a Rhythm Battle against us!?[;
 // --- Edited
-[;
+Well then, let's[l
+have a rhythm battle[;
 #WRITE(RtPtr, $A31F60)
 // 0x805def8
 //各パターンにつき[l
@@ -17569,7 +17589,8 @@ Very technical![;
 // --- Literal
 //You get 3 chances for each pattern.[;
 // --- Edited
-[;
+You get 3 chances[l
+for each pattern.[;
 #WRITE(RtPtr, $A32074)
 // 0x805df28
 //さて、　どこまで[l
@@ -17577,7 +17598,8 @@ Very technical![;
 // --- Literal
 //OK then, I wonder how far you can follow?[;
 // --- Edited
-[;
+So, how far will[l
+you go?[;
 #WRITE(RtPtr, $A324DC)
 // 0x805df4c
 //Welcome to[l
@@ -18876,3 +18898,7 @@ making a sequel...[;
 // --- Edited
 Please keep up[l
 your rhythm![;
+#WRITE(RtPtr, $A32BA8)
+// 0x8099f90
+// idk
+lol[;
