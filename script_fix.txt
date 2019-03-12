@@ -17388,7 +17388,8 @@ Somehow, you missed the ending.[;
 //[l
 //I'm the Drum Samurai.[;
 // --- Edited
-[;
+Ah, greetings.[l
+I'm the Drum Samurai.[;
 #WRITE(RtPtr, $A2C818)
 // 0x805d9c8
 //えっと…[l
@@ -17401,7 +17402,9 @@ Somehow, you missed the ending.[;
 //[l
 //I'm happy to be able to meet again![;
 // --- Edited
-[second time[;
+Let's see...[l
+This is the[l
+second time, right?[;
 #WRITE(RtPtr, $A2C86C)
 // 0x805da00
 //さて、　なにごとも最初が[l
