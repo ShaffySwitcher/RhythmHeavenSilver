@@ -15559,8 +15559,8 @@ data! Is that really OK?[;
 // --- Literal
 //Sequence Test[;
 // --- Edited
-//TODO: Too much text on screen at page 3 and D (lol 3d) -Shaffy
-Debug Menu[;
+//TODO: Too much text on screen at page 3, 5 and D -Shaffy (Now fixed.)
+Ｄｅｂｕｇ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $1E38C)
 // 0x8059680
 //＊[;
@@ -15574,7 +15574,7 @@ Debug Menu[;
 // --- Literal
 //1/1[;
 // --- Edited
-[;
+１／１[;
 #WRITE(RtPtr, $9DDF54)
 // 0x805968c
 //データクリア[;
@@ -15645,28 +15645,28 @@ Debug Menu[;
 // --- Literal
 //Title Screen (result4)[;
 // --- Edited
-Ｔｉｔｌｅ　Ｓｃｒｅｅｎ　（Ｒｅｓｕｌｔ　４）[;
+Ｔｉｔｌｅ　Ｓｃｒｅｅｎ[;
 #WRITE(RtPtr, $9DDEFC)
 // 0x8059794
 //Ｒ−ＩＱ　（リザルト３）[;
 // --- Literal
 //Rhythm Test Results (Result3)[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｅｓｔ　（Ｒｅｓｕｌｔ　３）[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　Ｒａｎｋｉｎｇ[;
 #WRITE(RtPtr, $9DDEF4)
 // 0x80597b0
 //Ｒ−ＩＱ　（リザルト２）[;
 // --- Literal
 //Result 2 (Result2)[;
 // --- Edited
-Ｄｅｂｕｇ　（Ｒｅｓｕｌｔ　２）[;
+Ｂｅｔａ　Ｒａｎｋｉｎｇ[;
 #WRITE(RtPtr, $9DDEEC)
 // 0x80597cc
 //Ｒ−ＩＱ　（リザルト）[;
 // --- Literal
 //Result (Might be a prototype ranking system -Shaffy)[;
 // --- Edited
-Ｐｒｏｔｏｔｙｐｅ　（Ｒｅｓｕｌｔ　１）[;
+Ｐｒｏｔｏｔｙｐｅ　Ｒａｎｋｉｎｇ[;
 #WRITE(RtPtr, $9DDEE4)
 // 0x80597e4
 //Ｒ−ＩＱ　（オプション）[;
@@ -16079,56 +16079,56 @@ Debug Menu[;
 // --- Literal
 //Lesson (Practice 8)[;
 // --- Edited　[[this looks to be a sequence of unused drum lesson titles. The drum lessons look like they used to be a lot more complicated.
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　８）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　８）[;
 #WRITE(RtPtr, $9DDD04)
 // 0x8059c98
 //レッスン（じっせん７）[;
 // --- Literal
 //Lesson (Practice 7)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　７）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　７）[;
 #WRITE(RtPtr, $9DDCFC)
 // 0x8059cb0
 //レッスン（じっせん６）[;
 // --- Literal
 //Lesson (Practice 6)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　６）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　６）[;
 #WRITE(RtPtr, $9DDCF4)
 // 0x8059cc8
 //レッスン（じっせん５）[;
 // --- Literal
 //Lesson (Practice 5)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　５）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　５）[;
 #WRITE(RtPtr, $9DDCEC)
 // 0x8059ce0
 //レッスン（じっせん４）[;
 // --- Literal
 //Lesson (Practice 4)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　４）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　４）[;
 #WRITE(RtPtr, $9DDCE4)
 // 0x8059cf8
 //レッスン（じっせん３）[;
 // --- Literal
 //Lesson (Practice 3)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　３）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　３）[;
 #WRITE(RtPtr, $9DDCDC)
 // 0x8059d10
 //レッスン（じっせん２）[;
 // --- Literal
 //Lesson (Practice 2)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　２）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　２）[;
 #WRITE(RtPtr, $9DDCD4)
 // 0x8059d28
 //レッスン（じっせん１）[;
 // --- Literal
 //Lesson (Practice 1)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（Ｄｅｂｕｇ　１）[;
+Ｌｅｓｓｏｎ　（Ｂｅｔａ　１）[;
 #WRITE(RtPtr, $9DDCCC)
 // 0x8059d40
 //レッスン（スネアテクニック）[;
@@ -16177,14 +16177,14 @@ Debug Menu[;
 // --- Literal
 //Lesson (Ending Pattern 2)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（ＥｎｄＰａｔｔｅｒｎ２）[;
+Ｌｅｓｓｏｎ　（Ｅｎｄ　２）[;
 #WRITE(RtPtr, $9DDC94)
 // 0x8059df8
 //レッスン（キメパターン１）[;
 // --- Literal
 //Lesson (Ending Pattern 1)[;
 // --- Edited
-Ｌｅｓｓｏｎ　（ＥｎｄＰａｔｔｅｒｎ１）[;
+Ｌｅｓｓｏｎ　（Ｅｎｄ　１）[;
 #WRITE(RtPtr, $9DDC8C)
 // 0x8059e14
 //レッスン（ハード２）[;
