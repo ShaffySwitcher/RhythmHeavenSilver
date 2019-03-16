@@ -15559,7 +15559,8 @@ data! Is that really OK?[;
 // --- Literal
 //Sequence Test[;
 // --- Edited
-[;
+//TODO: Too much text on screen at page 3 and D (lol 3d) -Shaffy
+Debug Menu[;
 #WRITE(RtPtr, $1E38C)
 // 0x8059680
 //＊[;
@@ -16345,21 +16346,21 @@ data! Is that really OK?[;
 // --- Literal
 //[;
 // --- Edited
-[;
+／／／[;
 // 0x8059f96
 //[;
 // (Unused? -Shaffy)
 // --- Literal
 //[;
 // --- Edited
-[;
+／／／[;
 // 0x8059f9a
 //[;
 // (Unused? -Shaffy)
 // --- Literal
 //[;
 // --- Edited
-[;
+／／／[;
 #WRITE(RtPtr, $250C4)
 // 0x8059f9c
 //[l
