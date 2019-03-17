@@ -9,3 +9,5 @@ Feel free to contribute.
 * Create a folder called "Game"
 * Put your original backup of Rhythm Tengoku in the folder called "Game" and call it "rh-jpn.gba"
 * Then launch "compile.bat"
+### Wiki
+Please check out the wiki it's has alot of useful information
