@@ -16302,7 +16302,7 @@ data! Is that really OK?[;
 //ウラおとこ[;
 // --- Literal
 //Upbeat Guy[;
-// --- Edited
+// --- Edited (Removed the . because it's doesn't support it)
 Ｍｒ　Ｕｐｂｅａｔ[;
 #WRITE(RtPtr, $9DDC04)
 // 0x8059f40
