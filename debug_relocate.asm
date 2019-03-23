@@ -62,7 +62,7 @@ ldr r0,=0x030046a8
 ldr r0,[r0]
 ldr r1,=0x29E
 add r0,r0,r1
-mov r1,0x63
+mov r1,0xFF
 strb r1,[r0]
 pop r0-r1,r15
 .pool

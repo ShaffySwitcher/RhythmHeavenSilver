@@ -10,7 +10,7 @@ _skipwarningscreen equ 1
 ; Skip the Rhythm Test when creating a new save (1 = yes, 0 = no)
 _skiprhythmtest equ 0
 ; To-Document later
-_debug equ 0
+_debug equ 1
 ; Have to do with something?
 _nocashmessages equ 0
 ; ????

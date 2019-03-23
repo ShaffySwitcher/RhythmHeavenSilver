@@ -1,7 +1,6 @@
 Graphics for:
-Rhythm Tweezers (Remix 8)
-Karate Man (Remix 8) (Not sure)... Remove letter from Remix 8 karate man
+Rhythm Tweezers (Remix 8) (Don't Peek Please)
 Meow Mixer
 Beat Box (Select to Quit)
 Love Machine (Select to Quit)
-Find out what is happening with these texts on the unused mini-game
+Find out what is happening with these texts on the unused mini-game (After Malalaika the music and text use GFX command, that's mean let's check the epic docs)
