@@ -15193,7 +15193,7 @@ Spaceball[;
 // --- Literal
 //Marcher[;
 // --- Edited
-MarchingOrders[;
+Marching Orders[;
 #WRITE(RtPtr, $9D825C)
 // 0x8059114
 //まほうつかい[;
@@ -16801,7 +16801,7 @@ Measuring finished! Okay, the result is...[;
 // --- Literal
 //The basics are not down.[;
 // --- Edited
-[air3 basics Line 8845[;
+The basics are not down.[;
 #WRITE(RtPtr, $A07334)
 // 0x805be9c
 //[;
@@ -16815,105 +16815,105 @@ Measuring finished! Okay, the result is...[;
 // --- Literal
 //The rests are uncool/unbecoming/bad.[;
 // --- Edited
-[air3 rests bad Line 8859[;
+The rests are bad[;
 #WRITE(RtPtr, $A07344)
 // 0x805beb8
 //タメが　しっかりしている！[;
 // --- Literal
 //The rests are firm/right on![;
 // --- Edited
-[air3 rests good Line 8866[;
+The rests are perfect![;
 #WRITE(RtPtr, $A07358)
 // 0x805bed4
 //画面を頼りすぎです。[;
 // --- Literal
 //Relying too much on the screen.[;
 // --- Edited
-[air3 screen rely bad Line 8873[;
+You should listen to the music[;
 #WRITE(RtPtr, $A07354)
 // 0x805beec
 //見えなくて　できている！[;
 // --- Literal
 //You can do it even when you can't see![;
 // --- Edited
-[air3 great when can't see[;
+You can do it blindfolded![;
 #WRITE(RtPtr, $A07368)
 // 0x805bf08
 //スピードに　やられてます。[;
 // --- Literal
 //You are done in for by the speed. / You are beat by the speed.[;
 // --- Edited
-[air3 speed bad[;
+You got surprised by the speed[;
 #WRITE(RtPtr, $A07364)
 // 0x805bf24
 //速いのがカンペキ！[;
 // --- Literal
 //The fast parts are perfect![;
 // --- Edited
-[air3 speed good[;
+The fast parts are perfect![;
 #WRITE(RtPtr, $A08DA8)
 // 0x805bfc4
 //スピードに　やられてます。[;
 // --- Literal
 //You are done in for by the speed. / You are beat by the speed.[;
 // --- Edited
-[air4 When it gets fast, you get left in the dust.[;
+When it gets fast, you get left in the dust.[;
 #WRITE(RtPtr, $A08DA4)
 // 0x805bfe0
 //速いのが　カンペキ！[;
 // --- Literal
 //The fast parts are perfect![;
 // --- Edited
-[air4 Speed isn't a problem for you![;
+Speed isn't a problem for you![;
 #WRITE(RtPtr, $A0B658)
 // 0x805c0d0
 //きほんが　できてませんね。[;
 // --- Literal
 //The basics are not down.[;
 // --- Edited
-[;
+The basics are not down.[;
 #WRITE(RtPtr, $A0B654)
 // 0x805c0ec
 //適応能力　良いです！[;
 // --- Literal
 //Your adaptation ability is good![;
 // --- Edited
-[;
+Your adaptation ability is good![;
 #WRITE(RtPtr, $A0B668)
 // 0x805c104
 //判断力が欠けてます。[;
 // --- Literal
 //Power of judgement is lacking.[;
 // --- Edited
-[;
+Power of judgement is lacking.[;
 #WRITE(RtPtr, $A0B664)
 // 0x805c11c
 //たいした判断力だ！[;
 // --- Literal
 //Great power of judgement![;
 // --- Edited
-[;
+Great power of judgement![;
 #WRITE(RtPtr, $A0B678)
 // 0x805c130
 //もっと集中しよう。[;
 // --- Literal
 //Let's concentrate/focus more.[;
 // --- Edited
-[;
+Let's concentrate more.[;
 #WRITE(RtPtr, $A0B674)
 // 0x805c144
 //すごい集中力ですよ！[;
 // --- Literal
 //Amazing concentration/focus![;
 // --- Edited
-[;
+Amazing concentration![;
 #WRITE(RtPtr, $A0B688)
 // 0x805c15c
 //ツメが甘いです。[;
 // --- Literal
-//[;
+//The nail is sweat[; //what -shaffy
 // --- Edited
-[;
+The nail is sweat[;
 #WRITE(RtPtr, $A0B684)
 // 0x805c170
 //[;
@@ -16927,70 +16927,70 @@ Measuring finished! Okay, the result is...[;
 // --- Literal
 //Real thing, START![;
 // --- Edited
-[;
+eal thing, START![;
 #WRITE(RtPtr, $A0BCBC)
 // 0x805c18c
 //チェックしちゃうもんね。[;
 // --- Literal
 //Gonna check, OK?[;
 // --- Edited
-［ｔａｐ　ｇｏｎｎａ　ｃｈｅｃｋ[;
+Ｉ　ｌｏｖｅ　ｔａｐ！[;
 #WRITE(RtPtr, $A0CA60)
 // 0x805c1a8
 //おつかれちゃん。[;
 // --- Literal
 //Good job. (in cutesy talk)[;
 // --- Edited
-[;
+Ｗｈａｔ　ａ　ｐｅｒｆｏｒｍａｎｃｅ！[;
 #WRITE(RtPtr, $A0CACC)
 // 0x805c1bc
 //タップしましょ！[;
 // --- Literal
 //Let's tap![;
 // --- Edited
-[tap2 let's tap[;
+Ｌｅｔ’ｓ　ｔａｐ！[;
 #WRITE(RtPtr, $A0CB5C)
 // 0x805c1d0
 //まず、　れんしゅう。[;
 // --- Literal
 //First, practice[;
 // --- Edited
-[tap2 practice[;
+Ｐｒａｃｔｉｃｅ　ｆｉｒｓｔ！[;
 #WRITE(RtPtr, $A0CBD4)
 // 0x805c1e8
 //マネしてね。[;
 // --- Literal
 //Imitate, OK?[;
 // --- Edited
-[tap2 imitate[;
+Ｉｍｉｔａｔｅ，　ＯＫ？[;
 #WRITE(RtPtr, $A0CC4C)
 // 0x805c1f8
 //ＯＫ！　つぎでーす。[;
 // --- Literal
 //OK!  Next-![;
 // --- Edited
-[;
+ＯＫ，　ｎｅｘｔ！[;
 #WRITE(RtPtr, $A0CCD0)
 // 0x805c210
 //ＯＫ！　まだあるヨ。[;
 // --- Literal
 //OK!  There's more![;
 // --- Edited
-[;
+ＯＫ！　Ｔｈｅｒｅ＇ｓ　ｍｏｒｅ！[;
 #WRITE(RtPtr, $A0CD54)
 // 0x805c228
 //ＯＫ！　ラストです。[;
 // --- Literal
 //OK!  Last one.[;
 // --- Edited
-[;
+ＯＫ！　Ｌａｓｔ　ｏｎｅ．[;
 #WRITE(RtPtr, $A0CDF0)
 // 0x805c240
 //ＯＫ！[;
 // --- Literal
 //OK![;
 // --- Edited
-[;
+ＯＫ！[;
 #WRITE(RtPtr, $A0FF08)
 // 0x805c80c
 //隊長の判断[;
