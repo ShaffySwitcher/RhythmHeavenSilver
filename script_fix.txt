@@ -14930,7 +14930,7 @@ cares about. Enjoy![l
 //New format
 <color=0(normal)>twitter.com/rh0updates[l
 <color=0(normal)>Github: RhythmTengokuENPatch[l
-<color=gray>Beta 11b: 2019-03-11[;
+<color=gray>Beta 11b: 2019-03-27[;
 //for Betas
 //Twitter.com/rh0updates      <color=gray>Beta 9b: 2013-09-06[;
 //for Demos
@@ -17466,7 +17466,7 @@ Let's play again sometime![;
 //[l
 //It's your win![;
 // --- Edited
-We lose! We win!![l
+We lose! You win!![l
 Good job![;
 #WRITE(RtPtr, $A30A84)
 // 0x805dd28
