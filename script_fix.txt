@@ -5099,7 +5099,7 @@ Spaceball[;
 Don't worry about[l
 the zoom! Follow[l
 the trajectories[l
-in your heart![;
+in your heart! (NP)[;
 #WRITE(RtPtr, $A08DD0)
 // 0x805bff8
 //つうしんぼ[;
@@ -7219,8 +7219,7 @@ Someday we'll shine like the stars...[;
 We danced right into a black hole!![;
 #WRITE(RtPtr, $9CE8A8)
 // 0x8052998
-//リミックス ３[;
-//リミックス ３[;
+//リミックス ３[; //(Why do this have two of them? xD -Shaffy)
 // --- Literal
 //Remix 3[;
 // --- Edited
