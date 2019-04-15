@@ -53,4 +53,5 @@
 .include Graphics/RhythmGame/Toss2/toss2_relocate.asm
 .include Graphics/RhythmGame/Remix8/remix8_relocate.asm
 .include Graphics/ToysMenu/Toys/toys_relocate.asm
+.include Graphics/WarningScreen/warningscreen_relocate.asm
 ;eof
