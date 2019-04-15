@@ -11,6 +11,7 @@ bl Debug_UnlockAllStages_Hook
 bl Debug_UnlockAllMail_Hook
 .org 0x0801D656
 bl Debug_99Medals_Hook
+.endif
 
 .if _skiprhythmtest==1
 .org 0x0801CFC0
@@ -19,8 +20,6 @@ nop
 
 .if _debugmenu==1
 .org 0x0801CFC0
-.dw 0x089ddbcc
-.endif
-
+.dw 0x089DDBCC
 .endif
 ;eof
