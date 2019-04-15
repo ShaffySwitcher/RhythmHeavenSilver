@@ -12,6 +12,8 @@ _skiprhythmtest equ 0
 ; To-Document later
 _debug equ 0
 ; Have to do with something?
+_debugmenu equ 1
+;debugmenu mode
 _nocashmessages equ 0
 ; ????
 _luaconsolemessages equ 0
