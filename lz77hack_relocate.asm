@@ -20,7 +20,7 @@ pop r15
 
 LZ77CompressedChecker:
 push r5,r14
-.if (_debug ==1);&&(_nocashmessages ==1)
+.if _nocashmessages ==1
 	push r0-r7
 	ldr r3,[r5,0xC]
 	ldrb r0,[r3,0xC]

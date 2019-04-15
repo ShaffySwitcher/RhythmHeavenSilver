@@ -4,6 +4,10 @@
 .org 0x08000454
 .dw 0x089DD47C
 .endif
+.if _debugmenu==1
+.org 0x0801CFD4
+.dw 0x089DDBCC
+.endif
 .org 0x08019A2C
 ;bl FixResultsCaps
 .org 0x08019B80

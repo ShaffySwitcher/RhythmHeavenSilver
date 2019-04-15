@@ -1,24 +1,13 @@
-; Show that this need need to be compile for GBA
 .gba 
-; Open the file called "rh-atlus.gba" and open it at offset 0x08000000 (the ROM)
 .open "Game/rh-atlus.gba","Game/rh-eng.gba", 0x08000000
 
-; Variables
-
-; Skip the warning screen (1 = yes, 0 = no)
 _skipwarningscreen equ 0
-; Skip the Rhythm Test when creating a new save (1 = yes, 0 = no)
-_skiprhythmtest equ 0
-; To-Document later
+_skiprhythmtest equ 1
 _debug equ 0
-; Have to do with something?
 _debugmenu equ 1
-;debugmenu mode
-_nocashmessages equ 0
-; ????
-_luaconsolemessages equ 0
-; ????
-_spriteluaconsolemessages equ 0
+_nocashmessages equ 1
+_luaconsolemessages equ 1
+_spriteluaconsolemessages equ 1
 
 .include relocate.asm
 

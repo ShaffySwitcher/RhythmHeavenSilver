@@ -1042,8 +1042,17 @@
 080B4DD8 @@notlz77compressed
 080B4DDC @@exitcompressioncheck
 080B4DDE lz77compressedchecker
-080B4DEE @@lz77compressed
-080B4DF0 .pool
-080B4DF0 .dbl:0000
-0801CFC0 .dbl:0004
+080B4DF0 .byt:0004
+080B4DF4 .asc:0026
+080B4E1A @@debug_msg_00000000
+080B4E1A @@notcompressed
+080B4E2A @@lz77compressed
+080B4E2C .pool
+080B4E2C .dbl:0000
+080B4E2C spriteluaconsolemessagehook
+080B4E40 @@addentry
+080B4E4A @@skipadding
+080B4E54 .pool
+080B4E54 .dbl:0004
+0801CFD4 .dbl:0004
 
