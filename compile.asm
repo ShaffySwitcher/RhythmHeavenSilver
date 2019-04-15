@@ -6,7 +6,7 @@
 ; Variables
 
 ; Skip the warning screen (1 = yes, 0 = no)
-_skipwarningscreen equ 1
+_skipwarningscreen equ 0
 ; Skip the Rhythm Test when creating a new save (1 = yes, 0 = no)
 _skiprhythmtest equ 0
 ; To-Document later
