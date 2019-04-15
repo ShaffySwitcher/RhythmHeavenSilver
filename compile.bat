@@ -93,12 +93,7 @@ rhcomp.exe Graphics/MusicSelect/CD62EC_musicselect_map.bin
 rhcomp.exe Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
 armips.exe compile.asm -sym mysym.sym
 flips.exe --apply "Patch\Font Hack 4 - 1px spacer.ips" "Game\rh-eng.gba"
-if %1 == 1 (
-  echo Debug Menu Activated
-  flips.exe --apply "Patch\Debug_Menu.ips" "Game\rh-eng.gba"
-) else (
-  echo Debug Menu Not Activated
-)
+
 pause
 compile.bat %1
 exit

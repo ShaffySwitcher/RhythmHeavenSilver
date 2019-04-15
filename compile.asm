@@ -6,12 +6,14 @@
 ; Variables
 
 ; Skip the warning screen (1 = yes, 0 = no)
-_skipwarningscreen equ 1
+_skipwarningscreen equ 0
 ; Skip the Rhythm Test when creating a new save (1 = yes, 0 = no)
 _skiprhythmtest equ 0
 ; To-Document later
 _debug equ 0
 ; Have to do with something?
+_debugmenu equ 1
+;debugmenu mode
 _nocashmessages equ 0
 ; ????
 _luaconsolemessages equ 0
