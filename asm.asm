@@ -1,6 +1,6 @@
 .include lz77hack.asm
 .include debug.asm
-.if _skipwarningscreen==1
+.if _skipwarningscreen==0
 .org 0x08000454
 .dw 0x089DD47C
 .endif

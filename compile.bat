@@ -1,8 +1,7 @@
 @echo off
-:compile
 del "Game\rh-atlus.gba"
 copy "Game\rh-jpn.gba" "Game\rh-atlus.gba"
-atlas "Game\rh-atlus.gba" script_fix.txt
+atlas "Game\rh-atlus.gba" script.txt
 
 DSDecmp.exe -c lz10 Graphics/TitleScreen/CD7948_titlescreen_oam_tiles.bin Graphics/TitleScreen/CD7948_titlescreen_oam_tiles
 DSDecmp.exe -c lz10 Graphics/RhythmGame/KarateMan1/Game/BE0480_karateman1_oam_tiles.bin Graphics/RhythmGame/KarateMan1/Game/BE0480_karateman1_oam_tiles
