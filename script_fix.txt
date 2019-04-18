@@ -15558,14 +15558,14 @@ data! Is that really OK?[;
 // --- Literal
 //Sequence Test[;
 // --- Edited
-Ｄｅｂｕｇ　Ｍｅｎｕ[;
+[;
 #WRITE(RtPtr, $1E38C)
 // 0x8059680
 //＊[;
 // --- Literal
 //＊[;
 // --- Edited
-＊[;
+[;
 #WRITE(RtPtr, $1E390)
 // 0x8059684
 //１／１[;
@@ -15579,233 +15579,233 @@ data! Is that really OK?[;
 // --- Literal
 //Data Clear[;
 // --- Edited
-Ｄａｔａ　Ｃｌｅａｒ[;
+Data Clear[;
 #WRITE(RtPtr, $9DDF4C)
 // 0x805969c
 //エンディング（おまけから）[;
 // --- Literal
 //Ending (From the Extras)[;
 // --- Edited
-Ｅｎｄｉｎｇ　（Ｅｘｔｒａｓ）[;
+[;
 #WRITE(RtPtr, $9DDF44)
 // 0x80596b8
 //エンディング（クリアご）[;
 // --- Literal
-//Ending (From "clearing")[; //Remix 6 -Shaffy
+//[;
 // --- Edited
-Ｅｎｄｉｎｇ　（Ｒｅｍｉｘ　６）[;
+[;
 #WRITE(RtPtr, $9DDF34)
 // 0x80596d4
 //Ｒ−ＩＱ　（おもちゃ）[;
 // --- Literal
-//R-IQ (Toy)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｏｙｓ[;
+[;
 #WRITE(RtPtr, $9DDF2C)
 // 0x80596ec
 //Ｒ−ＩＱ　（ドラムレッスン）[;
 // --- Literal
-//R-IQ (Drum lessons)[;
+//[;
 // --- Edited
-Ｄｒｕｍ　Ｌｅｓｓｏｎｓ[;
+[;
 #WRITE(RtPtr, $9DDF24)
 // 0x805970c
 //Ｒ−ＩＱ　（ミニゲーム）[;
 // --- Literal
-//R-IQ (Mini games)[;
+//[;
 // --- Edited
-Ｅｎｄｌｅｓｓ　Ｇａｍｅｓ[;
+[;
 #WRITE(RtPtr, $9DDF1C)
 #WRITE(RtPtr, $9DDF3C)
 // 0x8059728
 //Ｒ−ＩＱ　（カウンセラー）[;
 // --- Literal
-//R-IQ (counselor)[;
+//[;
 // --- Edited
-Ｃａｆｅ[;
+[;
 #WRITE(RtPtr, $9DDF14)
 // 0x8059744
 //Ｒ−ＩＱ　（パーフェクト）[;
 // --- Literal
-//R-IQ (Perfect congratulations)[; //(Thanks temmie -Shaffy)
+//[;
 // --- Edited
-Ｙｏｕ　ｇｏｔ　ａ　Ｐｅｒｆｅｃｔ！[;
+[;
 #WRITE(RtPtr, $9DDF0C)
 // 0x8059760
 //Ｒ−ＩＱ　（にゅうか）[;
 // --- Literal
-//R-IQ (New)[; //Beta "Letter Get" Screen -Shaffy
+//[;
 // --- Edited
-Ｎｅｗ　（ＰＬＡＣＥＨＯＬＤＥＲ）[;
+[;
 #WRITE(RtPtr, $9DDF04)
 // 0x8059778
 //Ｒ−ＩＱ　（リザルト４）[;
 // --- Literal
-//R-IQ (Result 4)[; //When launched goes to Title Screen
+//[;
 // --- Edited
-Ｔｉｔｌｅ　Ｓｃｒｅｅｎ[;
+[;
 #WRITE(RtPtr, $9DDEFC)
 // 0x8059794
 //Ｒ−ＩＱ　（リザルト３）[;
 // --- Literal
-//R-IQ (Result 3)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｅｓｔ　Ｒｅｓｕｌｔ[;
+[;
 #WRITE(RtPtr, $9DDEF4)
 // 0x80597b0
 //Ｒ−ＩＱ　（リザルト２）[;
 // --- Literal
-//R-IQ (Result 2)[;
+//[;
 // --- Edited
-Ｄｅｂｕｇ　Ｒａｔｉｎｇ[;
+[;
 #WRITE(RtPtr, $9DDEEC)
 // 0x80597cc
 //Ｒ−ＩＱ　（リザルト）[;
 // --- Literal
-//R-IQ (Result)[;
+//[;
 // --- Edited
-Ｐｒｏｔｏｔｙｐｅ　Ｒａｔｉｎｇ[;
+[;
 #WRITE(RtPtr, $9DDEE4)
 // 0x80597e4
 //Ｒ−ＩＱ　（オプション）[;
 // --- Literal
-//R-IQ (option)[;
+//[;
 // --- Edited
-Ｏｐｔｉｏｎｓ[;
+[;
 #WRITE(RtPtr, $9DDEDC)
 // 0x8059800
 //Ｒ−ＩＱ　（スタジオ）[;
 // --- Literal
-//R-IQ (studio)[;
+//[;
 // --- Edited
-Ｓｔｕｄｉｏ[;
+[;
 #WRITE(RtPtr, $9DDED4)
 // 0x8059818
 //Ｒ−ＩＱ　（しりょうしつ）[;
 // --- Literal
-//R-IQ (Library)[;
+//[;
 // --- Edited
-Ｌｉｂｒａｒｙ[;
+[;
 #WRITE(RtPtr, $9DDECC)
 // 0x8059834
 //Ｒ−ＩＱ　（ゲーム）[;
 // --- Literal
-//R-IQ (game)[;
+//[;
 // --- Edited
-Ｇａｍｅ　Ｓｅｌｅｃｔ[;
+[;
 #WRITE(RtPtr, $9DDEC4)
 // 0x805984c
 //Ｒ−ＩＱ　（メニュー）[;
 // --- Literal
-//R-IQ (menu)[;
+//[;
 // --- Edited
-Ｍｅｎｕ[;
+[;
 #WRITE(RtPtr, $9DDEBC)
 // 0x8059864
 //Ｒ−ＩＱ　（タイトル）[;
 // --- Literal
-//R-IQ (title)[;
+//[;
 // --- Edited
-Ｔｉｔｌｅ　Ｓｃｒｅｅｎ[;
+[;
 #WRITE(RtPtr, $9DDEB4)
 // 0x805987c
 //カラテカ　２[;
 // --- Literal
 //Karate Master 2[;
 // --- Edited
-Ｋａｒａｔｅ　Ｍａｎ　２[;
-//Still Debug Menu.
+[;
+//[[More titles for studio?
 #WRITE(RtPtr, $9DDEA4)
 // 0x8059898
 //バリバリ３にんしゅう[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Ｔｒｉｏ　ｏｎ　Ｔｏｕｒ[;
+Trio on Tour[;
 #WRITE(RtPtr, $9DDE9C)
 // 0x80598b0
 //パチパチ３にんしゅう[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-Ｃｌａｐｐｙ　Ｔｒｉｏ[;
+Clappy Trio[;
 #WRITE(RtPtr, $9DDE94)
 // 0x80598c8
 //ポリリズム　２[;
 // --- Literal
 //Polyrhythm 2[;
 // --- Edited
-Ｐｏｌｙｒｈｙｔｈｍ　２[;
+[;
 #WRITE(RtPtr, $9DDE8C)
 // 0x80598d8
 //ポリリズム[;
 // --- Literal
 //Polyrhythm[;
 // --- Edited
-Ｐｏｌｙｒｈｙｔｈｍ[;
+[;
 #WRITE(RtPtr, $9DDE84)
 // 0x80598e4
 //ナイト　ウォーク　２[;
 // --- Literal
 //Night Walk 2[;
 // --- Edited
-Ｎｉｇｈｔ　Ｗａｌｋ　２[;
+[;
 #WRITE(RtPtr, $9DDE7C)
 // 0x80598fc
 //ナイト　ウォーク[;
 // --- Literal
 //Night Walk[;
 // --- Edited
-Ｎｉｇｈｔ　Ｗａｌｋ[;
+[;
 #WRITE(RtPtr, $9DDE74)
 // 0x8059910
 //リズムだつもう　２[;
 // --- Literal
 //Rhythm Hair Pluck 2[;
 // --- Edited
-Ｖｅｇｅｔａ－Ｐｕｌｌ　２[;
+Vegeta-Pull 2[;
 #WRITE(RtPtr, $9DDE6C)
 // 0x8059924
 //リズムだつもう[;
 // --- Literal
 //Rhythm Hair Pluck[;
 // --- Edited
-Ｖｅｇｅｔａ－Ｐｕｌｌ[;
+Vegeta-Pull[;
 #WRITE(RtPtr, $9DDE64)
 // 0x8059934
 //バイキン　はかせ[;
 // --- Literal
 //Professor Bacteria[;
 // --- Edited
-Ｓｉｃｋ　Ｂｅａｔｓ[;
+[;
 #WRITE(RtPtr, $9DDE5C)
 // 0x8059948
 //ホッピングロード　２[;
 // --- Literal
 //Hopping Road 2[;
 // --- Edited
-Ｈｏｐｐｉｎｇ　Ｒｏａｄ　２[;
+[;
 #WRITE(RtPtr, $9DDE54)
 // 0x8059960
 //ホッピングロード[;
 // --- Literal
 //Hopping Road[;
 // --- Edited
-Ｈｏｐｐｉｎｇ　Ｒｏａｄ[;
+[;
 #WRITE(RtPtr, $9DDE4C)
 // 0x8059974
 //ニンジャ　２[;
 // --- Literal
 //Ninja 2[;
 // --- Edited
-Ｎｉｎｊａ　２[;
+[;
 #WRITE(RtPtr, $9DDE44)
 // 0x8059984
 //ニンジャ[;
 // --- Literal
 //Ninja[;
 // --- Edited
-Ｎｉｎｊａ[;
+[;
 #WRITE(RtPtr, $9DDE3C)
 // 0x8059990
 //しろいおばけ　２[;
@@ -16335,9 +16335,9 @@ Dr. Bacteria EX[;
 // 0x8059f8c
 //／[;
 // --- Literal
-//／[;
+//[;
 // --- Edited
-／[;
+[;
 // 0x8059f92
 //[;
 // --- Literal

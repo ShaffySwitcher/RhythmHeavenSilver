@@ -1,7 +1,9 @@
-# Things #
-##########
+# Ignore GBA files for copyrights reasons
 *.gba
+# Ignore saves files because, i mean.
 *.sav
-flipscfg.bin
-*.gba.bak
-Backup/
+*.bak
+*.gba
+*.gba
+*.gba
+Game/rh-atlus.gba

@@ -4,8 +4,8 @@
 .org 0x08000454
 .dw 0x089DD47C
 .endif
-.if _debugmenu==1
-.org 0x0801CFD4
+.if _debugmenu==1 ;Thanks WindowsTiger
+.org 0x0801CFC0
 .dw 0x089DDBCC
 .endif
 .org 0x08019A2C

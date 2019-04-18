@@ -20,18 +20,18 @@ pop r15
 
 LZ77CompressedChecker:
 push r5,r14
-.if _nocashmessages ==1
+.if (_debug ==1)&&(_nocashmessages ==1)
 	push r0-r7
 	ldr r3,[r5,0xC]
 	ldrb r0,[r3,0xC]
 	ldrb r4,[r3,0x3]
 	lsr r4,7
-;	cmp r4,1
-;	beq @@NotCompressed
-;	cmp r0,0
-;	beq @@NotCompressed
+	cmp r4,1
+	beq @@NotCompressed
+	cmp r0,0
+	beq @@NotCompressed
 	ldr r1,[r5,0x10]
-	.msg "Graphic data loaded (0x%r3% -> 0x%r1%)"
+	.msg "%r3% -> %r1%"
 	@@NotCompressed:
 	pop r0-r7
 .endif

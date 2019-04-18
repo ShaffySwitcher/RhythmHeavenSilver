@@ -16,5 +16,6 @@ bl Debug_99Medals_Hook
 .org 0x0801CFC0
 nop
 .endif
+
 .endif
 ;eof
