@@ -1,9 +1,4 @@
 # Ignore GBA files for copyrights reasons
 *.gba
-# Ignore saves files because, i mean.
 *.sav
 *.bak
-*.gba
-*.gba
-*.gba
-Game/rh-atlus.gba

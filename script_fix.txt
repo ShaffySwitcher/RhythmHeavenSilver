@@ -2,12 +2,13 @@
 // Compiled by pelrun in 2008
 // Edited by Spikeman 12/29/2010
 // More edits by W hat and SirNiko 08/2012
+// More (and more) edits by Shaffy and Tickflow in 2019
 // [; is end of text and [l is a line break. sjis_2.tbl lists all supported characters and, at the end, formatting codes.
 // Line breaks don't always work. End-of-game comments, for example, don't support them.
 // [[ is a quick and great way to announce that something needs to be fixed, or looked at later. Ctrl-f for [[ to see existing examples.
 
 // Translators:
-// Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun
+// Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun, Shaffy, Tickflow
 //
 #VAR(tbl, TABLE)
 #ADDTBL("sjis_2.tbl", tbl)
@@ -4190,7 +4191,7 @@ Game Over. Good job![;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Dr. Bacteria EX[;
+Sick Beats EX[;
 #WRITE(RtPtr, $9DD56C)
 // 0x805951c
 //クイズ　スペシャル[;
@@ -5083,7 +5084,7 @@ Aaah! We got left behind![;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Spaceball[;
 #WRITE(RtPtr, $9CE58C)
 // 0x805389c
 //ズームをきにするな！[l
@@ -5945,8 +5946,8 @@ The important thing is that we're together.[;
 //バイキン はかせ[;
 // --- Literal
 //Germ Professor[;
-// --- Edited ]]Dr. Bacteria game starts here. Edits were made by previous owner of script, maybe?
-Dr. Bacteria[;
+// --- Edited 
+Sick Beats[;
 #WRITE(RtPtr, $9CE48C)
 // 0x8053dd4
 //助手からの知らせ[l
@@ -11320,7 +11321,7 @@ At this rate, we'll go out of business.[;
 // --- Literal
 //Air Batter 2[;
 // --- Edited
-Spaceball Game 2[;
+Spaceball 2[;
 #WRITE(RtPtr, $9CE5AC)
 // 0x80537ec
 //ズームをきにするな！[l
@@ -14924,12 +14925,12 @@ In conclusion, thanks for playing the game. It's[l
 no fun making something that nobody else[l
 cares about. Enjoy![l
 [l
-[l
-[l
 - Rhythm Heaven Silver team[l
 //New format
-<color=0(normal)>Twitter.com/rh0updates[l
-<color=gray>Beta 10a: 2013-12-19[;
+<color=0(normal)>twitter.com/rh0updates[l
+<color=0(normal)>Github: RhythmHeavenENPatch[l
+<color=gray>Beta 12a (fixed): 2019-04-19[l
+<color=0(normal)>(Note: This version lacks english Debug Menu)[;
 //for Betas
 //Twitter.com/rh0updates      <color=gray>Beta 9b: 2013-09-06[;
 //for Demos
@@ -15157,7 +15158,7 @@ Showtime[;
 // --- Literal
 //Professor Bacteria[;
 // --- Edited
-Dr. Bacteria[;
+Sick Beats[;
 #WRITE(RtPtr, $9D8298)
 // 0x80590cc
 //こっそりラット[;
@@ -15833,7 +15834,7 @@ Spaceball Game 2[;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Spaceball[;
 #WRITE(RtPtr, $9DDE1C)
 // 0x80599d8
 //いあいぎり[;
@@ -16323,7 +16324,7 @@ Quiz EX[;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Dr. Bacteria EX[;
+Sick Beats EX[;
 #WRITE(RtPtr, $9DDBEC)
 // 0x8059f84
 //ライブ[;

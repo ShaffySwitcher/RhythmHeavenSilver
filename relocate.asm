@@ -20,7 +20,7 @@
 .include Graphics/RhythmGame/spirit1/spirit1_relocate.asm
 .include Graphics/RhythmGame/Samurai/samurai_relocate.asm
 .include Graphics/RhythmGame/Cheese/cheese_relocate.asm
-.include Graphics/RhythmGame/DrBact/drbact_relocate.asm
+.include Graphics/RhythmGame/SickBeats/SickBeats_relocate.asm
 .include Graphics/RhythmGame/bonodori1/odori1_relocate.asm
 .include Graphics/RhythmGame/remix2/mix2_relocate.asm
 .include Graphics/RhythmGame/wizard/wizard_relocate.asm

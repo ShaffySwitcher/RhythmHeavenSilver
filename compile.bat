@@ -40,7 +40,7 @@ DSDecmp.exe -c lz10 Graphics/RhythmGame/spirit1/be0ff8_spirit1_intro2.bin Graphi
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Samurai/bf6678_samurai_intro2.bin Graphics/RhythmGame/Samurai/bf6678_samurai_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Cheese/c21f88_cheese_intro2.bin Graphics/RhythmGame/Cheese/c21f88_cheese_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Cheese/c86e74_cheese_tile2.bin Graphics/RhythmGame/Cheese/c86e74_cheese_tile2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/DrBact/c31e6c_drbact_intro2.bin Graphics/RhythmGame/DrBact/c31e6c_drbact_intro2
+DSDecmp.exe -c lz10 Graphics/RhythmGame/SickBeats/c31e6c_SickBeats_intro2.bin Graphics/RhythmGame/SickBeats/c31e6c_SickBeats_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/bonodori1/be75b8_odori1_intro2.bin Graphics/RhythmGame/bonodori1/be75b8_odori1_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/remix2/c06f74_mix2_intro2.bin Graphics/RhythmGame/remix2/c06f74_mix2_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/wizard/c33640_wizard_intro2.bin Graphics/RhythmGame/wizard/c33640_wizard_intro2

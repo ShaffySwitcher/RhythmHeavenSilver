@@ -1,7 +1,7 @@
 .gba
 .open "Game/rh-atlus.gba","Game/rh-eng.gba", 0x08000000
 
-_skipwarningscreen equ 1
+_skipwarningscreen equ 0
 _skiprhythmtest equ 0
 _debug equ 0
 _debugmenu equ 0
@@ -33,7 +33,7 @@ _spriteluaconsolemessages equ 1
 .include Graphics/RhythmGame/spirit1/spirit1.asm
 .include Graphics/RhythmGame/Samurai/samurai.asm
 .include Graphics/RhythmGame/Cheese/cheese.asm
-.include Graphics/RhythmGame/DrBact/drbact.asm
+.include Graphics/RhythmGame/SickBeats/SickBeats.asm
 .include Graphics/RhythmGame/bonodori1/odori1.asm
 .include Graphics/RhythmGame/remix2/mix2.asm
 .include Graphics/RhythmGame/wizard/wizard.asm
