@@ -1,14 +1,10 @@
-# RhythmTengokuENPatch
-Rhythm Tengoku English Patch is a project started in 2011/2012 to translate the exclusive JAP game Rhythm Tengoku in english for making it be playable for everyone, and was restarted in 2019 by another guy (me).
+# Rhythm Heaven Silver English Fan translation
+The Rhythm Tengoku Silver is a project started in 2008 to translate the exclusive JPN game Rhythm Tengoku in english for making it be playable for everyone, then was stopped in 2012 (and updated in 2017). In this time I decided to continue it.
 Feel free to contribute.
 # Credits
-* Thanks to W hat and the EN team for making this. 
-* Thanks to Malalaika for the help (Debug_Menu.ips patch and other things). 
+* Thanks to W hat and the Rhythm Heaven Silver team for starting and making this project. 
+* Thanks to Malalaika for the help. 
+* Thanks to WindowsTiger for the help given and the H&S screen.
 * Thanks to you for playing the game and using the patch!
-* A BIG thanks to WindowsTiger for the H&S Hack
-# Compile
-* Create a folder called "Game"
-* Put your original backup of Rhythm Tengoku in the folder called "Game" and call it "rh-jpn.gba"
-* Then launch "compile.bat"
-### Wiki
-Please check out the wiki it's has alot of useful information
+### Compile
+Everything is in the wiki.
