@@ -4820,7 +4820,7 @@ There's always tomorrow.[;
 // --- Literal
 //Rhythm Hair Removal[;
 // --- Edited
-Vegeta-Pull[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9CE44C)
 // 0x8053f64
 //どんどん生えてくる[l
@@ -9890,7 +9890,7 @@ Just forget it...[;
 // --- Literal
 //Cosmo Dance[;
 // --- Edited
-Cosmo Dance[;
+Cosmic Dance[;
 #WRITE(RtPtr, $9CE7AC)
 // 0x8052e68
 //宇宙を代表する[l
@@ -9967,7 +9967,7 @@ Your dance moves were out of this world![;
 // --- Literal
 //We're super cosmo stars!![;
 // --- Edited
-We are super cosmo stars!![;
+We are super cosmic stars!![;
 #WRITE(RtPtr, $9CE7BC)
 // 0x8052e34
 //あなたたちって こんなものなの？[;
@@ -10554,7 +10554,7 @@ What was wrong with the tempo?![;
 // --- Literal
 //Rhythm Hair Removal 2[;
 // --- Edited
-Vegeta-Pull 2[;
+Rhythm Tweezers 2[;
 #WRITE(RtPtr, $9CE46C)
 // 0x8053ea0
 //またしても生えてくる[l
@@ -15221,14 +15221,14 @@ Trio on Tour[;
 // --- Literal
 //Rhythm Hair Plucking[;
 // --- Edited
-Vegeta-Pull[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9D822C)
 // 0x8059150
 //コスモダンス[;
 // --- Literal
 //Cosmo Dance[;
 // --- Edited
-Cosmo Dance[;
+Cosmic Dance[;
 #WRITE(RtPtr, $9D8220)
 // 0x8059160
 //ボンダンス[;
@@ -15764,14 +15764,14 @@ Clappy Trio[;
 // --- Literal
 //Rhythm Hair Pluck 2[;
 // --- Edited
-Vegeta-Pull 2[;
+Rhythm Tweezers 2[;
 #WRITE(RtPtr, $9DDE6C)
 // 0x8059924
 //リズムだつもう[;
 // --- Literal
 //Rhythm Hair Pluck[;
 // --- Edited
-Vegeta-Pull[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9DDE64)
 // 0x8059934
 //バイキン　はかせ[;
@@ -16569,7 +16569,7 @@ Measuring finished! Okay, the result is...[;
 //Drum Samurai's[l
 //Band LIVE! [l
 //[l
-//　　　　　　　　　　♪　Cosmo Dance[l
+//　　　　　　　　　　♪　Cosmic Dance[l
 //[l
 //　　　　　　　　　　♪　Hard Working Trio[l
 //[l
@@ -16577,7 +16577,7 @@ Measuring finished! Okay, the result is...[;
 // --- Edited
 <size=medium><linesize=medium><style=bold><linestyle=4>Drum Samurai's[l
         <size=medium><linesize=medium><style=bold><linestyle=4>Band LIVE! [l
-<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmo Dance　　　　　　　　　　[l
+<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
 <size=small><linesize=small><style=gold><linestyle=5>          ♪ Trio on Tour　　　　　　　　　　[l
 <size=small><linesize=small><style=gold><linestyle=5>          ♪ Turbo Tap Trial　　　　　　　　　　[;
 #WRITE(RtPtr, $9E5C78)

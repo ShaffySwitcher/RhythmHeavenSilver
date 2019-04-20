@@ -5,6 +5,9 @@ Feel free to contribute.
 * Thanks to W hat and the Rhythm Heaven Silver team for starting and making this project. 
 * Thanks to Malalaika for the help. 
 * Thanks to WindowsTiger for the help given and the H&S screen.
+* Thanks to TheNewOrchestra for the graphics for Sick Beats/Rhythm Tweezers/Rat Race and Bouncy Road.
+* Thanks to Tickflow (temmie) for the graphics of Cosmic Dance and The Snappy Trio.
+* Thanks to FireChat for the graphics for Built to Scale.
 * Thanks to you for playing the game and using the patch!
 ### Compile
 Everything is in the wiki.
