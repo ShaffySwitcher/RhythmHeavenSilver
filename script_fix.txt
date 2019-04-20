@@ -9502,7 +9502,7 @@ The couple's future... forever apart![;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio On Tour[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9CE3AC)
 // 0x80542f0
 //ラフだった彼らが[l
@@ -15214,7 +15214,7 @@ Turbo Tap Trial[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio on Tour[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9D8238)
 // 0x8059144
 //リズム脱毛[;
@@ -15722,7 +15722,7 @@ Data Clear[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio on Tour[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9DDE9C)
 // 0x80598b0
 //パチパチ３にんしゅう[;
@@ -16578,7 +16578,7 @@ Measuring finished! Okay, the result is...[;
 <size=medium><linesize=medium><style=bold><linestyle=4>Drum Samurai's[l
         <size=medium><linesize=medium><style=bold><linestyle=4>Band LIVE! [l
 <size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>          ♪ Trio on Tour　　　　　　　　　　[l
+<size=small><linesize=small><style=gold><linestyle=5>          ♪ The Snappy Trio　　　　　　　　　　[l
 <size=small><linesize=small><style=gold><linestyle=5>          ♪ Turbo Tap Trial　　　　　　　　　　[;
 #WRITE(RtPtr, $9E5C78)
 // 0x805a7a8
