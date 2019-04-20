@@ -5780,7 +5780,7 @@ You have bested me![;
 // --- Literal
 //Stealthy Rat[;
 // --- Edited
-Cheese Heist[;
+Rat Race[;
 #WRITE(RtPtr, $9CE72C)
 // 0x8053108
 //あなたはネズミ。[l
@@ -11580,7 +11580,7 @@ skills to the test! (NP)[;
 // --- Literal
 //	[l
 //With the next one, it's the end! (in cute mouse talk)[;
-// --- Edited (spoken by Cheese Heist mice)
+// --- Edited (spoken by Rat Race mice)
 Ｔｈｉｓ’ｓ　ｉｔ，　ｂｏｙｓ！[;
 #WRITE(RtPtr, $A6F4C8)
 // 0x806aa24
@@ -15165,7 +15165,7 @@ Sick Beats[;
 // --- Literal
 //Stealthy Rat[;
 // --- Edited
-Cheese Heist[;
+Rat Race[;
 #WRITE(RtPtr, $9D828C)
 // 0x80590dc
 //ゐあひ斬り[;
