@@ -11667,14 +11667,14 @@ Today's trip was... pretty much a total wreck.[;
 // --- Literal
 //Rank  High Level[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank           <color=gray><linestyle=2><style=purple><linestyle=7>Superb[;
+<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank:          <color=gray><linestyle=2><style=purple><linestyle=7>Superb[;
 #WRITE(RtPtr, $9CF9F8)
 // 0x80548c8
 //<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>ランク <color=gray><linestyle=2><style=purple><linestyle=7>平凡[;
 // --- Literal
 //Rank  Average[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank                      <color=gray><linestyle=2><style=purple><linestyle=7>OK[;
+<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank:                     <color=gray><linestyle=2><style=purple><linestyle=7>OK[;
 // 0x80548e7
 //[;
 // --- Literal
@@ -14929,8 +14929,7 @@ cares about. Enjoy![l
 //New format
 <color=0(normal)>twitter.com/rh0updates[l
 <color=0(normal)>Github: RhythmHeavenENPatch[l
-<color=gray>Beta 12a (fixed): 2019-04-19[l
-<color=0(normal)>(Note: This version lacks english Debug Menu)[;
+<color=gray>Beta 13a: 2019-04-20[;
 //for Betas
 //Twitter.com/rh0updates      <color=gray>Beta 9b: 2013-09-06[;
 //for Demos
