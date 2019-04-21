@@ -1,2 +1,0 @@
-intro2 - name of game, "The*Bon-Odori"
-tile1 - Tiles looked corrupted, what are these?

@@ -6,7 +6,7 @@
 .dw c781ac_built1_tile1 |0x80000000
 ;title
 .org 0x088F6090
-.import Graphics/RhythmGame/built1/8F6090_assembly0.bin
+.import Graphics/Rhythm_Games/Built_To_Scale/8F6090_assembly0.bin
 .org 0x088F60AA
-.import Graphics/RhythmGame/built1/8F60AA_assembly1.bin
+.import Graphics/Rhythm_Games/Built_To_Scale/8F60AA_assembly1.bin
 ;eof
