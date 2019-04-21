@@ -8591,7 +8591,7 @@ This is tough![;
 // --- Literal
 //Ninja[;
 // --- Edited
-Ninja[;
+Ninja Bodyguard[;
 #WRITE(RtPtr, $9CE4EC)
 // 0x8053be8
 //敵襲(てきしゅう)だ！[l
@@ -10636,7 +10636,7 @@ Note to self: sell all veggies before five o'clock.[;
 // --- Literal
 //Ninja's Descendant[;
 // --- Edited
-Ninja Reincarnate[;
+Ninja Bodyguard 2[;
 #WRITE(RtPtr, $9CE50C)
 // 0x8053b44
 //オレのじいちゃんの[l
