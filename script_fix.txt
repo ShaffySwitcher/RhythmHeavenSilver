@@ -1617,7 +1617,7 @@ Crazy awesome!<size=small><linesize=small><style=4(normal)><linestyle=8>[l
 // --- Literal
 //Gameplay History[;
 // --- Edited
-Gameplay History[;
+Gameplay Logs[;
 #WRITE(RtPtr, $11898)
 #WRITE(RtPtr, $11960)
 // 0x8050b4c
@@ -1646,35 +1646,35 @@ No. [;
 // --- Literal
 //Average points[;
 // --- Edited
-Average points [;
+Average points: [;
 #WRITE(RtPtr, $1196C)
 // 0x8050b64
 // (1000点満点)[;
 // --- Literal
 //(Out of 1000 Points)[;
 // --- Edited
- (Out of 1000 Points)[;
+/1000[;
 #WRITE(RtPtr, $11974)
 // 0x8050b74
 //遊んだ回数 [;
 // --- Literal
 //Number of times played[;
 // --- Edited
-Number of times played [;
+Number of times played: [;
 #WRITE(RtPtr, $11978)
 // 0x8050b80
 //回[;
 // --- Literal
 //times[;
 // --- Edited
-times[;
+ times[;
 #WRITE(RtPtr, $1197C)
 // 0x8050b84
 //  ( 初合格: [;
 // --- Literal
 //(First success:[;
 // --- Edited
-  (First success: [;
+(First OK: [;
 #WRITE(RtPtr, $11980)
 // 0x8050b94
 //まだ[;
@@ -1688,14 +1688,14 @@ not yet[;
 // --- Literal
 //-th time[;
 // --- Edited
--th time[;
+th time |[;
 #WRITE(RtPtr, $119B8)
 // 0x8050ba4
 //  初大合格: [;
 // --- Literal
 //First great success:[;
 // --- Edited
-  First great success:[;
+ First Superb : [;
 #WRITE(RtPtr, $119BC)
 // 0x8050bb4
 //まだ )[;
@@ -1709,7 +1709,7 @@ not yet )[;
 // --- Literal
 //-th time )[;
 // --- Edited
--th time )[;
+th time)[;
 // 0x8050bc6
 //[;
 // --- Literal
