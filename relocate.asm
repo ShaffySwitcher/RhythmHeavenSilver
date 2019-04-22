@@ -1,6 +1,6 @@
 .org 0x08D34940
 .include Graphics/TitleScreen/TitleScreen_relocate.asm
-.include Graphics/RhythmGame/KarateMan1/KarateMan1_relocate.asm
+.include Graphics/Rhythm_Games/Karate_Man/KarateMan1_relocate.asm
 .include Graphics/MainMenu/mainmenu_relocate.asm
 .include Graphics/Tutorial/tutorial_relocate.asm
 .include Graphics/EmailSelectScreen/email_relocate.asm
@@ -13,7 +13,7 @@
 .include Graphics/RhythmGame/Results/Results_relocate.asm
 .include Graphics/RhythmGame/spaceball1/spaceball1_relocate.asm
 .include Graphics/RhythmGame/Veggie1/Veggie1_relocate.asm
-.include Graphics/RhythmGame/marcher1/Marcher1_relocate.asm
+.include Graphics/Rhythm_Games/Marching_Orders/Marcher1_relocate.asm
 .include Graphics/Rhythm_Games/The_Clappy_Trio/clappy1_relocate.asm
 .include Graphics/RhythmGame/remix1/mix1_relocate.asm
 .include Graphics/RhythmGame/miscgraphics_relocate.asm
@@ -30,15 +30,15 @@
 .include Graphics/RhythmGame/Space1/space1_relocate.asm
 .include Graphics/RhythmGame/Remix3/remix3_relocate.asm
 .include Graphics/RhythmGame/Quiz/quiz_relocate.asm
-.include Graphics/RhythmGame/Nightwalk/night1_relocate.asm
+.include Graphics/Rhythm_Games/Night_Walk/night1_relocate.asm
 .include Graphics/Rhythm_Games/Power_Calligraphy/calig_relocate.asm
 .include Graphics/Rhythm_Games/Built_To_Scale/built1_relocate.asm
 .include Graphics/RhythmGame/Rapmen/rapmen_relocate.asm
 .include Graphics/RhythmGame/Remix4/remix4_relocate.asm
-.include Graphics/RhythmGame/Hop1/hop1_relocate.asm
-.include Graphics/RhythmGame/Ninja1/ninja1_relocate.asm
+.include Graphics/Rhythm_Games/Bouncy_Road/hop1_relocate.asm
+.include Graphics/Rhythm_Games/Ninja_Bodyguard/ninja1_relocate.asm
 .include Graphics/RhythmGame/Toss1/toss1_relocate.asm
-.include Graphics/RhythmGame/Fworks/fworks_relocate.asm
+.include Graphics/Rhythm_Games/Fireworks/fworks_relocate.asm
 .include Graphics/RhythmGame/Tap1/tap1_relocate.asm
 .include Graphics/RhythmGame/Remix5/remix5_relocate.asm
 .include Graphics/Rhythm_Games/The_Snappy_Trio/clappy2_relocate.asm
@@ -48,7 +48,7 @@
 .include Graphics/RhythmGame/Tap2/tap2_relocate.asm
 .include Graphics/RhythmGame/Remix6/remix6_relocate.asm
 .include Graphics/RhythmGame/Ninja2/ninja2_relocate.asm
-.include Graphics/RhythmGame/Marcher2/march2_relocate.asm
+.include Graphics/Rhythm_Games/Marching_Orders_2/march2_relocate.asm
 .include Graphics/RhythmGame/Remix7/remix7_relocate.asm
 .include Graphics/RhythmGame/Toss2/toss2_relocate.asm
 .include Graphics/RhythmGame/Remix8/remix8_relocate.asm

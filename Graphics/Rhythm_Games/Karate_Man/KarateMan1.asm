@@ -29,27 +29,27 @@
 ;Intro Stuff
 ;Text
 .org 0x088AD958
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD958_assembly0.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Text/8AD958_assembly0.bin
 .org 0x088AD960
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD960_assembly1.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Text/8AD960_assembly1.bin
 .align 2
 .org 0x088ADA88
 .dw X8AD974_assembly2
 .org 0x088ADA90
 .dw X8AD99A_assembly3
 .org 0x088AD9D2
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD9D2_assembly4.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Text/8AD9D2_assembly4.bin
 ;Foot (Tip of toe was overwritten by "Man" text)
 .org 0x088ADA4A
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA4A_assembly0.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA4A_assembly0.bin
 .org 0x088ADA28
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA28_assembly1.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA28_assembly1.bin
 .org 0x088ADA36
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA36_assembly2.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA36_assembly2.bin
 .org 0x088ADA28
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA28_assembly3.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA28_assembly3.bin
 .org 0x088ADA36
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA36_assembly4.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA36_assembly4.bin
 .org 0x088ADA28
-.import Graphics/RhythmGame/KarateMan1/Intro/Foot/8ADA28_assembly5.bin
+.import Graphics/Rhythm_Games/Karate_Man/Intro/Foot/8ADA28_assembly5.bin
 ;eof

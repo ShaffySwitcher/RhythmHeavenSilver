@@ -6,9 +6,9 @@ copy "Game\rh-jpn.gba" "Game\rh-atlus.gba"
 atlas "Game\rh-atlus.gba" script_fix.txt
 
 DSDecmp.exe -c lz10 Graphics/TitleScreen/CD7948_titlescreen_oam_tiles.bin Graphics/TitleScreen/CD7948_titlescreen_oam_tiles
-DSDecmp.exe -c lz10 Graphics/RhythmGame/KarateMan1/Game/BE0480_karateman1_oam_tiles.bin Graphics/RhythmGame/KarateMan1/Game/BE0480_karateman1_oam_tiles
-DSDecmp.exe -c lz10 Graphics/RhythmGame/KarateMan1/Intro/BE9F5C_karateman1_oam_tiles.bin Graphics/RhythmGame/KarateMan1/Intro/BE9F5C_karateman1_oam_tiles
-DSDecmp.exe -c lz10 Graphics/RhythmGame/KarateMan1/Intro/BEA934_karateman1_bg_tiles.bin Graphics/RhythmGame/KarateMan1/Intro/BEA934_karateman1_bg_tiles
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Karate_Man/Game/BE0480_karateman1_oam_tiles.bin Graphics/Rhythm_Games/Karate_Man/Game/BE0480_karateman1_oam_tiles
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Karate_Man/Intro/BE9F5C_karateman1_oam_tiles.bin Graphics/Rhythm_Games/Karate_Man/Intro/BE9F5C_karateman1_oam_tiles
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Karate_Man/Intro/BEA934_karateman1_bg_tiles.bin Graphics/Rhythm_Games/Karate_Man/Intro/BEA934_karateman1_bg_tiles
 DSDecmp.exe -c lz10 Graphics/MainMenu/CCB298_mainmenu_oam_tiles.bin Graphics/MainMenu/CCB298_mainmenu_oam_tiles
 DSDecmp.exe -c lz10 Graphics/Tutorial/C6A350_tutorial_tiles2.bin Graphics/Tutorial/C6A350_tutorial_tiles2
 DSDecmp.exe -c lz10 Graphics/Tutorial/C6A638_tutorial_tiles.bin Graphics/Tutorial/C6A638_tutorial_tiles
@@ -31,8 +31,8 @@ DSDecmp.exe -c lz10 Graphics/RhythmGame/Results/ccc138_perfect_tile1.bin Graphic
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Results/CD4A50_results_oam_tiles.bin Graphics/RhythmGame/Results/CD4A50_results_oam_tiles
 DSDecmp.exe -c lz10 Graphics/RhythmGame/spaceball1/be2298_spaceball1_intro.bin Graphics/RhythmGame/spaceball1/be2298_spaceball1_intro
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Veggie1/bee62c_veggie1_intro.bin Graphics/RhythmGame/Veggie1/bee62c_veggie1_intro
-DSDecmp.exe -c lz10 Graphics/RhythmGame/marcher1/bfa204_marcher1_intro2.bin Graphics/RhythmGame/marcher1/bfa204_marcher1_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/marcher1/c6c658_marcher1_tile2.bin Graphics/RhythmGame/marcher1/c6c658_marcher1_tile2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Marching_Orders/bfa204_marcher1_intro2.bin Graphics/Rhythm_Games/Marching_Orders/bfa204_marcher1_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Marching_Orders/c6c658_marcher1_tile2.bin Graphics/Rhythm_Games/Marching_Orders/c6c658_marcher1_tile2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/The_Clappy_Trio/bf16b4_clappy1_intro.bin Graphics/Rhythm_Games/The_Clappy_Trio/bf16b4_clappy1_intro
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/The_Clappy_Trio/c61654_clappy_tiles1.bin Graphics/Rhythm_Games/The_Clappy_Trio/c61654_clappy_tiles1
 DSDecmp.exe -c lz10 Graphics/RhythmGame/remix1/c04fec_mix1_intro.bin Graphics/RhythmGame/remix1/c04fec_mix1_intro
@@ -52,7 +52,7 @@ DSDecmp.exe -c lz10 Graphics/RhythmGame/Space1/ce296c_space1_tile2.bin Graphics/
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix3/c092e0_remix3_intro2.bin Graphics/RhythmGame/Remix3/c092e0_remix3_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Quiz/c02a34_quiz_intro2.bin Graphics/RhythmGame/Quiz/c02a34_quiz_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Quiz/c7c8e0_quiz_tile2.bin Graphics/RhythmGame/Quiz/c7c8e0_quiz_tile2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Nightwalk/beba58_night1_intro2.bin Graphics/RhythmGame/Nightwalk/beba58_night1_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Night_Walk/beba58_night1_intro2.bin Graphics/Rhythm_Games/Night_Walk/beba58_night1_intro2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Power_Calligraphy/bf8a30_calig_intro2.bin Graphics/Rhythm_Games/Power_Calligraphy/bf8a30_calig_intro2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Power_Calligraphy/c68d1c_calig_tile2.bin Graphics/Rhythm_Games/Power_Calligraphy/c68d1c_calig_tile2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Built_To_Scale/c00010_built1_intro2.bin Graphics/Rhythm_Games/Built_To_Scale/c00010_built1_intro2
@@ -61,11 +61,11 @@ DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Built_To_Scale/c781ac_built1_tile1.bin
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Rapmen/c1f4b4_rapmen_intro2.bin Graphics/RhythmGame/Rapmen/c1f4b4_rapmen_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Rapmen/c82710_rapmen_tile2.bin Graphics/RhythmGame/Rapmen/c82710_rapmen_tile2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix4/c0b644_remix4_intro2.bin Graphics/RhythmGame/Remix4/c0b644_remix4_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Hop1/bee430_hop1_intro2.bin Graphics/RhythmGame/Hop1/bee430_hop1_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Ninja1/cb28a4_ninja1_results.bin Graphics/RhythmGame/Ninja1/cb28a4_ninja1_results
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Ninja1/c22ee4_ninja1_intro2.bin Graphics/RhythmGame/Ninja1/c22ee4_ninja1_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Bouncy_Road/bee430_hop1_intro2.bin Graphics/Rhythm_Games/Bouncy_Road/bee430_hop1_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Ninja_Bodyguard/cb28a4_ninja1_results.bin Graphics/Rhythm_Games/Ninja_Bodyguard/cb28a4_ninja1_results
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Ninja_Bodyguard/c22ee4_ninja1_intro2.bin Graphics/Rhythm_Games/Ninja_Bodyguard/c22ee4_ninja1_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Toss1/c2a208_toss1_intro2.bin Graphics/RhythmGame/Toss1/c2a208_toss1_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Fworks/bef660_fworks_intro2.bin Graphics/RhythmGame/Fworks/bef660_fworks_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Fireworks/bef660_fworks_intro2.bin Graphics/Rhythm_Games/Fireworks/bef660_fworks_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Tap1/c26340_tap1_intro2.bin Graphics/RhythmGame/Tap1/c26340_tap1_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix5/c0e864_remix5_intro2.bin Graphics/RhythmGame/Remix5/c0e864_remix5_intro2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/The_Snappy_Trio/bf374c_clappy2_intro2.bin Graphics/Rhythm_Games/The_Snappy_Trio/bf374c_clappy2_intro2
@@ -77,7 +77,7 @@ DSDecmp.exe -c lz10 Graphics/RhythmGame/RapWomen2/c209cc_rapwom2_intro2.bin Grap
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Tap2/c28814_tap2_intro2.bin Graphics/RhythmGame/Tap2/c28814_tap2_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix6/c13400_remix6_intro2.bin Graphics/RhythmGame/Remix6/c13400_remix6_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Ninja2/c24200_ninja2_intro2.bin Graphics/RhythmGame/Ninja2/c24200_ninja2_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Marcher2/bfc8f4_march2_intro2.bin Graphics/RhythmGame/Marcher2/bfc8f4_march2_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Marching_Orders_2/bfc8f4_march2_intro2.bin Graphics/Rhythm_Games/Marching_Orders_2/bfc8f4_march2_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix7/c173c0_remix7_intro2.bin Graphics/RhythmGame/Remix7/c173c0_remix7_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Toss2/c2de80_toss2_intro2.bin Graphics/RhythmGame/Toss2/c2de80_toss2_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix8/c1a47c_remix8_intro2.bin Graphics/RhythmGame/Remix8/c1a47c_remix8_intro2
