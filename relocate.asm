@@ -27,7 +27,7 @@
 .include Graphics/RhythmGame/Showtime/showtime_relocate.asm
 .include Graphics/Rhythm_Games/Bunny_Hop/bunny_relocate.asm
 .include Graphics/RhythmGame/Tram/tram_relocate.asm
-.include Graphics/RhythmGame/Space1/space1_relocate.asm
+.include Graphics/Rhythm_Games/Space_Dance/space1_relocate.asm
 .include Graphics/RhythmGame/Remix3/remix3_relocate.asm
 .include Graphics/RhythmGame/Quiz/quiz_relocate.asm
 .include Graphics/Rhythm_Games/Night_Walk/night1_relocate.asm

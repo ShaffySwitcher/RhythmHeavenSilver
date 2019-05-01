@@ -47,8 +47,8 @@ DSDecmp.exe -c lz10 Graphics/RhythmGame/wizard/c33640_wizard_intro2.bin Graphics
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Showtime/bec134_showtime_intro2.bin Graphics/RhythmGame/Showtime/bec134_showtime_intro2
 DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Bunny_Hop/c1f214_bunny_intro2.bin Graphics/Rhythm_Games/Bunny_Hop/c1f214_bunny_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Tram/c30910_tram_intro2.bin Graphics/RhythmGame/Tram/c30910_tram_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Space1/c24f60_space1_intro2.bin Graphics/RhythmGame/Space1/c24f60_space1_intro2
-DSDecmp.exe -c lz10 Graphics/RhythmGame/Space1/ce296c_space1_tile2.bin Graphics/RhythmGame/Space1/ce296c_space1_tile2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Space_Dance/c24f60_space1_intro2.bin Graphics/Rhythm_Games/Space_Dance/c24f60_space1_intro2
+DSDecmp.exe -c lz10 Graphics/Rhythm_Games/Space_Dance/ce296c_space1_tile2.bin Graphics/Rhythm_Games/Space_Dance/ce296c_space1_tile2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Remix3/c092e0_remix3_intro2.bin Graphics/RhythmGame/Remix3/c092e0_remix3_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Quiz/c02a34_quiz_intro2.bin Graphics/RhythmGame/Quiz/c02a34_quiz_intro2
 DSDecmp.exe -c lz10 Graphics/RhythmGame/Quiz/c7c8e0_quiz_tile2.bin Graphics/RhythmGame/Quiz/c7c8e0_quiz_tile2

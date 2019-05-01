@@ -40,7 +40,7 @@ _spriteluaconsolemessages equ 1
 .include Graphics/RhythmGame/Showtime/showtime.asm
 .include Graphics/Rhythm_Games/Bunny_Hop/bunny.asm
 .include Graphics/RhythmGame/Tram/tram.asm
-.include Graphics/RhythmGame/Space1/space1.asm
+.include Graphics/Rhythm_Games/Space_Dance/space1.asm
 .include Graphics/RhythmGame/Remix3/remix3.asm
 .include Graphics/RhythmGame/Quiz/quiz.asm
 .include Graphics/Rhythm_Games/Night_Walk/night1.asm
