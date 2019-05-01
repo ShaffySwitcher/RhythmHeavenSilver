@@ -3,7 +3,7 @@
 
 _skipwarningscreen equ 0
 _skiprhythmtest equ 0
-_debug equ 1
+_debug equ 
 _debugmenu equ 0
 _nocashmessages equ 1
 _luaconsolemessages equ 1
