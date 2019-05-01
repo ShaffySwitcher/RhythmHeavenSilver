@@ -4978,7 +4978,7 @@ I can't sell this![;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9CE60C)
 // 0x805360c
 //行進をするのだ。[l
@@ -4995,10 +4995,10 @@ Marcher[;
 //One man's mistake[l
 //will hurt the whole[l
 //team. Do your best.[;
-Time to march! ...But[l
-I wish the commander[l
-wouldn't speak in[l
-Japanese.[;
+Following orders as a[l
+unit builds a sense[l
+of camaraderie.[l
+Also, rhythm.[;
 #WRITE(RtPtr, $A11C38)
 // 0x805c8c4
 //れんしゅうを　はじめる！[;
