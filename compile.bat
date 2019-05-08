@@ -87,6 +87,8 @@ DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/d08208_horse_tile2.bin Graphics/ToysM
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cda118_meow_tile1.bin Graphics/ToysMenu/Toys/cda118_meow_tile1
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdbacc_rap_tile1.bin Graphics/ToysMenu/Toys/cdbacc_rap_tile1
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdd0d4_love_tile1.bin Graphics/ToysMenu/Toys/cdd0d4_love_tile1
+DSDecmp.exe -c lz10 Graphics/EndlessMenu/games/c702d0_upbeat_tile1.bin Graphics/EndlessMenu/games/c702d0_upbeat_tile1
+DSDecmp.exe -c lz10 Graphics/EndlessMenu/games/c34478_head_tile1.bin Graphics/EndlessMenu/games/c34478_head_tile1
 rhcomp.exe Graphics/RhythmGame/CCCA5C_MiscGraphics.bin
 rhcomp.exe Graphics/EndlessMenu/cc4a00_endless_tilemap.bin
 rhcomp.exe Graphics/ToysMenu/cd931c_toys_screen_map.bin
