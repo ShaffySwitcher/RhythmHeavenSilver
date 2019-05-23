@@ -4639,8 +4639,8 @@ Karate Man[;
 //カラテカ[;
 // --- Literal
 //Karate Master[;
-// --- Edited (Debug Menu)
-Ｋａｒａｔｅ　Ｍａｎ[;
+// --- Edited [[(I don't know where this name appears -Niko)
+[bKarate Man[;
 #WRITE(RtPtr, $9CE34C)
 // 0x80544dc
 //とんでくるモノを[l
@@ -6696,7 +6696,7 @@ opening night![;
 //ペンギンのようす[;
 // --- Literal
 //The penguins' appearance/state.[;
-// --- Edited
+// --- Edited [bubble text
 Word from the Dressing Room[;
 #WRITE(RtPtr, $A33D5C)
 // 0x805e180
@@ -15551,28 +15551,28 @@ data! Is that really OK?[;
 // --- Literal
 //__[;
 // --- Edited
-＿[;
+[stu1[;
 #WRITE(RtPtr, $1E388)
 // 0x805966c
 //シーケンス　テスト[;
 // --- Literal
 //Sequence Test[;
 // --- Edited
-Ｄｅｂｕｇ　Ｍｅｎｕ[;
+[;
 #WRITE(RtPtr, $1E38C)
 // 0x8059680
 //＊[;
 // --- Literal
 //＊[;
 // --- Edited
-－[;
+[;
 #WRITE(RtPtr, $1E390)
 // 0x8059684
 //１／１[;
 // --- Literal
 //1/1[;
 // --- Edited
-１／１[;
+[;
 #WRITE(RtPtr, $9DDF54)
 // 0x805968c
 //データクリア[;
@@ -15586,104 +15586,104 @@ Data Clear[;
 // --- Literal
 //Ending (From the Extras)[;
 // --- Edited
-Ｃｒｅｄｉｔｓ　（Ｅｘｔｒａｓ）[;
+[;
 #WRITE(RtPtr, $9DDF44)
 // 0x80596b8
 //エンディング（クリアご）[;
 // --- Literal
-//Ending (From the remix)[;
+//[;
 // --- Edited
-Ｃｒｅｄｉｔｓ　（Ｒｅｍｉｘ　６）[;
+[;
 #WRITE(RtPtr, $9DDF34)
 // 0x80596d4
 //Ｒ−ＩＱ　（おもちゃ）[;
 // --- Literal
-//R-IQ (Toys)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｏｙｓ[;
+[;
 #WRITE(RtPtr, $9DDF2C)
 // 0x80596ec
 //Ｒ−ＩＱ　（ドラムレッスン）[;
 // --- Literal
-//R-IQ (Drum lessons)[;
+//[;
 // --- Edited
-Ｄｒｕｍ　Ｌｅｓｓｏｎｓ[;
+[;
 #WRITE(RtPtr, $9DDF24)
 // 0x805970c
 //Ｒ−ＩＱ　（ミニゲーム）[;
 // --- Literal
-//R-IQ (Mini-games)[;
+//[;
 // --- Edited
-Ｅｎｄｌｅｓｓ　Ｇａｍｅｓ[;
+[;
 #WRITE(RtPtr, $9DDF1C)
 #WRITE(RtPtr, $9DDF3C)
 // 0x8059728
 //Ｒ−ＩＱ　（カウンセラー）[;
 // --- Literal
-//R-IQ (counselor)[;
+//[;
 // --- Edited
-Ｃａｆｅ[;
+[;
 #WRITE(RtPtr, $9DDF14)
 // 0x8059744
 //Ｒ−ＩＱ　（パーフェクト）[;
 // --- Literal
-//R-IQ (Perfect)[;
+//[;
 // --- Edited
-Ｐｅｒｆｅｃｔ　Ｓｃｒｅｅｎ[;
+[;
 #WRITE(RtPtr, $9DDF0C)
 // 0x8059760
 //Ｒ−ＩＱ　（にゅうか）[;
 // --- Literal
-//R-IQ (new)[;
+//[;
 // --- Edited
-Ｒｅｗａｒｄ　Ｓｃｒｅｅｎ[;
+[;
 #WRITE(RtPtr, $9DDF04)
 // 0x8059778
 //Ｒ−ＩＱ　（リザルト４）[;
 // --- Literal
-//R-IQ (result 4)[;
+//[;
 // --- Edited
-Ｒｅｔｕｒｎ[;
+[;
 #WRITE(RtPtr, $9DDEFC)
 // 0x8059794
 //Ｒ−ＩＱ　（リザルト３）[;
 // --- Literal
-//R-IQ (result 3)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｅｓｔ　Ｒｅｓｕｌｔｓ[;
+[;
 #WRITE(RtPtr, $9DDEF4)
 // 0x80597b0
 //Ｒ−ＩＱ　（リザルト２）[;
 // --- Literal
-//R-IQ (result 2)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｒａｔｉｎｇ[;
+[;
 #WRITE(RtPtr, $9DDEEC)
 // 0x80597cc
 //Ｒ−ＩＱ　（リザルト）[;
 // --- Literal
-//R-IQ (result)[;
+//[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｓｔａｔｉｓｔｉｃｓ[;
+[;
 #WRITE(RtPtr, $9DDEE4)
 // 0x80597e4
 //Ｒ−ＩＱ　（オプション）[;
 // --- Literal
-//R-IQ (option)[;
+//[;
 // --- Edited
-Ｏｐｔｉｏｎｓ[;
+[;
 #WRITE(RtPtr, $9DDEDC)
 // 0x8059800
 //Ｒ−ＩＱ　（スタジオ）[;
 // --- Literal
-//R-IQ (studio)[;
+//[;
 // --- Edited
 [;
 #WRITE(RtPtr, $9DDED4)
 // 0x8059818
 //Ｒ−ＩＱ　（しりょうしつ）[;
 // --- Literal
-//R-IQ (library/reference room)[;
+//[;
 // --- Edited
 [;
 #WRITE(RtPtr, $9DDECC)
@@ -15713,63 +15713,64 @@ Data Clear[;
 // --- Literal
 //Karate Master 2[;
 // --- Edited
-Ｋａｒａｔｅ　Ｍａｎ　２[;
+[;
+//[[More titles for studio?
 #WRITE(RtPtr, $9DDEA4)
 // 0x8059898
 //バリバリ３にんしゅう[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Ｔｈｅ　Ｓｎａｐｐｙ　Ｔｒｉｏ[;
+The Snappy Trio[;
 #WRITE(RtPtr, $9DDE9C)
 // 0x80598b0
 //パチパチ３にんしゅう[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-Ｔｈｅ　Ｃｌａｐｐｙ　Ｔｒｉｏ[;
+Clappy Trio[;
 #WRITE(RtPtr, $9DDE94)
 // 0x80598c8
 //ポリリズム　２[;
 // --- Literal
 //Polyrhythm 2[;
 // --- Edited
-Ｐｏｌｙｒｈｙｔｈｍ　２[;
+[;
 #WRITE(RtPtr, $9DDE8C)
 // 0x80598d8
 //ポリリズム[;
 // --- Literal
 //Polyrhythm[;
 // --- Edited
-Ｐｏｌｙｒｈｙｔｈｍ[;
+[;
 #WRITE(RtPtr, $9DDE84)
 // 0x80598e4
 //ナイト　ウォーク　２[;
 // --- Literal
 //Night Walk 2[;
 // --- Edited
-Ｎｉｇｈｔ　Ｗａｌｋ　２[;
+[;
 #WRITE(RtPtr, $9DDE7C)
 // 0x80598fc
 //ナイト　ウォーク[;
 // --- Literal
 //Night Walk[;
 // --- Edited
-Ｎｉｇｈｔ　Ｗａｌｋ[;
+[;
 #WRITE(RtPtr, $9DDE74)
 // 0x8059910
 //リズムだつもう　２[;
 // --- Literal
 //Rhythm Hair Pluck 2[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｗｅｅｚｅｒｓ　２[;
+Rhythm Tweezers 2[;
 #WRITE(RtPtr, $9DDE6C)
 // 0x8059924
 //リズムだつもう[;
 // --- Literal
 //Rhythm Hair Pluck[;
 // --- Edited
-Ｒｈｙｔｈｍ　Ｔｗｅｅｚｅｒｓ[;
+Rhythm Tweezers[;
 #WRITE(RtPtr, $9DDE64)
 // 0x8059934
 //バイキン　はかせ[;

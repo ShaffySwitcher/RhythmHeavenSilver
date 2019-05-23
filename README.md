@@ -11,4 +11,4 @@ Feel free to contribute.
 * Thanks to you for playing the game and using the patch!
 * You can join the Rhythm Tengoku Modding Server for updates or giving me recommendation. (https://discord.gg/EwcWhVF)
 ### Compile
-Everything is in the wiki.
+Everything is in the wiki. (Don't forget to remove the Read-Only, otherwise it won't compile)

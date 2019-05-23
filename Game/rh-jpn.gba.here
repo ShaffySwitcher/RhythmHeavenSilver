@@ -1,1 +1,6 @@
-Insert your Rhythm Tengoku (JPN) ROM here, then execute the "compile.bat"
+Right-click "RhythmTengokuENPatch" or "RhythmTengokuENPatch-master" and click "Properties"
+Un-check "Read-Only" and click "OK"
+Then click "OK"
+Put an Rhythm Tengoku ROM in this folder and call it "rh-jpn.gba"
+Then open "compile.bat"
+Now you should have the everything completed, the patched ROM is in the folder "Game" called "rh-eng.gba"

@@ -6,6 +6,7 @@
 .endif
 .if _debugmenu==1 ;Thanks WindowsTiger
 .org 0x0801CFD4
+; .dw 0x089DDBCC - Debug Menu (See: https://docs.google.com/document/d/1gwQz-1zzkr3CLOBLtUMTfsk2Xtd1zmoMDKJRhPMbqwg/edit#)
 .dw 0x089DDBCC
 .endif
 .org 0x08019A2C

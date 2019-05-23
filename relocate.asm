@@ -32,7 +32,7 @@
 .include Graphics/RhythmGame/Quiz/quiz_relocate.asm
 .include Graphics/Rhythm_Games/Night_Walk/night1_relocate.asm
 .include Graphics/Rhythm_Games/Power_Calligraphy/calig_relocate.asm
-.include Graphics/Rhythm_Games/Built_To_Scale/built1_relocate.asm
+.include Graphics/Rhythm_Games/Polyrhythm/built1_relocate.asm
 .include Graphics/RhythmGame/Rapmen/rapmen_relocate.asm
 .include Graphics/RhythmGame/Remix4/remix4_relocate.asm
 .include Graphics/Rhythm_Games/Bouncy_Road/hop1_relocate.asm

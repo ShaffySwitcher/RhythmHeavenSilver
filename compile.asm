@@ -4,7 +4,7 @@
 _skipwarningscreen equ 0
 _skiprhythmtest equ 0
 _debug equ 0
-_debugmenu equ 1
+_debugmenu equ 0
 _nocashmessages equ 1
 _luaconsolemessages equ 1
 _spriteluaconsolemessages equ 1
@@ -45,7 +45,7 @@ _spriteluaconsolemessages equ 1
 .include Graphics/RhythmGame/Quiz/quiz.asm
 .include Graphics/Rhythm_Games/Night_Walk/night1.asm
 .include Graphics/Rhythm_Games/Power_Calligraphy/calig.asm
-.include Graphics/Rhythm_Games/Built_To_Scale/built1.asm
+.include Graphics/Rhythm_Games/Polyrhythm/built1.asm
 .include Graphics/RhythmGame/Rapmen/rapmen.asm
 .include Graphics/RhythmGame/Remix4/remix4.asm
 .include Graphics/Rhythm_Games/Bouncy_Road/hop1.asm
