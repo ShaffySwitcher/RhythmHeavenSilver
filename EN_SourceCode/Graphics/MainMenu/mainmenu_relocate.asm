@@ -1,0 +1,53 @@
+.align 4
+CCB298_mainmenu_oam_tiles:
+.import EN_SourceCode/Graphics/MainMenu/CCB298_mainmenu_oam_tiles.cdat
+;unselected menu items
+X90a2ce_menu_options_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90a2ce_menu_options_arrangement.bin
+X90a122_menu_studio_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90a122_menu_studio_arrangement.bin
+X909CD2_menu_rhythmgames_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909CD2_menu_rhythmgames_arrangement.bin
+X909E2A_menu_rhythmtest_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909E2A_menu_rhythmtest_arrangement.bin
+X909f46_menu_email_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909f46_menu_email_arrangement.bin
+
+;selected menu items
+;Rhythm Games selected
+X909B88_menu_rhythmgames_selected1_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909B88_menu_rhythmgames_selected1_arrangement.bin
+X909BF6_menu_rhythmgames_selected2_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909BF6_menu_rhythmgames_selected2_arrangement.bin
+X909C64_menu_rhythmgames_selected3_arrangement:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909C64_menu_rhythmgames_selected3_arrangement.bin
+;Rhythm Test selected
+X909D04_menu_rhythmtest_selected1:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909D04_menu_rhythmtest_selected1.bin
+X909D66_menu_rhythmtest_selected2:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909D66_menu_rhythmtest_selected2.bin
+X909DC8_menu_rhythmtest_selected3:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909DC8_menu_rhythmtest_selected3.bin
+;Email Selected
+X909E68_menu_email_selected1:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909E68_menu_email_selected1.bin
+X909EB2_menu_email_selected2:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909EB2_menu_email_selected2.bin
+X909EFC_menu_email_selected3:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909EFC_menu_email_selected3.bin
+;Studio Selected
+X909F6C_menu_studio_selected1:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/909F6C_menu_studio_selected1.bin
+X90A016_menu_studio_selected2:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90A016_menu_studio_selected2.bin
+X90A0A8_menu_studio_selected3:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90A0A8_menu_studio_selected3.bin
+;Options Selected
+X90A160_menu_options_selected1:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90A160_menu_options_selected1.bin
+X90A1DA_menu_options_selected2:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90A1DA_menu_options_selected2.bin
+X90A1DA_menu_options_selected3:
+.import EN_SourceCode/Graphics/MainMenu/Arrangements/90A1DA_menu_options_selected3.bin
+
+;eof
