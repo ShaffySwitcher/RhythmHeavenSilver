@@ -9,6 +9,7 @@ Feel free to contribute.
 * Thanks to Tickflow (temmie) for the graphics of Cosmic Dance and The Snappy Trio.
 * Thanks to FireChat for the graphics for Built to Scale.
 * Thanks to you for playing the game and using the patch!
-* You can join the Rhythm Tengoku Modding Server for updates or giving me recommendation. (https://discord.gg/EwcWhVF)
+~~* You can join the Rhythm Tengoku Modding Server for updates or giving me recommendation. (https://discord.gg/EwcWhVF)~~
+* Join the RHModding server, I might not be active there but there's people who are way better at this than me. (https://discord.gg/qWEYKRW)
 ### Compile
 Everything is in the wiki. (Don't forget to remove the Read-Only, otherwise it won't compile)
