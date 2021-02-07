@@ -12,7 +12,7 @@
 // Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun, Shaffy, Tickflow
 //
 #VAR(tbl, TABLE)
-#ADDTBL("EN_SourceCode/sjis_2.tbl", tbl)
+#ADDTBL("sjis_2.tbl", tbl)
 #ACTIVETBL(tbl)
 //
 // Pointers for GBA are linear 32bit starting at $8000000
