@@ -1,3 +1,12 @@
+# NOTICE
+
+This is outdated, by, well... I don't know (^^;<br>
+Please get to someone who updates it or go fork it to do your own, why not?<br>
+By the way, do not ask me for support, I'm out, this is ancient knowledge, that I forgot about.<br>
+If it doesn't compile, I don't know.<br>
+If the patched ROM doesn't run, I don't know.<br>
+If your PC turns into a nuclear bomb and nukes the entire world... I don't know!<br>
+
 # Rhythm Heaven Silver English Fan translation
 The Rhythm Tengoku Silver is a project started in 2008 to translate the exclusive JPN game Rhythm Tengoku in english for making it be playable for everyone, then was stopped in 2012 (and updated in 2017). In this time I decided to continue it.
 Feel free to contribute.
