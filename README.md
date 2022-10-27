@@ -1,24 +1,55 @@
-# NOTICE
+# Notice
 
-This is outdated, by, well... I don't know (^^;<br>
-Please get to someone who updates it or go fork it to do your own, why not?<br>
-By the way, do not ask me for support, I'm out, this is ancient knowledge, that I forgot about.<br>
-If it doesn't compile, I don't know.<br>
-If the patched ROM doesn't run, I don't know.<br>
-If your PC turns into a nuclear bomb and nukes the entire world... I don't know!<br>
+**I am not working on this project anymore**, I don't know if anyone continued it...<br>
 
-# Rhythm Heaven Silver English Fan translation
-The Rhythm Tengoku Silver is a project started in 2008 to translate the exclusive JPN game Rhythm Tengoku in english for making it be playable for everyone, then was stopped in 2012 (and updated in 2017). In this time I decided to continue it.
-Feel free to contribute.
+The only thing I am willing to contribute to this are bug fixes, so please do not ask for support about this, I will not answer, and go instead ask more people and/or fork it on your own.<br>
+
+*Also, please take note that the latest release (b13) and state of the source code might be broken at the moment.*
+
+# Rhythm Heaven Silver
+This repository is dedicated to host the Rhythm Tengoku English unofficial fan translation, **Rhythm Heaven Silver**.
+
+Rhythm Tengoku Silver is a project started in 2008 aiming to translate Rhythm Tengoku in English, for everyone to enjoy.
+
+# Installation
+You will need:
+* A legally obtained ROM of Rhythm Tengoku **(Rev 1)** (CRC32: `A6CD88E1`)
+* An IPS patcher (like this one: https://www.marcrobledo.com/RomPatcher.js/)
+
+And you just patch your ROM!
+
+# Contribution
+Fork it the project, and either decide to go your own way, or do a pull request.<br>
+
+However there are things that have been decided on this project and you should follow this guideline if you are planning to open a pull request:<br>
+* All known mini-games that have come back on Rhythm Heaven Megamix, should use their Megamix names.
+* *ポリリズム* should be named *Polyrhythm* despite it's similarities to Built to Scale.
+
+# Build
+
+## Windows
+1. Open a command prompt.
+2. Download the Rhythm Heaven Silver repository.
+	```batch
+	git clone https://github.com/ShaffySwitcher/RhythmTengokuENPatch
+	cd RhythmTengokuENPatch
+	```
+	or you could also just download the source [here](https://github.com/ShaffySwitcher/RhythmTengokuENPatch/archive/refs/heads/master.zip).
+3. Compile.
+	```batch
+	compile.bat
+	```
+## Linux / Mac OS
+I have not found Linux / Mac OS alternatives for the tools used, and I don't want to rewrite some of the tools because it will simply be too overcomplicated for a simple translation, so I can only advise to use Wine (although this is untested).
+
 # Credits
-* Thanks to W hat and the Rhythm Heaven Silver team for starting and making this project. 
-* Thanks to Malalaika for the help. 
-* Thanks to WindowsTiger for the help given and the H&S screen.
-* Thanks to TheNewOrchestra for the graphics for Sick Beats/Rhythm Tweezers/Rat Race and Bouncy Road.
-* Thanks to Tickflow (temmie) for the graphics of Cosmic Dance and The Snappy Trio.
-* Thanks to FireChat for the graphics for Built to Scale.
-* Thanks to you for playing the game and using the patch!
-* ~~You can join the Rhythm Tengoku Modding Server for updates or giving me recommendation. (https://discord.gg/EwcWhVF)~~
-* Join the RHModding server, I might not be active there but there's people who are way better at this than me. (https://discord.gg/qWEYKRW)
-### Compile
-Everything is in the wiki. (Don't forget to remove the Read-Only, otherwise it won't compile)
+There's too many people I'd like to thanks, too much I can't really list, but it should be noted that I am not the original creator of this patch, so please do not credit me for it, all credit should go to the original Rhythm Heaven Silver team.<br>
+
+If you *really* want to get credited for work done on this please just contact me and we'll get sorted this out.
+
+# Contact
+**As I am not working on this anymore, please do NOT ask me for help on translating, graphics or anything...**<br> 
+However, if you have something to tell/ask otherwise, feel free to add me on Discord (Shaffy#3991).<br>
+
+As I am not in contact with anyone who's working on this, I can't really redirect anyone else for support; however you can probably ask help on the Rhythm Heaven Modding Server, or the Rhythm Tengoku Modding Server.
+
