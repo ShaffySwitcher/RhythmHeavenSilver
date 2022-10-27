@@ -38,12 +38,12 @@ tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/The_Clappy_Trio/c61654_clapp
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Remix_1/c04fec_mix1_intro.bin src/Graphics/Rhythm_Games/Remix_1/c04fec_mix1_intro
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Sneaky_Spirits/be0ff8_spirit1_intro2.bin src/Graphics/Rhythm_Games/Sneaky_Spirits/be0ff8_spirit1_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Samurai_Slice/bf6678_samurai_intro2.bin src/Graphics/Rhythm_Games/Samurai_Slice/bf6678_samurai_intro2
-tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Cheese_Heist/c21f88_cheese_intro2.bin src/Graphics/Rhythm_Games/Cheese_Heist/c21f88_cheese_intro2
-tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Cheese_Heist/c86e74_cheese_tile2.bin src/Graphics/Rhythm_Games/Cheese_Heist/c86e74_cheese_tile2
+tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Rat_Race/c21f88_cheese_intro2.bin src/Graphics/Rhythm_Games/Rat_Race/c21f88_cheese_intro2
+tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Rat_Race/c86e74_cheese_tile2.bin src/Graphics/Rhythm_Games/Rat_Race/c86e74_cheese_tile2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Sick_Beats/c31e6c_SickBeats_intro2.bin src/Graphics/Rhythm_Games/Sick_Beats/c31e6c_SickBeats_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/TheBon_Odori/be75b8_odori1_intro2.bin src/Graphics/Rhythm_Games/TheBon_Odori/be75b8_odori1_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Remix_2/c06f74_mix2_intro2.bin src/Graphics/Rhythm_Games/Remix_2/c06f74_mix2_intro2
-tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Death_Waltz/c33640_wizard_intro2.bin src/Graphics/Rhythm_Games/Death_Waltz/c33640_wizard_intro2
+tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Wizard_Waltz/c33640_wizard_intro2.bin src/Graphics/Rhythm_Games/Wizard_Waltz/c33640_wizard_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Showtime/bec134_showtime_intro2.bin src/Graphics/Rhythm_Games/Showtime/bec134_showtime_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Bunny_Hop/c1f214_bunny_intro2.bin src/Graphics/Rhythm_Games/Bunny_Hop/c1f214_bunny_intro2
 tools\DSDecmp.exe -c lz10 src/Graphics/Rhythm_Games/Tram_Pauline/c30910_tram_intro2.bin src/Graphics/Rhythm_Games/Tram_Pauline/c30910_tram_intro2
@@ -98,5 +98,6 @@ tools\rhcomp.exe src/Graphics/MusicSelect/CD62EC_musicselect_map.bin
 tools\rhcomp.exe src/Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
 tools\armips.exe tools/ASM/compile.asm
 tools\flips.exe "tools\Font Hack 4 - 1px spacer.ips" "ROM\rh-eng.gba"
+tools\flips.exe "tools\accents.ips" "ROM\rh-eng.gba"
 pause
 goto tools

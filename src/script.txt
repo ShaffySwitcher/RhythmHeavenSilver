@@ -50,8 +50,8 @@ Notification from the Rhythm Reference Room[;
 //”[;
 // --- Edited
 ”[;
-//Lines 55 - 1385 were Cafe. Engrish and unformatted text gets confusing.
-//start cafe
+//Lines 55 - 1385 were Café. Engrish and unformatted text gets confusing.
+//start café
 
 
 
@@ -100,7 +100,7 @@ please come back in a bit.[l
 // --- Edited
 [l
 I'm pretty good at Rhythm Games.[l
-If you need help, [color=pink]come to the Cafe.[l
+If you need help, [color=pink]come to the Café.[l
 [l
 [;
 #WRITE(RtPtr, $9CD2EC)
@@ -115,7 +115,7 @@ If you need help, [color=pink]come to the Cafe.[l
 //When you can't do well at games,[l
 //or when you're worn out, please drop by.[;
 // --- Edited
-This is the Cafe.[l
+This is the Café.[l
 [color=pink]When you can't finish a game,  [l
 or when you just want a break,[l
 please come here and relax.[;
@@ -1607,7 +1607,7 @@ the Perfect Campaign![l
 Crazy awesome![size=small][linesize=small][style=4(normal)][linestyle=8][l
 [l
 [;
-//stop cafe
+//stop café
 #WRITE(RtPtr, $1167C)
 // 0x8050b38
 //ゲームプレイ履歴[;
@@ -1821,10 +1821,10 @@ Lady: “Do your best at the next show, too!”[;
 //good, I think, so[l
 //go ahead and enjoy~![;
 // --- Edited
-It's a live concert![l
-Your Sense of Rhythm[l
-is good, so you get[l
-to play in the band![;
+[linealign=left]We're going live![l
+You have a good[l
+sense of rhythm,[l
+so feel free to try~[;
 //[[ This note is from 2010, not the latest batch of translators. EDITED TO HERE ****[;
 #WRITE(RtPtr, $9CEA08)
 // 0x8052528
@@ -1844,17 +1844,17 @@ Concert Hall[;
 //try and take a look.[l
 //They're this game's staff.[;
 // --- Edited
-If you have the time, [l
-take a look. They're[l
-the people who made[l
-the game.[;
+If you have the time[l
+then take a look.[l
+They're the people[l
+who made the game.[;
 #WRITE(RtPtr, $9CE9E8)
 // 0x8052570
 //スタッフ[;
 // --- Literal
 //Staff[;
 // --- Edited
-Credits[;
+Staff Credits[;
 #WRITE(RtPtr, $9CE9CC)
 // 0x805257c
 //メダルを あつめて[l
@@ -1866,10 +1866,10 @@ Credits[;
 //let's try to receive drum lessons.[l
 //Get good! Okay?[;
 // --- Edited
-Our game comes with[l
-free drum lessons![l
-You paid good money[l
-for them, so why not?[l
+Collect medals and[l
+take drum lessons.[l
+Spend medals and[l
+try to be good at it![l
 #WRITE(RtPtr, $9CE9C8)
 // 0x80525c4
 //ドラムレッスン[;
@@ -4188,14 +4188,14 @@ Game Over. Good job![;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Sick Beats EX[;
+Sick Beats SP[;
 #WRITE(RtPtr, $9DD56C)
 // 0x805951c
 //クイズ　スペシャル[;
 // --- Literal
 //Quiz Special[;
 // --- Edited
-Quiz Show EX[;
+Quiz Special[;
 #WRITE(RtPtr, $A59EA0)
 // 0x8069990
 //こんばんは。[l
@@ -4315,9 +4315,9 @@ Rhythm Toys[;
 //There are a few of them, you know.[;
 // --- Edited
 Collect medals[l
-to play with more[l
-toys. Everyone[l
-likes toys![;
+and play some[l
+special games![l
+There's a few in here.[;
 #WRITE(RtPtr, $9DD4A8)
 // 0x80594fc
 //ネコ マシーン[;
@@ -4612,17 +4612,17 @@ Beat Box[;
 //If something is bothering you[l
 //come here for consultation.[;
 // --- Edited
-How's your mood[l
-been lately?[l
-Come here for[l
-a consultation.[;
+How are you feeling[l
+these days? If you[l
+have any concerns,[l
+let's discuss here.[;
 #WRITE(RtPtr, $9CE968)
 // 0x80526b8
 //喫茶カウンセル[;
 // --- Literal
 //Coffee-House Counsel[;
 // --- Edited
-Cafe[;
+Café Councel[;
 //Start Game Text here
 #WRITE(RtPtr, $9CE348)
 // 0x805451c
@@ -4648,10 +4648,10 @@ Karate Man[;
 //Punch the incoming objects with button A![l
 //It's a common game... right?[;
 // --- Edited//ing//nse...
-This is karate[l
-training at its most[l
-intense! (Or, at its[l
-most unorthodox...)[;
+Punch flying objects[l
+with the A button![l
+Go crazy and blow[l
+them away![;
 #WRITE(RtPtr, $9EF2B0)
 // 0x805abec
 //ようこそ！[l
@@ -4755,14 +4755,14 @@ get into it![;
 // --- Literal
 //Master's words[;
 // --- Edited
-Wisdom from the Master[;
+Master's words[;
 #WRITE(RtPtr, $9EDF4C)
 // 0x805ab50
 //きほんが　できてない。[;
 // --- Literal
 //The basics are not set.[;
 // --- Edited
-Focus on the basics.[;
+Your punches lack pizzazz.[;
 // 0x805ab6a
 //[;
 // --- Literal
@@ -4775,28 +4775,28 @@ Focus on the basics.[;
 // --- Literal
 //It seems that you're not good at the successive parts (one after another parts)[;
 // --- Edited
-Practice your one-two punches.[;
+You can't spell "triple punch" without "trip." [;
 #WRITE(RtPtr, $9EDF58)
 // 0x805ab90
 //れんぞくパンチに　キレがある！[;
 // --- Literal
 //There's a slice (bite) to your successive punches![;
 // --- Edited
-Your one-two punches are great![;
+Three cheers for your triple punches![;
 #WRITE(RtPtr, $9EDF68)
 // 0x805abb0
 //さいご キマってた！[;
 // --- Literal
 //You got (nailed) the last part![;
 // --- Edited
-You nailed the last part![;
+Your punches have some punch.[;
 #WRITE(RtPtr, $9CE360)
 // 0x805448c
 //こんなに ブッとばしちゃった！！[;
 // --- Literal
 //You sent this much flying!![;
 // --- Edited
-You sent all of this flying!![;
+I am ALL ABOUT this karate thing![;
 #WRITE(RtPtr, $9CE35C)
 // 0x80544ac
 //とりあえず、ごはん 食べとこう！[;
@@ -4829,8 +4829,8 @@ Rhythm Tweezers[;
 //Pluck'em,[l
 //pluck'em![;
 // --- Edited
-These weird hairs[l
-keep growing![l
+These annoying[l
+hairs keep growing![l
 Pluck'em,[l
 pluck'em![;
 #WRITE(RtPtr, $9FB17C)
@@ -4891,7 +4891,7 @@ Useless Hairs Check[;
 // --- Literal
 //Useless Hairs Check[;
 // --- Edited (This looks like it was originally pointing to Epilation 2, but the pointer was commented out and replaced above - Niko)
-Useless Hairs Check[;
+Unwanted-Hair Check[;
 #WRITE(RtPtr, $9FB904)
 // 0x805b614
 //しっかり　ぬいてください。[;
@@ -4926,28 +4926,28 @@ Please pluck them properly.[;
 //The long hairs were not taken care of / were not treated.[;
 // --- Edited
 //The long hairs aren't taken care of.[;
-The long hairs aren't taken care of.[;
+A lot of long hairs were left untrimmed.[;
 #WRITE(RtPtr, $9F9B30)
 // 0x805b4d0
 //ながい毛が　すっきりです！[;
 // --- Literal
 //The long hairs, are neat/clear![;
 // --- Edited
-The long hairs are neatly cut![;
+The long hairs were plucked clean![;
 #WRITE(RtPtr, $9F9B44)
 // 0x805b4ec
 //多いところが　ぬきのこしすぎです。[;
 // --- Literal
 //You've left too much unplucked on the parts where there's a lot.[;
 // --- Edited
-Lots of hair at once overwhelmed you.[;
+The parts with many hairs aren't clean.[;
 #WRITE(RtPtr, $9F9B40)
 // 0x805b510
 //多かったところ、ツルツルです！[;
 // --- Literal
 //The parts where there was a lot, it's slippery/smooth![;
 // --- Edited
-You're an expert with lots of hair at once![;
+The parts with many hairs are clean![;
 #WRITE(RtPtr, $9CE460)
 // 0x8053ef8
 //スッキリそうかい！ 空気がうまい！！[;
@@ -4992,10 +4992,10 @@ Marching Orders[;
 //One man's mistake[l
 //will hurt the whole[l
 //team. Do your best.[;
-Following orders as a[l
-unit builds a sense[l
-of camaraderie.[l
-Also, rhythm.[;
+Time to march.[l
+Random actions will[l
+hurt the team![l
+Do your best.[;
 #WRITE(RtPtr, $A11C38)
 // 0x805c8c4
 //れんしゅうを　はじめる！[;
@@ -5024,14 +5024,14 @@ Also, rhythm.[;
 // --- Literal
 //The commander's judgement[;
 // --- Edited
-Commander's Review[;
+Captain's Judgment[;
 #WRITE(RtPtr, $A11578)
 // 0x805c858
 //きほんが　できてないな。[;
 // --- Literal
 //The basics are not set.[;
 // --- Edited
-Nail down the basics.[;
+Focus on the basics.[;
 #WRITE(RtPtr, $A11574)
 // 0x805c874
 //なかなか　よろしい！[;
@@ -5060,21 +5060,21 @@ You march confidently into the unknown![;
 // --- Literal
 //Alien rescue, big success!![;
 // --- Edited
-The alien rescue was a huge success![;
+Alien rescue, huge success!![;
 #WRITE(RtPtr, $9CE61C)
 // 0x80535cc
 //今日の任務は、おそうじでーす♪[;
 // --- Literal
 //Today's duty is cleaning~♪[;
 // --- Edited
-Today's duty is cleaning~♪[;
+Today's mission is cleaning~♪[;
 #WRITE(RtPtr, $9CE618)
 // 0x80535ec
 //わぁっ！おいてけぼりされた！[;
 // --- Literal2
 //Aaah!  We got left behind![;
 // --- Edited
-Aaah! We got left behind![;
+Waa! We got left behind![;
 #WRITE(RtPtr, $9CE588)
 // 0x80538e4
 //エアーバッター[;
@@ -5094,10 +5094,10 @@ Spaceball[;
 //Don't depend on your sight![l
 //Go with a bang![;
 // --- Edited
-Don't worry about[l
-the zoom! Follow[l
-the trajectories[l
-in your heart![;
+Don't mind the zoom![l
+Hit the ball and...[l
+Don't rely on your[l
+sight, and let it fly~![;
 #WRITE(RtPtr, $A08DD0)
 // 0x805bff8
 //つうしんぼ[;
@@ -5125,7 +5125,7 @@ Maybe you should try tee ball.[;
 // --- Literal
 //The rests are uncool/unbecoming/off.[;
 // --- Edited
-Work on those rests.[;
+Work on your grip.[;
 #WRITE(RtPtr, $A08D84)
 // 0x805bf70
 //タメが　しっかりしている！[;
@@ -5160,14 +5160,14 @@ Look what I got![;
 // --- Literal
 //Already/More practicing to rise further up![;
 // --- Edited
-Practice is the key to reaching new heights![;
+Practice to get even better![;
 #WRITE(RtPtr, $9CE598)
 // 0x8053880
 //これで ゆるしてください。[;
 // --- Literal
 //Please forgive me for only this.[;
 // --- Edited
-I hope this makes it up to you.[;
+Please have this in forgiveness.[;
 #WRITE(RtPtr, $9CE388)
 // 0x80543d4
 //パチパチ三人衆[;
@@ -5185,10 +5185,10 @@ The Clappy Trio[;
 //You're the third one.[l
 //Watch the two before you carefully![;
 // --- Edited
-The world-famous[l
-Clappy Trio never[l
-misses a beat. Watch[l
-the other two![;
+Let's clap in turn![l
+You're the third.[l
+Watch the other[l
+two and clap![;
 #WRITE(RtPtr, $9F1F74)
 // 0x805af14
 //オレたち、パチパチ三人衆[;
@@ -5273,7 +5273,7 @@ Peer Review[;
 // --- Literal
 //Looks like you don't have the basics down, yeah?[;
 // --- Edited
-You need to focus on the basics.[;
+Focus on the basics.[;
 #WRITE(RtPtr, $9F08EC)
 // 0x805ae5c
 //[;
@@ -5500,10 +5500,10 @@ Sneaky Spirits[;
 //Let's shoot them down![;
 // --- Edited
 //Ghosts are trying to escape	their haunted house! Grab your trusty bow, and don't let them get past you![;
-Ghosts are trying[l
-to escape their[l
-haunted house! Grab[l
-your trusty bow![;
+The white guys are[l
+making fun of us![l
+Argh!![l
+Let's punish them![;
 #WRITE(RtPtr, $A030DC)
 // 0x805bb40
 //その　しろいヤツを、[;
@@ -5629,21 +5629,21 @@ You did superbly against the slow ones.[;
 // --- Literal
 //I shot down a bunch!![;
 // --- Edited
-No ghost escapes on your watch![;
+I got a lot of them![;
 #WRITE(RtPtr, $9CE53C)
 // 0x8053a60
 //しとめた！[;
 // --- Literal
 //I shot them down![;
 // --- Edited
-You got one![;
+I got you![;
 #WRITE(RtPtr, $9CE538)
 // 0x8053a6c
 //逃げたヤツにイタズラされた！[;
 // --- Literal
 //You got teased by the ones that escaped![;
 // --- Edited
-Escaped ghosts are nothing but trouble.[;
+You got teased by the ones that escaped![;
 #WRITE(RtPtr, $9CE568)
 // 0x8053990
 //ゐあひ斬り[;
@@ -5662,10 +5662,10 @@ Samurai Slice[;
 //You are a samurai.[l
 //Permission to slay![;
 // --- Edited
-Run! They're coming![l
-You're a samurai, so[l
-you can stay behind[l
-and stop them. (NP)[;
+Make way, they're[l
+coming through![l
+You are a samurai,[l
+slice them all! (NP)[;
 #WRITE(RtPtr, $A04600)
 // 0x805bd68
 //てき　を　きれ！[;
@@ -5756,21 +5756,21 @@ The slow foes were vanquished perfectly![;
 // --- Literal
 //The feeling of the cutting edge is unbeatable!![;
 // --- Edited [Superb Text, samurai has chopped a boulder in half
-The feeling of a sharp blade is unbeatable!![;
+The sharpness, it is the best!![;
 #WRITE(RtPtr, $9CE57C)
 // 0x8053910
 //さらに精進（しょうじん）すべし！[;
 // --- Literal
 //Must concentrate more![;
 // --- Edited [Okay text, samurai poses with gleaming sword
-Must concentrate more![;
+Must devote myself more![;
 #WRITE(RtPtr, $9CE578)
 // 0x8053934
 //刃こぼれしちまった！[;
 // --- Literal
 //[;
 // --- Edited [failure text (shows picture of surprised samurai with a broken sword in midair and a flower, possibly he broke his sword trying to cut the flower?)
-You have bested me![;
+My blade is broken![;
 #WRITE(RtPtr, $9CE728)
 // 0x8053148
 //こっそり ラット[;
@@ -5790,10 +5790,10 @@ Rat Race[;
 //beloved cheese[l
 //Stop & Go!![;
 // --- Edited
-I got a family now.[l
-One last job, and[l
-I'm out of this[l
-business for good.[;
+You are a mouse.[l
+To reach your[l
+beloved cheese,[l
+Stop & Go!![;
 #WRITE(RtPtr, $A1B6C4)
 // 0x805d184
 //あいずを　したら[;
@@ -5923,21 +5923,21 @@ Can we even call that “attempted” theft?[;
 // --- Literal
 //Everyone, it was good![;
 // --- Edited [Superb, picture of mice family, with many children
-Want to hear about Daddy's big heist?[;
+Everyone, it was good![;
 #WRITE(RtPtr, $9CE73C)
 // 0x80530dc
 //チーズ おいしいね。[;
 // --- Literal
 //Cheese is yummy.[;
 // --- Edited [okay, two mice eating a piece of cheese
-I love you... and this cheese![;
+You know, I really like cheese.[;
 #WRITE(RtPtr, $9CE738)
 // 0x80530f0
 //チーズ 食べたいよ■…[;
 // --- Literal
 //I wanna eat some cheese...[;
 // --- Edited [fail, mice crying, they have no cheese
-The important thing is that we're together.[;
+I wanna eat some cheese...[;
 #WRITE(RtPtr, $9CE488)
 // 0x8053e1c
 //バイキン はかせ[;
@@ -5957,10 +5957,10 @@ Sick Beats[;
 //It's a germ outbreak![l
 //Help, professor~”[;
 // --- Edited
-[color=pink]Memo from Assistant[l
-We have quite a germ[l
-outbreak on our[l
-hands. Help us! (NP)[;
+[color=pink]Memo from assistant:[l
+It's terrible! It's a[l
+virus outbreak!! Help, [l
+professor~ (NP)[;
 #WRITE(RtPtr, $9FD1CC)
 // 0x805b764
 //助手から　ひとこと[;
@@ -6022,7 +6022,7 @@ They'll cut my funding...[;
 // --- Literal
 //The☆Bon-Odori[;
 // --- Edited
-The☆Bon-Odori[;
+The☆Bon Odori[;
 #WRITE(RtPtr, $9CE82C)
 // 0x8052bbc
 //ぼんおどりの[l
@@ -6334,7 +6334,7 @@ The last “pan pan” was good![;
 // --- Literal
 //Ahhh, that was fun![;
 // --- Edited (superb)
-Whee! That was fun![;
+Ahh, that was fun![;
 #WRITE(RtPtr, $9CE83C)
 // 0x8052b90
 //せんこう花火って、せつないね。[;
@@ -7234,7 +7234,7 @@ popular these days.[l
 // --- Literal
 //♪Honey Sweet Angel of Love[;
 // --- Edited [all but the "Sponsored by" text appears in the top left of the screen as white text, no background. It looks like it runs properly with these tags.
-[style=gold][linestyle=5]♪Love's Honey Sweet Angel[;
+[style=gold][linestyle=5]♪ Koi no Honey Sweet Angel[;
 #WRITE(RtPtr, $A61E24)
 // 0x806a0fc
 //[style=gold][linestyle=5]　うた　　時東　ぁみ[;
@@ -7499,7 +7499,7 @@ the TV audience.[;
 // --- Edited
 How's this for a[l
 knock to get into[l
-a secret cafe?[;
+a secret café?[;
 #WRITE(RtPtr, $A3C4DC)
 // 0x805ed60
 //[l
@@ -9393,7 +9393,7 @@ our music video! (NP)[;
 // --- Literal
 //♪ WISH  Couldn't Wait for You[;
 // --- Edited [[check the title is translated correctly
-[linealign=right][style=gold][linestyle=5]♪ WISH  Couldn't Wait for You  [;
+[linealign=right][style=gold][linestyle=5]♪ WISH Kimi o Matenakute  [;
 #WRITE(RtPtr, $A66818)
 // 0x806a314
 //[linesize=large]　うた　　田中　総史[;
@@ -10854,7 +10854,7 @@ Eek! You messed up![;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marcher 2[;
+Marching Orders 2[;
 #WRITE(RtPtr, $9CE62C)
 // 0x805355c
 //行進をするのだ。[l
@@ -11706,8 +11706,8 @@ Today's trip was... pretty much a total wreck.[;
 //[color=peach][linestyle=1][linesize=large]This will erase all records, and you'll have to start over from the beginning.[l
 //Think about it![;
 [color=pink][linestyle=3][linealign=center]Clear Save Data[l
-[linealign=left][color=peach]Erase progress, gifts, drum lessons,[l
-[color=gray]everything[color=peach]! Think about it![;
+[linealign=center][color=peach]This will erase Save Data.[l
+[color=gray]Everything[color=peach] will be gone! Think about it![;
 #WRITE(RtPtr, $9CFB14)
 // 0x80549fc
 //[color=pink][linestyle=3][linealign=center]サウンドモード[l
@@ -11720,7 +11720,7 @@ Today's trip was... pretty much a total wreck.[;
 // --- Edited
 //[[ the prime symbol ′ is now set to a width of zero. useful for spacing 1px at a time
 [color=pink][linestyle=3][linealign=center]Sound Mode[l
-[linealign=left][linestyle=1][color=0(normal)]Stereo[color=peach]   ′For headphones, Nintendo DS, etc.[l
+[linealign=left][color=0(normal)]Stereo[color=peach]   ′For headphones, Nintendo DS, etc.[l
 [color=0(normal)][linestyle=1]Mono[color=peach]        For GBAs without headphones.[;
 //[color=0(normal)] is blue pink is white peach is black
 #WRITE(RtPtr, $9CFC84)
@@ -13768,7 +13768,7 @@ The Final Letter[;
 // --- Edited
 [l
 [l
-WISH: I can't wait for you[l
+WISH Kimi o Matenakute[l
 [l
 Vocals: Tanaka Soushi[l
 Lyrics and Composition: Tsunku♂[l
@@ -13777,7 +13777,7 @@ Arrangement: Yuasa Kouichi[l
 [l
 //
 [l
-I can't wait for you so tonight is my goodbye[l
+I can't wait for you Goodbye tonight[l
 I wanted for us to love each other more[l
 This lonely night makes me remember [l
 Many of our happy moments[l
@@ -13890,7 +13890,7 @@ Lyrics: WISH[;
 //Port Hanisui ■ Angel[;
 // --- Edited
 [l
-Honey Sweet Angel of Love[l
+Koi no Honey Sweet Angel[l
 [l
 Vocals: Ami Tokito[l
 Lyrics and Composition: Tsunku♂[l
@@ -14003,7 +14003,7 @@ Lyrics: Sweet Angel[;
 // --- Edited
 [l
 [l
-The☆Bon-Odori[l
+The☆Bon Odori[l
 [l
 Vocals: Ami Tokito[l
 Lyrics and Composition: Tsunku♂[l
@@ -14129,7 +14129,7 @@ Haa~ Bon-Odori [l
 //Lyrics Card 1[;
 // --- Edited
 //Song Lyrics 1[;
-Lyrics: The☆Bon-Odori[;
+Lyrics: The☆Bon Odori[;
 #WRITE(RtPtr, $9D7EF8)
 // 0x8057968
 //はいどーもー！DJ SALUでーす！[l
@@ -14713,7 +14713,7 @@ Letter to the Editor[;
 //わりといろいろな所に遊びに出かけたりもしているので、もし見かけたらナデナデして下さいネ■！[l
 //ではまた。[;
 // --- Literal
-//I'm running a coffee bar (cafe).  Well, to put it simply, I'm the manager.  Thanks to the regulars, the business is about tolerable.  Ah, right right, I say this ahead of time, but I'm dog.  Many of my customers really like music.  Especially when it comes to rhythm, there are a lot that are really into it.  There is even one who completed many Perfect Campaigns, and I was so surprised![l
+//I'm running a coffee bar (café).  Well, to put it simply, I'm the manager.  Thanks to the regulars, the business is about tolerable.  Ah, right right, I say this ahead of time, but I'm dog.  Many of my customers really like music.  Especially when it comes to rhythm, there are a lot that are really into it.  There is even one who completed many Perfect Campaigns, and I was so surprised![l
 //[l
 //Well, in any case, although I always running the coffee bar in this manner, to tell you the truth it's only an appearance.  Truthfully, I... it's a bit embarrassing, but I'm always listening to music with dog-use headphones and being merry!  In the end, I can't do it without grooving to the music.  I'm in a fix.  Hahaha.[l
 //[l
@@ -14722,7 +14722,7 @@ Letter to the Editor[;
 //Ok then, see you again.[;
 // --- Edited
 [l
-Hi there. I run the local cafe. You can say I'm[l
+Hi there. I run the local café. You can say I'm[l
 a “manager." Thanks to the regulars, the[l
 business is about tolerable. Ah, right, I get[l
 ahead of myself. I'm a dog.[l
@@ -14733,7 +14733,7 @@ ahead of myself. I'm a dog.[l
 [l
 [l
 [linealign=left]But being a dog doesn't mean I can't own a[l
-cafe. In fact, people say that my doggedness[l
+café. In fact, people say that my doggedness[l
 is what keeps this little shop open. I also hear[l
 that many of my customers really like music.[l
 [l
@@ -14749,7 +14749,7 @@ with yet another medal! Anyway...[l
 [l
 [l
 [l
-Although I am always running the cafe, to tell[l
+Although I am always running the café, to tell[l
 you the truth, it's only a front for my real[l
 passion. Truthfully, I...[l
 [l
@@ -14922,15 +14922,11 @@ In conclusion, thanks for playing the game. It's[l
 no fun making something that nobody else[l
 cares about. Enjoy![l
 [l
-- Rhythm Heaven Silver team[l
+- the Rhythm Heaven Silver Team[l
 //New format
-[color=0(normal)]twitter.com/rh0updates[l
-[color=0(normal)]Github: RhythmHeavenENPatch[l
-[color=gray]Beta 13a: 2019-04-20[;
-//for Betas
-//Twitter.com/rh0updates      [color=gray]Beta 9b: 2013-09-06[;
-//for Demos
-//Twitter.com/rh0updates             [color=gray]Demo 9 - 06/21/13[;
+[color=0(normal)]https://twitter.com/rh0updates/[l
+[color=0(normal)]https://github.com/ShaffySwitcher/[l
+[color=gray]beta 14-rc.1: 2022-10-28[;
 #WRITE(RtPtr, $9D7E74)
 // 0x8058ee8
 //リズム天国へようこそ！[;
@@ -15014,7 +15010,7 @@ Try Again[;
 // --- Literal
 //Coffee Bar Counsel[;
 // --- Edited
-Cafe[;
+Café Councel[;
 #WRITE(RtPtr, $9D8388)
 // 0x8058fa0
 //ゲームセレクト２[;
@@ -15133,7 +15129,7 @@ Quiz Show[;
 // --- Literal
 //Tram & Poline[;
 // --- Edited
-Tram & Poline[;
+Tram & Pauline[;
 #WRITE(RtPtr, $9D82BC)
 // 0x80590a0
 //ウサギとび[;
@@ -15182,14 +15178,14 @@ Sneaky Spirits[;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Spaceball[;
 #WRITE(RtPtr, $9D8268)
 // 0x8059108
 //マーチャ[;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9D825C)
 // 0x8059114
 //まほうつかい[;
@@ -15823,7 +15819,7 @@ Sneaky Spirits[;
 // --- Literal
 //Air Batter 2[;
 // --- Edited
-Spaceball Game 2[;
+Spaceball 2[;
 #WRITE(RtPtr, $9DDE24)
 // 0x80599c8
 //エアーバッター[;
@@ -15865,14 +15861,14 @@ Mechanical Horse[h[;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marcher 2[;
+Marching Orders 2[;
 #WRITE(RtPtr, $9DDDF4)
 // 0x8059a28
 //マーチャ[;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9DDDEC)
 // 0x8059a34
 //まほうつかい[;
@@ -16320,7 +16316,7 @@ Quiz Show EX[;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Sick Beats EX[;
+Sick Beats SP[;
 #WRITE(RtPtr, $9DDBEC)
 // 0x8059f84
 //ライブ[;
@@ -16572,10 +16568,10 @@ Measuring finished! Okay, the result is...[;
 //　　　　　　　　　　♪　Super Tap[;
 // --- Edited
 [size=medium][linesize=medium][style=bold][linestyle=4]Drum Samurai's[l
-        [size=medium][linesize=medium][style=bold][linestyle=4]Band LIVE! [l
-[size=small][linesize=small][style=gold][linestyle=5][linesize=large]　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]          ♪ The Snappy Trio　　　　　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]          ♪ Turbo Tap Trial　　　　　　　　　　[;
+       [size=medium][linesize=medium][style=bold][linestyle=4]Band LIVE! [l
+[size=small][linesize=small][style=gold][linestyle=5][linesize=large]　　　♪ Cosmic Dance[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪ The Snappy Trio[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪ Turbo Tap Trial[;
 #WRITE(RtPtr, $9E5C78)
 // 0x805a7a8
 //[size=medium][linesize=medium][style=bold][linestyle=4]Drum Boys LIVE![l
@@ -16596,9 +16592,9 @@ Measuring finished! Okay, the result is...[;
 // --- Edited
 [size=medium][linesize=medium][style=bold][linestyle=4]Drum Boys LIVE!  [l
 [l
-[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　The Clappy Trio　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　Tap Trial　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　WISH Couldn't Wait for You　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　The Clappy Trio　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　Tap Trial　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　WISH Kimi o Matenakute　　　　　　　　　　[l
 [l
 [;
 #WRITE(RtPtr, $9E5C74)
@@ -16621,9 +16617,9 @@ Measuring finished! Okay, the result is...[;
 // --- Edited
 [size=medium][linesize=medium][style=bold][linestyle=4]Drum Girls LIVE!  [l
 [l
-[size=small][linesize=small][style=gold][linestyle=5]♪　Night Walk　　　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]♪　Space Dance　　　　　　　　[l
-[size=small][linesize=small][style=gold][linestyle=5]♪　Honey Sweet Angel of Love　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　Night Walk　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　Space Dance　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　♪　Koi no Honey Sweet Angel　　　　　　　　　　[l
 [l
 [;
 // 0x805a8ae
@@ -18820,7 +18816,7 @@ OK then, roll 'em~![;
 //Good day![;
 // --- Edited
 [l
-Good day![;
+Hello![;
 #WRITE(RtPtr, $A5FFFC)
 // 0x8069ef8
 //がんばってますか？[l
@@ -18832,10 +18828,10 @@ Good day![;
 //Are you working hard?[l
 //I'll be very happy if your sense of rhythm has improved.[;
 // --- Edited
-Are you working hard?[l
-I'll be very happy if your[l
-sense of rhythm[l
-has improved.[;
+Are you doing your best?[l
+I hope your sense[l
+of rhythm is[l
+getting better.[;
 #WRITE(RtPtr, $A60104)
 // 0x8069f40
 //クリアしたゲームは[l
@@ -18860,10 +18856,10 @@ harder games for you![;
 //Yeah, that was the game's staff.[l
 //I wonder what kind of game they're making right now...[;
 // --- Edited
-Yeah, that was the[l
-game's staff... I wonder[l
-if they're already[l
-making a sequel...[;
+Oh right,[l
+the game's staff.[l
+I wonder what game[l
+they are making now...[;
 #WRITE(RtPtr, $A602FC)
 // 0x8069fe4
 //[linealign=center]ま、それはさておき。[l
@@ -18872,6 +18868,6 @@ making a sequel...[;
 // --- Literal [google translate
 //So please ![;
 // --- Edited
-Please keep up[l
-your rhythm![;
+Well, aside from that...[l
+Here you go~![;
 //End of Script file.

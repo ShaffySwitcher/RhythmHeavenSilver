@@ -3,7 +3,7 @@
 
 _skipwarningscreen equ 0
 _skiprhythmtest equ 0
-_debug equ 1
+_debug equ 0
 _debugmenu equ 0
 _nocashmessages equ 0
 _luaconsolemessages equ 0
@@ -36,11 +36,11 @@ _spriteluaconsolemessages equ 1 ; (Hotfix, for some reason _debug alone gives po
 .include src/Graphics/Rhythm_Games/Remix_1/mix1.asm
 .include src/Graphics/Rhythm_Games/Sneaky_Spirits/spirit1.asm
 .include src/Graphics/Rhythm_Games/Samurai_Slice/samurai.asm
-.include src/Graphics/Rhythm_Games/Cheese_Heist/cheese.asm
+.include src/Graphics/Rhythm_Games/Rat_Race/cheese.asm
 .include src/Graphics/Rhythm_Games/Sick_Beats/SickBeats.asm
 .include src/Graphics/Rhythm_Games/TheBon_Odori/odori1.asm
 .include src/Graphics/Rhythm_Games/Remix_2/mix2.asm
-.include src/Graphics/Rhythm_Games/Death_Waltz/wizard.asm
+.include src/Graphics/Rhythm_Games/Wizard_Waltz/wizard.asm
 .include src/Graphics/Rhythm_Games/Showtime/showtime.asm
 .include src/Graphics/Rhythm_Games/Bunny_Hop/bunny.asm
 .include src/Graphics/Rhythm_Games/Tram_Pauline/tram.asm

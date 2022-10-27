@@ -19,11 +19,11 @@
 .include src/Graphics/Rhythm_Games/MiscGraphics/miscgraphics_relocate.asm
 .include src/Graphics/Rhythm_Games/Sneaky_Spirits/spirit1_relocate.asm
 .include src/Graphics/Rhythm_Games/Samurai_Slice/samurai_relocate.asm
-.include src/Graphics/Rhythm_Games/Cheese_Heist/cheese_relocate.asm
+.include src/Graphics/Rhythm_Games/Rat_Race/cheese_relocate.asm
 .include src/Graphics/Rhythm_Games/Sick_Beats/SickBeats_relocate.asm
 .include src/Graphics/Rhythm_Games/TheBon_Odori/odori1_relocate.asm
 .include src/Graphics/Rhythm_Games/Remix_2/mix2_relocate.asm
-.include src/Graphics/Rhythm_Games/Death_Waltz/wizard_relocate.asm
+.include src/Graphics/Rhythm_Games/Wizard_Waltz/wizard_relocate.asm
 .include src/Graphics/Rhythm_Games/Showtime/showtime_relocate.asm
 .include src/Graphics/Rhythm_Games/Bunny_Hop/bunny_relocate.asm
 .include src/Graphics/Rhythm_Games/Tram_Pauline/tram_relocate.asm

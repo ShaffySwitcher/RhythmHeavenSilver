@@ -1,0 +1,84 @@
+;8B0A3C_assembly0.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088B0A3C
+.import Directory/8B0A3C_assembly0.bin
+;--
+;8B0A44_assembly1.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088B0A44
+.import Directory/8B0A44_assembly1.bin
+;--
+;8B0A58_assembly2.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0A58_assembly2:
+.import Directory/8B0A58_assembly2.bin
+
+;Put in X.asm 
+.org 0x088B0C00
+.dw X8B0A58_assembly2
+
+;--
+;8B0A78_assembly3.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0A78_assembly3:
+.import Directory/8B0A78_assembly3.bin
+
+;Put in X.asm 
+.org 0x088B0C08
+.dw X8B0A78_assembly3
+
+;--
+;8B0AB0_assembly4.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0AB0_assembly4:
+.import Directory/8B0AB0_assembly4.bin
+
+;Put in X.asm 
+.org 0x088B0C10
+.dw X8B0AB0_assembly4
+
+;--
+;8B0AF4_assembly5.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0AF4_assembly5:
+.import Directory/8B0AF4_assembly5.bin
+
+;Put in X.asm 
+.org 0x088B0C18
+.dw X8B0AF4_assembly5
+
+;--
+;8B0B38_assembly6.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0B38_assembly6:
+.import Directory/8B0B38_assembly6.bin
+
+;Put in X.asm 
+.org 0x088B0C20
+.dw X8B0B38_assembly6
+
+;--
+;8B0B88_assembly7.bininfo 
+;Frame Size larger, needs repointing
+;Put in X_relocate.asm 
+.align 2
+X8B0B88_assembly7:
+.import Directory/8B0B88_assembly7.bin
+
+;Put in X.asm 
+.org 0x088B0C28
+.dw X8B0B88_assembly7
+
+;--

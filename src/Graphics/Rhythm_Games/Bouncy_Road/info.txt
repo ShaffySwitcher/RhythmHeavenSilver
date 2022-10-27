@@ -1,0 +1,54 @@
+;8AE484_assembly0.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AE484
+.import Directory/8AE484_assembly0.bin
+;--
+;8AF31E_assembly1.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF31E
+.import Directory/8AF31E_assembly1.bin
+;--
+;8AF338_assembly2.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF338
+.import Directory/8AF338_assembly2.bin
+;--
+;8AF352_assembly3.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF352
+.import Directory/8AF352_assembly3.bin
+;--
+;8AF372_assembly4.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF372
+.import Directory/8AF372_assembly4.bin
+;--
+;8AF3AA_assembly5.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF3AA
+.import Directory/8AF3AA_assembly5.bin
+;--
+;8AF3F4_assembly6.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF3F4
+.import Directory/8AF3F4_assembly6.bin
+;--
+;8AF43E_assembly7.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF43E
+.import Directory/8AF43E_assembly7.bin
+;--
+;8AF488_assembly8.bininfo 
+;Frame Size is equal or smaller than original 
+;Put in X.asm
+.org 0x088AF488
+.import Directory/8AF488_assembly8.bin
+;--
