@@ -14926,7 +14926,7 @@ cares about. Enjoy![l
 //New format
 [color=0(normal)]https://twitter.com/rh0updates/[l
 [color=0(normal)]https://github.com/ShaffySwitcher/[l
-[color=gray]beta 14-rc.1: 2022-10-28[;
+[color=gray]beta 14: 2022-10-28[;
 #WRITE(RtPtr, $9D7E74)
 // 0x8058ee8
 //リズム天国へようこそ！[;
