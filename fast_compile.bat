@@ -3,8 +3,8 @@
 :compile
 del "ROM\rh-atlus.gba"
 copy "ROM\rh-jpn.gba" "ROM\rh-atlus.gba"
-Compile\atlas.exe "ROM\rh-atlus.gba" "EN_SourceCode\script.txt"
-Compile\armips.exe Compile/ASM/compile.asm
-Compile\flips.exe "Compile\Font Hack 4 - 1px spacer.ips" "ROM\rh-eng.gba"
+perl "tools\abcde\abcde.pl" -cm abcde::Atlas "ROM\rh-atlus.gba" "src\script.txt"
+tools\armips.exe tools/ASM/compile.asm
+tools\flips.exe "tools\Font Hack 4 - 1px spacer.ips" "ROM\rh-eng.gba"
 pause
 goto compile

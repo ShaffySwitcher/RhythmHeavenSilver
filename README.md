@@ -9,7 +9,7 @@ The only thing I am willing to contribute to this are bug fixes, so please do no
 # Rhythm Heaven Silver
 This repository is dedicated to host the Rhythm Tengoku English unofficial fan translation, **Rhythm Heaven Silver**.
 
-Rhythm Tengoku Silver is a project started in 2008 aiming to translate Rhythm Tengoku in English, for everyone to enjoy.
+Rhythm Heaven Silver is a project started in 2008 aiming to translate Rhythm Tengoku in English, for everyone to enjoy.
 
 # Installation
 You will need:
@@ -31,10 +31,10 @@ However there are things that have been decided on this project and you should f
 1. Open a command prompt.
 2. Download the Rhythm Heaven Silver repository.
 	```batch
-	git clone https://github.com/ShaffySwitcher/RhythmTengokuENPatch
-	cd RhythmTengokuENPatch
+	git clone https://github.com/ShaffySwitcher/RhythmHeavenSilver
+	cd RhythmHeavenSilver
 	```
-	or you could also just download the source [here](https://github.com/ShaffySwitcher/RhythmTengokuENPatch/archive/refs/heads/master.zip).
+	or you could also just download the source [here](https://github.com/ShaffySwitcher/RhythmHeavenSilver/archive/refs/heads/master.zip).
 3. Figure out the instructions... (Sorry. It's been a while.)
 4. Compile.
 	```batch
