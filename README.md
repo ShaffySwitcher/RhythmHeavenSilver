@@ -13,7 +13,7 @@ Rhythm Tengoku Silver is a project started in 2008 aiming to translate Rhythm Te
 
 # Installation
 You will need:
-* A legally obtained ROM of Rhythm Tengoku **(Rev 1)** (CRC32: `A6CD88E1`)
+* A legally obtained ROM of Rhythm Tengoku **(Rev 0)** (CRC32: `349D7025`)
 * An IPS patcher (like this one: https://www.marcrobledo.com/RomPatcher.js/)
 
 And you just patch your ROM!
@@ -35,12 +35,18 @@ However there are things that have been decided on this project and you should f
 	cd RhythmTengokuENPatch
 	```
 	or you could also just download the source [here](https://github.com/ShaffySwitcher/RhythmTengokuENPatch/archive/refs/heads/master.zip).
-3. Compile.
+3. Figure out the instructions... (Sorry. It's been a while.)
+4. Compile.
 	```batch
 	compile.bat
 	```
 ## Linux / Mac OS
 I have not found Linux / Mac OS alternatives for the tools used, and I don't want to rewrite some of the tools because it will simply be too overcomplicated for a simple translation, so I can only advise to use Wine (although this is untested).
+
+# To-do
+
+* Fix all the little inaccuracy everywhere in the script.
+* Also weirdly the patch uses the Rev 0 ROM. Why? Was the Rev 1 not out yet? 
 
 # Credits
 There's too many people I'd like to thanks, too much I can't really list, but it should be noted that I am not the original creator of this patch, so please do not credit me for it, all credit should go to the original Rhythm Heaven Silver team.<br>
