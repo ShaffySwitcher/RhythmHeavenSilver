@@ -8,6 +8,9 @@ The only thing I am willing to contribute to this after that are bug fixes, so p
 *Also, please take note that the release b13 and state of the old source code might be broken.*
 
 # Rhythm Heaven Silver
+
+![Rhythm Heaven Silver](media/rhs.png?raw=true "Rhythm Heaven Silver")
+
 This repository is dedicated to host the Rhythm Tengoku English unofficial fan translation, **Rhythm Heaven Silver**.
 
 Rhythm Heaven Silver is a project started in 2008 aiming to translate Rhythm Tengoku in English, for everyone to enjoy.
