@@ -22,5 +22,6 @@
 flipscfg.bin
 # Compressed graphics, created as part of the compilation process
 *.cdat
+*.rle
 # Graphics dumped from ROM should go in this folder
 Other (Unneeded) Files/dump

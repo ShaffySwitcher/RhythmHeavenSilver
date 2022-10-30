@@ -1,6 +1,6 @@
 # Notice
 
-**I will not work on this project anymore**, I don't know if anyone will continue/continued it...
+**I am not fully working on this project anymore**, I don't know if anyone will continue/continued it...
 I am just finalizing what I feel like I should of did years ago...<br>
 
 The only thing I am willing to contribute to this after that are bug fixes, so please do not ask for support about this, I will not answer, and go instead ask more people and/or fork it on your own.<br>
@@ -24,6 +24,7 @@ And you just patch your ROM!
 
 # Contribution
 Fork it the project, and either decide to go your own way, or do a pull request.<br>
+I am right now in need of GFX artists...<br>
 
 However there are things that have been decided on this project and you should follow this guideline if you are planning to open a pull request:<br>
 * All known mini-games that have come back on Rhythm Heaven Megamix, should use their Megamix names.
@@ -39,7 +40,6 @@ However there are things that have been decided on this project and you should f
 	cd RhythmHeavenSilver
 	```
 	or you could also just download the source [here](https://github.com/ShaffySwitcher/RhythmHeavenSilver/archive/refs/heads/master.zip).
-3. Figure out the instructions... (Sorry. It's been a while.)
 4. Compile.
 	```batch
 	compile.bat
@@ -56,11 +56,15 @@ I have not found Linux / Mac OS alternatives for the tools used, and I don't wan
 # Credits
 There's too many people I'd like to thanks, too much I can't really list, but it should be noted that I am not the original creator of this patch, so please do not credit me for it, all credit should go to the original Rhythm Heaven Silver team.<br>
 
-If you *really* want to get credited for work done on this please just contact me and we'll get sorted this out.
+Even though, thanks Nintendo for releasing this good game that wouldn't of made the Rhythm Heaven franchise real without it.<br>
+Thanks to the original creator of this translation patch, including the original translator who made the first script back in 2007...
 
 # Contact
-**As I am not working on this anymore, please do NOT ask me for help on translating, graphics or anything...**<br> 
-However, if you have something to tell/ask otherwise, feel free to add me on Discord (Shaffy#3991).<br>
+If you have something to tell/ask otherwise or if you wanna contribute, feel free to add me on Discord (Shaffy#3991).<br>
 
-As I am not in contact with anyone who's working on this, I can't really redirect anyone else for support; however you can probably ask help on the Rhythm Heaven Modding Server, or the Rhythm Tengoku Modding Server.
+As I am not in contact with anyone who's working on this, I can't really redirect anyone else for support; however you can probably ask help on the Rhythm Heaven Modding Server, or the Rhythm Tengoku Modding Server for more technically questions.
 
+# Links
+
+Github: https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/
+Twitter: https://twitter.com/rh0updates
