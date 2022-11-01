@@ -7,6 +7,7 @@ However from what I remember:
 - nmap: Texture extractor(?)
 - RhythmHeavenOAMEditor: It's in the name.
 - crystaltile2: GFX editor.
+- R-IQ Tile Fixer: Reassemble BG from their tile arrangement and vice-versa.
 
 The IPS adds probably some obscure binhacks for some emulator (vba?) to log the location of the sprite.
 And the Lua script probably is the thing that works with it.

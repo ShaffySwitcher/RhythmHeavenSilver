@@ -1,12 +1,3 @@
-# Notice
-
-**I am not fully working on this project anymore**, I don't know if anyone will continue/continued it...
-I am just finalizing what I feel like I should of did years ago...<br>
-
-The only thing I am willing to contribute to this after that are bug fixes, so please do not ask for support about this, I will not answer, and go instead ask more people and/or fork it on your own.<br>
-
-*Also, please take note that the release b13 and state of the old source code might be broken.*
-
 # Rhythm Heaven Silver
 
 ![Rhythm Heaven Silver](media/rhs.png?raw=true "Rhythm Heaven Silver")

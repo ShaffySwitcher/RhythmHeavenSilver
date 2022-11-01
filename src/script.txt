@@ -14922,11 +14922,45 @@ In conclusion, thanks for playing the game. It's[l
 no fun making something that nobody else[l
 cares about. Enjoy![l
 [l
-- the Rhythm Heaven Silver Team[l
+[l
+Oh, is it my turn to write a message like that?[l
+Hello, my name's Shaffy![l
+I maintain this patch nowadays...[l
+Everything you've read (or not) at the top[l
+is not true anymore, but I am keeping this up[l
+for archive.[l
+[l
+I don't translate much but I try to rewrite the[l
+script, and translate the few GFX left.[l
+But if this translation has English SFX[l
+in the future then thanks me[l
+(or... not...), because I am[l
+actively working on that.[l
+[l
+Working on this patch alone, I can definitely[l
+say if the team before me didn't do[l
+80% of the work, we really wouldn't be there![l
+[l
+I also would like to thanks everyone[l
+who supported the patch so far, everyone[l
+who talked about it, etc...[l
+[l
+Anyway, I hope you enjoy it,[l
+and keep supporting Rhythm Heaven![l
+[l
+[color=gray]- Shaffy[l
+[l
+[l
+[l
+[l
+[l
+Patch update:[l
 //New format
 [color=0(normal)]https://twitter.com/rh0updates/[l
+(^ Not updated anymore(?))[l
+[color=0(normal)]https://twitter.com/ShaffySwitcher/[l
 [color=0(normal)]https://github.com/ShaffySwitcher/[l
-[color=gray]beta 14: 2022-10-28[;
+Version: [color=gray]beta 14: 2022-10-28[;
 #WRITE(RtPtr, $9D7E74)
 // 0x8058ee8
 //リズム天国へようこそ！[;
