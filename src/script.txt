@@ -6043,7 +6043,7 @@ and sing along![;
 // --- Literal
 //Let's Bon-odori![;
 // --- Edited
-.6:1Ｌｅｔ’ｓ　ｄｏ　ｔｈｅ　Ｂｏｎ−Ｏｄｏｒｉ　ｄａｎｃｅ！[;
+.6:1Ｌｅｔ’ｓ　ｄｏ　ｔｈｅ　Ｂｏｎ　Ｏｄｏｒｉ　ｄａｎｃｅ！[;
 #WRITE(RtPtr, $A484D8)
 // 0x8067aa4
 //.6:1みんなの　てびょうしを　まねしてネ。[;
@@ -6196,7 +6196,7 @@ and sing along![;
 // --- Literal
 //Haa~  Bon-Odori[;
 // --- Edited
-.0:0Ｈａａ~　Ｂｏｎ−Ｏｄｏｒｉ[;
+.0:0Ｈａａ~　Ｂｏｎ　Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A45AF0)
 #WRITE(RtPtr, $A45B20)
 #WRITE(RtPtr, $A472C0)
@@ -9735,7 +9735,7 @@ spirits, yay! (NP)[;
 // --- Literal
 //Haa~ Bon-odori[;
 // --- Edited
-.0:0Ｈａａ~　Ｂｏｎ−Ｏｄｏｒｉ[;
+.0:0Ｈａａ~　Ｂｏｎ　Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A68DBC)
 #WRITE(RtPtr, $A6A640)
 #WRITE(RtPtr, $A6AAF0)
@@ -14035,7 +14035,7 @@ Matsuri da wasshoi! [l
 Nippon juu ga wasshoi! [l
 Sore hikkuri kaette [l
 dondo pa--n pan [l
-Ha~ Bon-Odori [l
+Ha~ Bon Odori [l
 [l
 [l
 [l
@@ -14045,7 +14045,7 @@ Hora! Matsuri da wasshoi![l
 Korezo Meido in Japan![l
 Sore hikkuri kaette [l
 dondo pa--n pan [l
-Ha~ Bon-Odori [l
+Ha~ Bon Odori [l
 [l
 // [literal translation
 [l
@@ -14063,7 +14063,7 @@ It's a festival, wasshoi![l
 All Japan says wasshoi![l
 Yeah, twirl around and[l
 dondo pa--n pan[l
-Ha~ Bon-Odori [l
+Ha~ Bon Odori [l
 [l
 [l
 [l
@@ -14073,7 +14073,7 @@ Hey!/Look here! It's a festival, wasshoi![l
 This is it, Made in Japan![l
 Yeah, twirl around and[l
 dondo pa--n pan[l
-Ha~ Bon-Odori [l
+Ha~ Bon Odori [l
 [l
 //localized lyrics
 [l
@@ -14091,7 +14091,7 @@ It’s a festival, hooray![l
 All Japan says hooray![l
 Now we turn around and[l
 dondo pa--n pan[l
-Haa~ Bon-Odori [l
+Haa~ Bon Odori [l
 [l
 [l
 [l
@@ -14101,7 +14101,7 @@ Oh! It’s a festival, hooray![l
 This is it! It’s made in Japan![l
 Now we turn around and[l
 dondo pa--n pan[l
-Haa~ Bon-Odori [l
+Haa~ Bon Odori [l
 [;
 //[linealign=center][l
 //[linealign=left][color=peach]Ha~ Hanabi agareba~ [color=0(normal)](When the fireworks go up)[l
@@ -15269,7 +15269,7 @@ The☆Bon Dance[;
 //The☆Bon-Odori (odori = Japanese word for dance)[;
 // --- Edited [[text is cut-off if full name is used
 //The☆Bon-Odori[;
-The☆Bon-Odori[;
+The☆Bon Odori[;
 #WRITE(RtPtr, $9D8208)
 // 0x805917c
 //ナイトウォーク[;
