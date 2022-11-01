@@ -27,3 +27,5 @@ flipscfg.bin
 *.rle
 # Graphics dumped from ROM should go in this folder
 Other (Unneeded) Files/dump
+#  CrystalTile2's config file, unneeded...
+Other (Unneeded) Files/crystaltile2/CrystalTile2.ini

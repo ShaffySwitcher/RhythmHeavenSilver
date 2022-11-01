@@ -1,6 +1,6 @@
 .include tools/ASM/lz77hack.asm
 .include tools/ASM/debug.asm
-.if _skipwarningscreen==1
+.if _skipwarningscreen==1 ;Pratically useless
 .org 0x08000454
 .dw 0x089DD47C
 .endif

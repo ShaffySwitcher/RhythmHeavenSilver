@@ -9,8 +9,12 @@ _nocashmessages equ 0
 _luaconsolemessages equ 0
 
 .if _debug==1
-.notice "Debug flag enabled!"
+.notice "Debug flag enabled! Do not use for release!!!"
 _spriteluaconsolemessages equ 1 ; (Hotfix, for some reason _debug alone gives pool out of range errors.)
+.endif
+
+.if _debugmenu==1
+.notice "Debug menu enabled! Do not use for release!!!"
 .endif
 
 .include tools/ASM/relocate.asm
