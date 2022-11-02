@@ -41,4 +41,10 @@
 .import src/Graphics/ToysMenu/Toys/930386_assembly0.bin
 .org 0x08930394
 .import src/Graphics/ToysMenu/Toys/930394_assembly1.bin
+.org 0x08cdbe6c
+.dw cdbe6c_rap_tilemap_data
+.org 0x08cdbe6c+4
+.dw cdbe6c_rap_tilemap_rle
+.org 0x08cdbe6c+8
+.dh cdbe6c_rap_tilemap_rle_end - cdbe6c_rap_tilemap_rle
 ;eof

@@ -10,6 +10,14 @@ cdd0d4_love_tile1:
 .align 4
 cdbacc_rap_tile1:
 .import src/Graphics/ToysMenu/Toys/cdbacc_rap_tile1.cdat
+.align 4
+cdbe6c_rap_tilemap_data:
+.import src/Graphics/ToysMenu/Toys/cdbe6c_rap_tilemap.dat
+.align 4
+cdbe6c_rap_tilemap_rle:
+.import src/Graphics/ToysMenu/Toys/cdbe6c_rap_tilemap.rle
+cdbe6c_rap_tilemap_rle_end:
+.align 2
 ;Horse Clip (Lesson one)
 .align 2
 X93031E_assembly0:
