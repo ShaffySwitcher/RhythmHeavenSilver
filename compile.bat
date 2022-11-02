@@ -99,6 +99,8 @@ tools\DSDecmp.exe -c lz10 src/Graphics/EndlessMenu/games/c34478_head_tile1.bin s
 tools\DSDecmp.exe -c lz10 src/Graphics/Warning_Screen/D1AD4C_warningscreen_tile.bin src/Graphics/Warning_Screen/D1AD4C_warningscreen_tile
 tools\rhcomp.exe src/Graphics/Rhythm_Games/MiscGraphics/CCCA5C_MiscGraphics.bin
 tools\rhcomp.exe src/Graphics/EndlessMenu/cc4a00_endless_tilemap.bin
+tools\rhcomp.exe src/Graphics/EndlessMenu/games/C35F18_head_tilemap.bin
+tools\rhcomp.exe src/Graphics/EndlessMenu/games/C360B0_head_tilemap.bin
 tools\rhcomp.exe src/Graphics/ToysMenu/cd931c_toys_screen_map.bin
 tools\rhcomp.exe src/Graphics/Drums/cc6ccc_drums_map.bin
 tools\rhcomp.exe src/Graphics/MusicSelect/CD62EC_musicselect_map.bin

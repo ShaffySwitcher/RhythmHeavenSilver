@@ -25,6 +25,7 @@ flipscfg.bin
 # Compressed graphics, created as part of the compilation process
 *.cdat
 *.rle
+*.dat
 # Graphics dumped from ROM should go in this folder
 Other (Unneeded) Files/dump
 #  CrystalTile2's config file, unneeded...
