@@ -53,4 +53,11 @@
 .dw CDD5B8_love_tilemap_rle
 .org 0x08CDD5B8+8
 .dh CDD5B8_love_tilemap_rle_end - CDD5B8_love_tilemap_rle
+.org 0x08CDA400
+.dw CDA400_meow_tilemap_data
+.org 0x08CDA400+4
+.dw CDA400_meow_tilemap_rle
+.org 0x08CDA400+8
+.dh CDA400_meow_tilemap_rle_end - CDA400_meow_tilemap_rle
+
 ;eof

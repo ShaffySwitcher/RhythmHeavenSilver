@@ -24,6 +24,13 @@ CDD5B8_love_tilemap_data:
 CDD5B8_love_tilemap_rle:
 .import src/Graphics/ToysMenu/Toys/CDD5B8_love_tilemap.rle
 CDD5B8_love_tilemap_rle_end:
+.align 4
+CDA400_meow_tilemap_data:
+.import src/Graphics/ToysMenu/Toys/CDA400_meow_tilemap.dat
+.align 4
+CDA400_meow_tilemap_rle:
+.import src/Graphics/ToysMenu/Toys/CDA400_meow_tilemap.rle
+CDA400_meow_tilemap_rle_end:
 ;Horse Clip (Lesson one)
 .align 2
 X93031E_assembly0:
