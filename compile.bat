@@ -109,6 +109,7 @@ tools\rhcomp.exe src/Graphics/ToysMenu/cd931c_toys_screen_map.bin
 tools\rhcomp.exe src/Graphics/Drums/cc6ccc_drums_map.bin
 tools\rhcomp.exe src/Graphics/MusicSelect/CD62EC_musicselect_map.bin
 tools\rhcomp.exe src/Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
+tools\rhcomp.exe src/Graphics/EmailSelectScreen/CC7A40_email_select_tilemap.bin
 tools\armips.exe tools/ASM/compile.asm
 tools\flips.exe "tools\Font Hack 4 - 1px spacer.ips" "ROM\rh-eng.gba"
 tools\flips.exe "tools\accents.ips" "ROM\rh-eng.gba"
