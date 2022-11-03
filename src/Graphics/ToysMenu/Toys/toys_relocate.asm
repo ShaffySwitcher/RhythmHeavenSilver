@@ -17,7 +17,13 @@ cdbe6c_rap_tilemap_data:
 cdbe6c_rap_tilemap_rle:
 .import src/Graphics/ToysMenu/Toys/cdbe6c_rap_tilemap.rle
 cdbe6c_rap_tilemap_rle_end:
-.align 2
+.align 4
+CDD5B8_love_tilemap_data:
+.import src/Graphics/ToysMenu/Toys/CDD5B8_love_tilemap.dat
+.align 4
+CDD5B8_love_tilemap_rle:
+.import src/Graphics/ToysMenu/Toys/CDD5B8_love_tilemap.rle
+CDD5B8_love_tilemap_rle_end:
 ;Horse Clip (Lesson one)
 .align 2
 X93031E_assembly0:

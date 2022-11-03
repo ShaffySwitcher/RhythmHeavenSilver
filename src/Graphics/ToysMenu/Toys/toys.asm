@@ -47,4 +47,10 @@
 .dw cdbe6c_rap_tilemap_rle
 .org 0x08cdbe6c+8
 .dh cdbe6c_rap_tilemap_rle_end - cdbe6c_rap_tilemap_rle
+.org 0x08CDD5B8
+.dw CDD5B8_love_tilemap_data
+.org 0x08CDD5B8+4
+.dw CDD5B8_love_tilemap_rle
+.org 0x08CDD5B8+8
+.dh CDD5B8_love_tilemap_rle_end - CDD5B8_love_tilemap_rle
 ;eof
