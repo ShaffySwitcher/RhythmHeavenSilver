@@ -9,4 +9,10 @@
 .import src/Graphics/Rhythm_Games/Polyrhythm/8F6090_assembly0.bin
 .org 0x088F60AA
 .import src/Graphics/Rhythm_Games/Polyrhythm/8F60AA_assembly1.bin
+.org 0x08C02628
+.dw C02628_built1_intro1map_data
+.org 0x08C02628+4
+.dw C02628_built1_intro1map_rle
+.org 0x08C02628+8
+.dh C02628_built1_intro1map_rle_end - C02628_built1_intro1map_rle
 ;eof
