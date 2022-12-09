@@ -19,7 +19,7 @@ I am right now in need of GFX artists...<br>
 
 However there are things that have been decided on this project and you should follow this guideline if you are planning to open a pull request:<br>
 * All known mini-games that have come back on Rhythm Heaven Megamix, should use their Megamix names.
-* *ポリリズム* should be named *Polyrhythm* despite it's similarities to Built to Scale.
+* *ポリリズム* should be named *Polyrhythm* despite its similarities to Built to Scale.
 
 # Build
 
