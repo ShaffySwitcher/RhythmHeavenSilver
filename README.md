@@ -24,6 +24,8 @@ However there are things that have been decided on this project and you should f
 # Build
 
 ## Windows
+You'll need [Strawberry Perl](https://strawberryperl.com/) to compile the text using abcde.
+
 1. Open a command prompt.
 2. Download the Rhythm Heaven Silver repository.
 	```batch
@@ -39,10 +41,7 @@ However there are things that have been decided on this project and you should f
 I have not found Linux / Mac OS alternatives for the tools used, and I don't want to rewrite some of the tools because it will simply be too overcomplicated for a simple translation, so I can only advise to use Wine (although this is untested).
 
 # To-do
-
-* Fix all the little inaccuracy everywhere in the script.
-* Also weirdly the patch uses the Rev 0 ROM. Why? Was the Rev 1 not out yet? 
-* SFX...
+Check the issues.
 
 # Credits
 There's too many people I'd like to thanks, too much I can't really list, but it should be noted that I am not the original creator of this patch, so please do not credit me for it, all credit should go to the original Rhythm Heaven Silver team.<br>
@@ -57,5 +56,5 @@ As I am not in contact with anyone who's working on this, I can't really redirec
 
 # Links
 
-Github: https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/
+GBATemp: https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/
 Twitter: https://twitter.com/rh0updates
