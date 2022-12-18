@@ -49,6 +49,15 @@ There's too many people I'd like to thanks, too much I can't really list, but it
 Even though, thanks Nintendo for releasing this good game that wouldn't of made the Rhythm Heaven franchise real without it.<br>
 Thanks to the original creator of this translation patch, including the original translator who made the first script back in 2007...
 
+## Disclamer
+I know this patch was either unfinished a decade ago or of questionable quality nowadays. There was a lot of inconsistensy (Megamix / Silver names, Polyrhythm / Built to Scale, etc...) everywhere and known issue.
+
+This is due to the fact that I work (_mostly_) alone since 2019 (atleast when I still worked on it, oh and did I tell you guys I am not an native english speaker?), there is no real quality check, and 3 years ago I wasn't really mature enough for my own quality check. 
+So please do not call this hack "garbage" or whatever another word you can find because there's a lot of work behind it.
+
+This is about to change, I am now working with a team of people that submits graphics and new translated text so that hack will
+have a new apparence soon and you will be able to experience Rhythm Heaven Silver (or Advance) a new way.
+
 # Contact
 If you have something to tell/ask otherwise or if you wanna contribute, feel free to add me on Discord (Shaffy#3991).<br>
 
@@ -56,5 +65,6 @@ As I am not in contact with anyone who's working on this, I can't really redirec
 
 # Links
 
-GBATemp: https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/
-Twitter: https://twitter.com/rh0updates
+GBATemp: https://gbatemp.net/threads/rhythm-tengoku-translation-rhythm-heaven-silver.330147/ (Redirects here.)
+
+Twitter: https://twitter.com/rh0updates (W hat does not use it anymore.)
