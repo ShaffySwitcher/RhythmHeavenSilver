@@ -6081,7 +6081,7 @@ and sing along![;
 // --- Literal
 //Haa~[;
 // --- Edited [first line of song
-.0:0Ｈａ~[;
+.0:0Ｈａ～[;
 #WRITE(RtPtr, $A43FCC)
 // 0x8067794
 //.0:0はなび　あがれば■[;
@@ -6090,7 +6090,7 @@ and sing along![;
 // --- Edited
 //.0:0When the fireworks go up~[;
 //.0:0In the fireworks bright aura~[;
-.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ~[;
+.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ～[;
 #WRITE(RtPtr, $A44104)
 #WRITE(RtPtr, $A4459C)
 #WRITE(RtPtr, $A44A34)
@@ -6126,7 +6126,7 @@ and sing along![;
 // --- Literal
 //Ha~ Ah~[;
 // --- Edited
-.0:0Ｈａ~　Ａｈ~[;
+.0:0Ｈａ～　Ａｈ～[;
 #WRITE(RtPtr, $A44464)
 // 0x8067828
 //.0:0かんせい　あがる■[;
@@ -6135,7 +6135,7 @@ and sing along![;
 // --- Edited
 //.0:0The cheers go upward~[;
 //.0:0Up goes a cheer anew~[;
-.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ~[;
+.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ～[;
 #WRITE(RtPtr, $A448FC)
 // 0x8067840
 //.0:0にんき　あがれば■[;
@@ -6143,7 +6143,7 @@ and sing along![;
 //Ninki agareba~ (If popularity goes up)[;
 // --- Edited
 //.0:0If passions climb upward~[;
-.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ~[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ～[;
 #WRITE(RtPtr, $A44D94)
 // 0x8067858
 //.0:0きゅうりょう　あがる■[;
@@ -6151,7 +6151,7 @@ and sing along![;
 //Kyuuryou agaru~ (the wages/sales go up)[;
 // --- Edited
 //.0:0The sales will all go upward~[;
-.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ~[;
+.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ～[;
 #WRITE(RtPtr, $A451FC)
 // 0x8067874
 //.0:0まつりだ　わっしょい！[;
@@ -6196,7 +6196,7 @@ and sing along![;
 // --- Literal
 //Haa~  Bon-Odori[;
 // --- Edited
-.0:0Ｈａａ~　Ｂｏｎ　Ｏｄｏｒｉ[;
+.0:0Ｈａａ～　Ｂｏｎ　Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A45AF0)
 #WRITE(RtPtr, $A45B20)
 #WRITE(RtPtr, $A472C0)
@@ -6229,14 +6229,14 @@ and sing along![;
 // --- Literal
 //Ame ga agareba~ (When the rain stops)[;
 // --- Edited
-.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ~[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ～[;
 #WRITE(RtPtr, $A46498)
 // 0x80679c4
 //.0:0やぐらに　あがる■[;
 // --- Literal
 //Yagura ni agaru~ (go up to the turret/scaffold)[;
 // --- Edited
-.0:0Ｃｌｉｍｂ　ｕｐ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ~[;
+.0:0Ｃｌｉｍｂ　ｕｐ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ～[;
 #WRITE(RtPtr, $A468D0)
 // 0x80679dc
 //.0:0ほら！　まつりだ　わっしょい！[;
@@ -9615,14 +9615,14 @@ spirits, yay! (NP)[;
 // --- Literal
 //Haa~[;
 // --- Edited
-.0:0Ｈａ[;
+.0:0Ｈａ～[;
 #WRITE(RtPtr, $A67190)
 // 0x806a464
 //.0:0はなび　あがれば■[;
 // --- Literal
 //Hanabi agareba~ (When the fireworks go up)[;
 // --- Edited
-.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ[;
+.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ～[;
 #WRITE(RtPtr, $A672C8)
 #WRITE(RtPtr, $A67C4C)
 #WRITE(RtPtr, $A69464)
@@ -9651,14 +9651,14 @@ spirits, yay! (NP)[;
 // --- Literal
 //Ha~  Ah~[;
 // --- Edited
-.0:0Ｈａ　Ａｈ[;
+.0:0Ｈａ～　Ａｈ～[;
 #WRITE(RtPtr, $A67628)
 // 0x806a4f8
 //.0:0かんせい　あがる■[;
 // --- Literal
 //Kansei agaru~ (Cheers go up)[;
 // --- Edited
-.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ[;
+.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ～[;
 #WRITE(RtPtr, $A67760)
 #WRITE(RtPtr, $A680E4)
 #WRITE(RtPtr, $A698FC)
@@ -9683,14 +9683,14 @@ spirits, yay! (NP)[;
 // --- Literal
 //Ninki agareba~ (If popularity goes up)[;
 // --- Edited
-.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ～[;
 #WRITE(RtPtr, $A67FAC)
 // 0x806a594
 //.0:0きゅうりょう　あがる■[;
 // --- Literal
 //Kyuuryou agaru~ (The wages/income/sales increase)[;
 // --- Edited
-.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ[;
+.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ～[;
 #WRITE(RtPtr, $A68468)
 // 0x806a5b0
 //.0:0まつりだ　わっしょい！[;
@@ -9735,7 +9735,7 @@ spirits, yay! (NP)[;
 // --- Literal
 //Haa~ Bon-odori[;
 // --- Edited
-.0:0Ｈａａ~　Ｂｏｎ　Ｏｄｏｒｉ[;
+.0:0Ｈａａ～　Ｂｏｎ　Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A68DBC)
 #WRITE(RtPtr, $A6A640)
 #WRITE(RtPtr, $A6AAF0)
@@ -9769,14 +9769,14 @@ spirits, yay! (NP)[;
 // --- Literal
 //Ame ga agareba~ (When/if the rain stops)[;
 // --- Edited
-.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ～[;
 #WRITE(RtPtr, $A697C4)
 // 0x806a730
 //.0:0やぐらに　あがる■[;
 // --- Literal
 //Yagura ni agaru~ (go up to the turret/scaffold)[;
 // --- Edited
-.0:0Ｃｌｉｍｂ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ[;
+.0:0Ｃｌｉｍｂ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ～[;
 #WRITE(RtPtr, $A69C50)
 // 0x806a748
 //.0:0ほら！　まつりだ　わっしょい！[;
