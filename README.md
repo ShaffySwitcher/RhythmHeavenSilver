@@ -1,3 +1,8 @@
+# Discontinuation Notice
+
+Please check out [Rhythm Heaven Advance](https://github.com/ShaffySwitcher/RhythmHeavenAdvance) for a better localisation of Rhythm Tengoku,
+I am focusing all my focus on Advance now.
+
 # Rhythm Heaven Silver
 
 ![Rhythm Heaven Silver](media/rhs.png?raw=true "Rhythm Heaven Silver")
